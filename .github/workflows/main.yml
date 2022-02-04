@@ -23,6 +23,8 @@ jobs:
         rm MiuiEURepository/*/*/*.md
         python sync.py
         cd MiuiEURepository
+        git statue
+        git diff
     - name: commit
       run: |
         git config --global user.email 1169942595@qq.com
