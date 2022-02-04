@@ -1,7 +1,7 @@
 name: sync
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
         pip install requests	
     - name: sync
       run: |
-        ls
+        cd ../
         cp MiuiEURepository/sync.py .
         rm MiuiEURepository/*/*/*.md
         python sync.py
