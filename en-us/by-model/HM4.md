@@ -1,4 +1,6 @@
 # HM4
+# HM4
+[Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

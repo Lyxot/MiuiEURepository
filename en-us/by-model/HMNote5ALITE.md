@@ -1,4 +1,6 @@
 # HMNote5ALITE
+# HMNote5ALITE
+[Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

@@ -1,4 +1,6 @@
 # MI11Lite5G
+# MI11Lite5G
+[Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

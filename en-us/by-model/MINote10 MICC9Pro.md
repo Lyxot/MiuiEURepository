@@ -1,4 +1,6 @@
 # MINote10 MICC9Pro
+# MINote10 MICC9Pro
+[Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

@@ -1,6 +1,7 @@
 ## A Repository of MIUI EU 一个MIUI EU的收集仓库
 ### Pay attention to the type of package!
-### 注意刷机包的类型!(卡刷包/线刷包)[English](#Miui-EU-Repository)  [简体中文](#Miui-EU-收集仓库)
+### 注意刷机包的类型!(卡刷包/线刷包)
+[English](#Miui-EU-Repository)  [简体中文](#Miui-EU-收集仓库)
 ***
 # Miui EU Repository
 [Model](#Model)  [Version](#Version)

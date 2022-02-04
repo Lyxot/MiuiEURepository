@@ -1,4 +1,6 @@
 # MINote3
+# MINote3
+[Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
