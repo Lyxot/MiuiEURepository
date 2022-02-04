@@ -23,13 +23,12 @@ jobs:
         rm MiuiEURepository/*/*/*.md
         python sync.py
         cd MiuiEURepository
-        git diff
     - name: commit
       run: |
         git config --global user.email 1169942595@qq.com
         git config --global user.name A-JiuA
         git add .
-        git commit -m "autoupdate" -a
+        git commit -m "autoupdate" -a | exit
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
