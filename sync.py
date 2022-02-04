@@ -62,7 +62,6 @@ WEEKLY_source_list=sorted(WEEKLY_source_list,key=lambda date: date[2],reverse=Tr
 # version
 for i in versionL:
     with open('MiuiEURepository/zh-cn/by-version/'+i+'.md','w',encoding='utf-8') as f:
-        f.write('# '+i+'\n[开发版](#开发版)  [稳定版](#稳定版)\n')
         f.write('| 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for k in modelL:
             for j in source_list:
@@ -77,6 +76,7 @@ for i in versionL:
 for i in modelL:
     with open('MiuiEURepository/zh-cn/by-model/'+i+'.md','w',encoding='utf-8') as f:
         f.write('# '+i+'\n')
+        f.write('# '+i+'\n[开发版](#开发版)  [稳定版](#稳定版)\n')
         f.write('## 开发版\n')
         f.write('| 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for j in WEEKLY_source_list:
@@ -91,7 +91,6 @@ for i in modelL:
 # version
 for i in versionL:
     with open('MiuiEURepository/en-us/by-version/'+i+'.md','w',encoding='utf-8') as f:
-        f.write('# '+i+'\n[Weekly](#Weekly)  [Stable](#Stable)\n')
         f.write('| Model | Version | Last Updated | File Name | Size | Download Link |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for k in modelL:
             for j in source_list:
@@ -106,6 +105,7 @@ for i in versionL:
 for i in modelL:
     with open('MiuiEURepository/en-us/by-model/'+i+'.md','w',encoding='utf-8') as f:
         f.write('# '+i+'\n')
+        f.write('# '+i+'\n[Weekly](#Weekly)  [Stable](#Stable)\n')
         f.write('## Weekly\n')
         f.write('| Model | Version | Last Updated | File Name | Size | Download Link |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for j in WEEKLY_source_list:
@@ -120,7 +120,7 @@ for i in modelL:
 # readme
 with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## A Repository of MIUI EU 一个MIUI EU的收集仓库\n')
-    f.write('### Pay attention to the type of package!\n### 注意刷机包的类型!(卡刷包/线刷包)')
+    f.write('### Pay attention to the type of package!\n### 注意刷机包的类型!(卡刷包/线刷包)\n')
     f.write('[English](#Miui-EU-Repository)  [简体中文](#Miui-EU-收集仓库)\n***\n')
     f.write('# Miui EU Repository\n')
     f.write('[Model](#Model)  [Version](#Version)\n')
