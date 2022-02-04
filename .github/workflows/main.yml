@@ -18,6 +18,7 @@ jobs:
         pip install requests	
     - name: sync
       run: |
+        ls
         cp MiuiEURepository/sync.py .
         rm MiuiEURepository/*/*/*.md
         python sync.py
