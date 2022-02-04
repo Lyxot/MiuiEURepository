@@ -23,7 +23,6 @@ jobs:
         rm MiuiEURepository/*/*/*.md
         python sync.py
         cd MiuiEURepository
-        git statue
         git diff
     - name: commit
       run: |
