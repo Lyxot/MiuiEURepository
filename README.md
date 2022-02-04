@@ -6,7 +6,7 @@
 ## Model
 [Xiaomi](#Xiaomi)  [Redmi](#Redmi)  [Others](#Others)
 ### Xiaomi
-| |
+| | | |
 | ---- | ---- | ---- |
 | [XM11TPro](/en-us/by-model/XM11TPro.md) | [MI11LE XM11Lite5GNE](/en-us/by-model/MI11LE%20XM11Lite5GNE.md) | [XMCivi](/en-us/by-model/XMCivi.md) |
 | [MIX4](/en-us/by-model/MIX4.md) | [MI11Lite5G](/en-us/by-model/MI11Lite5G.md) | [MI11Pro MI11Ultra](/en-us/by-model/MI11Pro%20MI11Ultra.md) |
@@ -28,7 +28,7 @@
 | [MI5S](/en-us/by-model/MI5S.md) | [MI5SPlus](/en-us/by-model/MI5SPlus.md) | [MI4s](/en-us/by-model/MI4s.md) |
 | [MI4c](/en-us/by-model/MI4c.md)  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### Redmi
-| |
+| | | |
 | ---- | ---- | ---- |
 | [HMK40 POCOF3](/en-us/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/en-us/by-model/HMK40Pro%20MI11i.md) | [HMK40](/en-us/by-model/HMK40.md) |
 | [HMNote10Pro](/en-us/by-model/HMNote10Pro.md) | [HMNote10](/en-us/by-model/HMNote10.md) | [HMNote9Pro5G MI10TLite](/en-us/by-model/HMNote9Pro5G%20MI10TLite.md) |
@@ -47,14 +47,14 @@
 | [HMNote4X](/en-us/by-model/HMNote4X.md) | [HM4](/en-us/by-model/HM4.md) | [HM4A](/en-us/by-model/HM4A.md) |
  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### Others
-| |
+| | | |
 | ---- | ---- | ---- |
 | [POCOX3Pro](/en-us/by-model/POCOX3Pro.md) | [POCOM3](/en-us/by-model/POCOM3.md) | [POCOX3NFC](/en-us/by-model/POCOX3NFC.md) |
 | [POCOF1](/en-us/by-model/POCOF1.md)  | | |
 ## Version
 [Weekly](#Weekly)  [Stable](#Stable)
 ### Weekly
-| |
+| | | |
 | ---- | ---- | ---- |
 | [22.1.22](/en-us/by-version/22.1.22.md) | [22.1.19](/en-us/by-version/22.1.19.md) | [22.1.13](/en-us/by-version/22.1.13.md) |
 | [22.1.6](/en-us/by-version/22.1.6.md) | [22.1.5](/en-us/by-version/22.1.5.md) | [21.12.30](/en-us/by-version/21.12.30.md) |
@@ -163,7 +163,7 @@
 | [7.7.20](/en-us/by-version/7.7.20.md) | [7.7.17](/en-us/by-version/7.7.17.md) | [7.7.15](/en-us/by-version/7.7.15.md) |
 | [7.7.14](/en-us/by-version/7.7.14.md) | [7.7.13](/en-us/by-version/7.7.13.md)  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### Stable
-| |
+| | | |
 | ---- | ---- | ---- |
 | [V13.0.9.0](/en-us/by-version/V13.0.9.0.md) | [V13.0.6.0](/en-us/by-version/V13.0.6.0.md) | [V13.0.5.0](/en-us/by-version/V13.0.5.0.md) |
 | [V13.0.4.0](/en-us/by-version/V13.0.4.0.md) | [V13.0.3.0](/en-us/by-version/V13.0.3.0.md) | [V13.0.2.0](/en-us/by-version/V13.0.2.0.md) |
@@ -233,7 +233,7 @@
 ## 机型
 [小米](#小米)  [红米](#红米)  [其它](#其它)
 ### 小米
-| |
+| | | |
 | ---- | ---- | ---- |
 | [XM11TPro](/zh-cn/by-model/XM11TPro.md) | [MI11LE XM11Lite5GNE](/zh-cn/by-model/MI11LE%20XM11Lite5GNE.md) | [XMCivi](/zh-cn/by-model/XMCivi.md) |
 | [MIX4](/zh-cn/by-model/MIX4.md) | [MI11Lite5G](/zh-cn/by-model/MI11Lite5G.md) | [MI11Pro MI11Ultra](/zh-cn/by-model/MI11Pro%20MI11Ultra.md) |
@@ -255,7 +255,7 @@
 | [MI5S](/zh-cn/by-model/MI5S.md) | [MI5SPlus](/zh-cn/by-model/MI5SPlus.md) | [MI4s](/zh-cn/by-model/MI4s.md) |
 | [MI4c](/zh-cn/by-model/MI4c.md)  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### 红米
-| |
+| | | |
 | ---- | ---- | ---- |
 | [HMK40 POCOF3](/zh-cn/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/zh-cn/by-model/HMK40Pro%20MI11i.md) | [HMK40](/zh-cn/by-model/HMK40.md) |
 | [HMNote10Pro](/zh-cn/by-model/HMNote10Pro.md) | [HMNote10](/zh-cn/by-model/HMNote10.md) | [HMNote9Pro5G MI10TLite](/zh-cn/by-model/HMNote9Pro5G%20MI10TLite.md) |
@@ -274,14 +274,14 @@
 | [HMNote4X](/zh-cn/by-model/HMNote4X.md) | [HM4](/zh-cn/by-model/HM4.md) | [HM4A](/zh-cn/by-model/HM4A.md) |
  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### 其它
-| |
+| | | |
 | ---- | ---- | ---- |
 | [POCOX3Pro](/zh-cn/by-model/POCOX3Pro.md) | [POCOM3](/zh-cn/by-model/POCOM3.md) | [POCOX3NFC](/zh-cn/by-model/POCOX3NFC.md) |
 | [POCOF1](/zh-cn/by-model/POCOF1.md)  | | |
 ## 版本
 [开发版](#开发版)  [稳定版](#稳定版)
 ### 开发版
-| |
+| | | |
 | ---- | ---- | ---- |
 | [22.1.22](/zh-cn/by-version/22.1.22.md) | [22.1.19](/zh-cn/by-version/22.1.19.md) | [22.1.13](/zh-cn/by-version/22.1.13.md) |
 | [22.1.6](/zh-cn/by-version/22.1.6.md) | [22.1.5](/zh-cn/by-version/22.1.5.md) | [21.12.30](/zh-cn/by-version/21.12.30.md) |
@@ -390,7 +390,7 @@
 | [7.7.20](/zh-cn/by-version/7.7.20.md) | [7.7.17](/zh-cn/by-version/7.7.17.md) | [7.7.15](/zh-cn/by-version/7.7.15.md) |
 | [7.7.14](/zh-cn/by-version/7.7.14.md) | [7.7.13](/zh-cn/by-version/7.7.13.md)  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ### 稳定版
-| |
+| | | |
 | ---- | ---- | ---- |
 | [V13.0.9.0](/zh-cn/by-version/V13.0.9.0.md) | [V13.0.6.0](/zh-cn/by-version/V13.0.6.0.md) | [V13.0.5.0](/zh-cn/by-version/V13.0.5.0.md) |
 | [V13.0.4.0](/zh-cn/by-version/V13.0.4.0.md) | [V13.0.3.0](/zh-cn/by-version/V13.0.3.0.md) | [V13.0.2.0](/zh-cn/by-version/V13.0.2.0.md) |
