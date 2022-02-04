@@ -25,10 +25,11 @@ jobs:
         cd MiuiEURepository
     - name: commit
       run: |
+        if [$(git diff) -q ''];then exit;fi
         git config --global user.email 1169942595@qq.com
         git config --global user.name A-JiuA
         git add .
-        git commit -m "autoupdate" -a || exit
+        git commit -m "autoupdate" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
