@@ -158,25 +158,25 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## Version\n')
     f.write('[Weekly](#Weekly)  [Stable](#Stable)\n')
     f.write('### Weekly\n')
-    f.write('| | | |\n| ---- | ---- | ---- |\n')
+    f.write('| | | | | |\n| ---- | ---- | ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if not 'V' in i:
             c+=1
             f.write('| ['+i+'](/en-us/by-version/'+i+'.md) ')
-            if c % 3 ==0:
+            if c % 5 ==0:
                 f.write('|\n')
-    f.write(' |'*(3-c%3)+'\n')
+    f.write(' |'*(5-c%5)+'\n')
     f.write('### Stable\n')
-    f.write('| | | |\n| ---- | ---- | ---- |\n')
+    f.write('| | | | | |\n| ---- | ---- | ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if 'V' in i:
             c+=1
             f.write('| ['+i+'](/en-us/by-version/'+i+'.md) ')
-            if c % 3 ==0:
+            if c % 5 ==0:
                 f.write('|\n')
-    f.write(' |'*(3-c%3)+'\n')
+    f.write(' |'*(5-c%5)+'\n')
     f.write('# Miui EU 收集仓库\n')
     f.write('[机型](#机型)  [版本](#版本)\n')
     f.write('## 机型\n')
@@ -214,22 +214,22 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## 版本\n')
     f.write('[开发版](#开发版)  [稳定版](#稳定版)\n')
     f.write('### 开发版\n')
-    f.write('| | | |\n| ---- | ---- | ---- |\n')
+    f.write('| | | | | |\n| ---- | ---- | ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if not 'V' in i:
             c+=1
             f.write('| ['+i+'](/zh-cn/by-version/'+i+'.md) ')
-            if c % 3 ==0:
+            if c % 5 ==0:
                 f.write('|\n')
-    f.write(' |'*(3-c%3)+'\n')
+    f.write(' |'*(5-c%5)+'\n')
     f.write('### 稳定版\n')
-    f.write('| | | |\n| ---- | ---- | ---- |\n')
+    f.write('| | | | | |\n| ---- | ---- | ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if 'V' in i:
             c+=1
             f.write('| ['+i+'](/zh-cn/by-version/'+i+'.md) ')
-            if c % 3 ==0:
+            if c % 5 ==0:
                 f.write('|\n')
-    f.write(' |'*(3-c%3)+'\n')
+    f.write(' |'*(5-c%5)+'\n')
