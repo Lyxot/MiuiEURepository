@@ -120,6 +120,7 @@ for i in modelL:
 # readme
 with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## A Repository of MIUI EU 一个MIUI EU的收集仓库\n')
+    f.write('### Pay attention to the type of package!\n### 注意刷机包的类型!(卡刷包/线刷包)')
     f.write('[English](#Miui-EU-Repository)  [简体中文](#Miui-EU-收集仓库)\n***\n')
     f.write('# Miui EU Repository\n')
     f.write('[Model](#Model)  [Version](#Version)\n')
