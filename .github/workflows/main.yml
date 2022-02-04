@@ -5,30 +5,33 @@ on:
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: checkout actions
-      - uses: actions/checkout@v1
-
-      - name: Set up Python 3.7
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.7
-        
-      - name: Setup environment
-        run: pip3 install requests && git clone https://github.com/A-JiuA/MiuiEURepository.git && cp MiuiEURepository/sync.py . && rm MiuiEURepository/*/*/*.md
-
-      - name: Run script
-        run: python3 MiuiEURepository/sync.py
-      
-      - name: Commit files
-        run: |
-          cd MiuiEURepository
-          git config --local user.email "1169942595@qq.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Add changes" -a
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: checkout actions
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+		
+    - name: sync
+      run: |
+        cp MiuiEURepository/sync.py .
+        rm MiuiEURepository/*/*/*.md
+        python sync.py
+        cd MiuiEURepository
+		
+    - name: commit
+      run: |
+        git config --global user.email 1169942595@qq.com
+        git config --global user.name A-JiuA
+        git add .
+        git commit -m "update" -a
+		
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
