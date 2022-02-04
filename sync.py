@@ -62,7 +62,7 @@ WEEKLY_source_list=sorted(WEEKLY_source_list,key=lambda date: date[2],reverse=Tr
 # version
 for i in versionL:
     with open('MiuiEURepository/zh-cn/by-version/'+i+'.md','w',encoding='utf-8') as f:
-        f.write('# '+i+'\n')
+        f.write('# '+i+'\n[开发版](#开发版)  [稳定版](#稳定版)\n')
         f.write('| 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for k in modelL:
             for j in source_list:
@@ -91,7 +91,7 @@ for i in modelL:
 # version
 for i in versionL:
     with open('MiuiEURepository/en-us/by-version/'+i+'.md','w',encoding='utf-8') as f:
-        f.write('# '+i+'\n')
+        f.write('# '+i+'\n[Weekly](#Weekly)  [Stable](#Stable)\n')
         f.write('| Model | Version | Last Updated | File Name | Size | Download Link |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n')
         for k in modelL:
             for j in source_list:
