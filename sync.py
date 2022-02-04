@@ -126,7 +126,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## Model\n')
     f.write('[Xiaomi](#Xiaomi)  [Redmi](#Redmi)  [Others](#Others)\n')
     f.write('### Xiaomi\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if 'MI' in i or 'XM' in i:
@@ -136,7 +136,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### Redmi\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if 'HM' in i:
@@ -146,7 +146,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### Others\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if (not 'HM' in i) and (not 'MI' in i) and (not 'XM' in i):
@@ -158,7 +158,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## Version\n')
     f.write('[Weekly](#Weekly)  [Stable](#Stable)\n')
     f.write('### Weekly\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if not 'V' in i:
@@ -168,7 +168,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### Stable\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if 'V' in i:
@@ -182,7 +182,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## 机型\n')
     f.write('[小米](#小米)  [红米](#红米)  [其它](#其它)\n')
     f.write('### 小米\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if 'MI' in i or 'XM' in i:
@@ -192,7 +192,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### 红米\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if 'HM' in i:
@@ -202,7 +202,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### 其它\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in modelL:
         if (not 'HM' in i) and (not 'MI' in i) and (not 'XM' in i):
@@ -214,7 +214,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
     f.write('## 版本\n')
     f.write('[开发版](#开发版)  [稳定版](#稳定版)\n')
     f.write('### 开发版\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if not 'V' in i:
@@ -224,7 +224,7 @@ with open('MiuiEURepository/README.md','w',encoding='utf-8') as f:
                 f.write('|\n')
     f.write(' |'*(c-c%3)+'\n')
     f.write('### 稳定版\n')
-    f.write('| |\n| ---- | ---- | ---- |\n')
+    f.write('| | | |\n| ---- | ---- | ---- |\n')
     c=0
     for i in versionL:
         if 'V' in i:
