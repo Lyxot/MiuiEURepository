@@ -5,6 +5,7 @@
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MIMAX2 | 9.8.29 | 2019-08-31 02:42:24 UTC | xiaomi.eu_multi_MIMAX2_9.8.29_v10-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.29/xiaomi.eu_multi_MIMAX2_9.8.29_v10-7.1.zip/download) |
+| MIMAX2 | 9.8.22 | 2019-08-22 20:13:32 UTC | xiaomi.eu_multi_MIMAX2_9.8.22_v10-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.22/xiaomi.eu_multi_MIMAX2_9.8.22_v10-7.1.zip/download) |
 | MIMAX2 | 9.8.15 | 2019-08-15 20:23:05 UTC | xiaomi.eu_multi_MIMAX2_9.8.15_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.15/xiaomi.eu_multi_MIMAX2_9.8.15_v10-7.1.zip/download) |
 | MIMAX2 | 9.8.8 | 2019-08-09 01:49:30 UTC | xiaomi.eu_multi_MIMAX2_9.8.8_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.8/xiaomi.eu_multi_MIMAX2_9.8.8_v10-7.1.zip/download) |
 | MIMAX2 | 9.8.1 | 2019-08-02 02:55:48 UTC | xiaomi.eu_multi_MIMAX2_9.8.1_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.1/xiaomi.eu_multi_MIMAX2_9.8.1_v10-7.1.zip/download) |
