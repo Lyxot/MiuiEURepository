@@ -10,25 +10,26 @@
 ### Xiaomi
 | | | |
 | ---- | ---- | ---- |
-| [XM12](/en-us/by-model/XM12.md) | [XM11TPro](/en-us/by-model/XM11TPro.md) | [MI11LE XM11Lite5GNE](/en-us/by-model/MI11LE%20XM11Lite5GNE.md) |
-| [XMCivi](/en-us/by-model/XMCivi.md) | [MIX4](/en-us/by-model/MIX4.md) | [MI11Lite5G](/en-us/by-model/MI11Lite5G.md) |
-| [MI11Pro MI11Ultra](/en-us/by-model/MI11Pro%20MI11Ultra.md) | [MI11Lite](/en-us/by-model/MI11Lite.md) | [HMK40Pro MI11i](/en-us/by-model/HMK40Pro%20MI11i.md) |
-| [MI10S](/en-us/by-model/MI10S.md) | [MI11](/en-us/by-model/MI11.md) | [HMNote9Pro5G MI10TLite](/en-us/by-model/HMNote9Pro5G%20MI10TLite.md) |
-| [MI10TPro](/en-us/by-model/MI10TPro.md) | [HMK30SUltra MI10T](/en-us/by-model/HMK30SUltra%20MI10T.md) | [MI10Ultra](/en-us/by-model/MI10Ultra.md) |
-| [MI10LITE5G](/en-us/by-model/MI10LITE5G.md) | [MI10LiteZoom](/en-us/by-model/MI10LiteZoom.md) | [MINote10LITE](/en-us/by-model/MINote10LITE.md) |
-| [MI10](/en-us/by-model/MI10.md) | [MI10Pro](/en-us/by-model/MI10Pro.md) | [MICC9e](/en-us/by-model/MICC9e.md) |
-| [MINote10 MICC9Pro](/en-us/by-model/MINote10%20MICC9Pro.md) | [MI9Pro5G](/en-us/by-model/MI9Pro5G.md) | [MI9LiteMICC9](/en-us/by-model/MI9LiteMICC9.md) |
-| [MICC9](/en-us/by-model/MICC9.md) | [HMK20MI9T](/en-us/by-model/HMK20MI9T.md) | [HMK20ProMI9TPro](/en-us/by-model/HMK20ProMI9TPro.md) |
-| [MIMix35G](/en-us/by-model/MIMix35G.md) | [MI9SE](/en-us/by-model/MI9SE.md) | [MI9](/en-us/by-model/MI9.md) |
-| [MIMix3](/en-us/by-model/MIMix3.md) | [MIPAD4](/en-us/by-model/MIPAD4.md) | [MI8Pro](/en-us/by-model/MI8Pro.md) |
-| [MI8LITE](/en-us/by-model/MI8LITE.md) | [MIMAX3](/en-us/by-model/MIMAX3.md) | [MI8Explorer](/en-us/by-model/MI8Explorer.md) |
-| [MIMix2S](/en-us/by-model/MIMix2S.md) | [MI8SE](/en-us/by-model/MI8SE.md) | [MI8](/en-us/by-model/MI8.md) |
-| [MI6X](/en-us/by-model/MI6X.md) | [MINote3](/en-us/by-model/MINote3.md) | [MIMix2](/en-us/by-model/MIMix2.md) |
-| [MINotePro](/en-us/by-model/MINotePro.md) | [MI5X](/en-us/by-model/MI5X.md) | [MI6](/en-us/by-model/MI6.md) |
-| [MINote2](/en-us/by-model/MINote2.md) | [MIMix](/en-us/by-model/MIMix.md) | [MIMAX](/en-us/by-model/MIMAX.md) |
-| [MIMAXPro](/en-us/by-model/MIMAXPro.md) | [MIMAX2](/en-us/by-model/MIMAX2.md) | [MI5c](/en-us/by-model/MI5c.md) |
-| [MI5](/en-us/by-model/MI5.md) | [MI5S](/en-us/by-model/MI5S.md) | [MI5SPlus](/en-us/by-model/MI5SPlus.md) |
-| [MI4s](/en-us/by-model/MI4s.md) | [MI4c](/en-us/by-model/MI4c.md)  |
+| [XM12Pro](/en-us/by-model/XM12Pro.md) | [XM12](/en-us/by-model/XM12.md) | [XM11TPro](/en-us/by-model/XM11TPro.md) |
+| [MI11LE XM11Lite5GNE](/en-us/by-model/MI11LE%20XM11Lite5GNE.md) | [XMCivi](/en-us/by-model/XMCivi.md) | [MIX4](/en-us/by-model/MIX4.md) |
+| [MI11Lite5G](/en-us/by-model/MI11Lite5G.md) | [MI11Pro MI11Ultra](/en-us/by-model/MI11Pro%20MI11Ultra.md) | [MI11Lite](/en-us/by-model/MI11Lite.md) |
+| [HMK40Pro MI11i](/en-us/by-model/HMK40Pro%20MI11i.md) | [MI10S](/en-us/by-model/MI10S.md) | [MI11](/en-us/by-model/MI11.md) |
+| [HMNote9Pro5G MI10TLite](/en-us/by-model/HMNote9Pro5G%20MI10TLite.md) | [MI10TPro](/en-us/by-model/MI10TPro.md) | [HMK30SUltra MI10T](/en-us/by-model/HMK30SUltra%20MI10T.md) |
+| [MI10Ultra](/en-us/by-model/MI10Ultra.md) | [MI10LITE5G](/en-us/by-model/MI10LITE5G.md) | [MI10LiteZoom](/en-us/by-model/MI10LiteZoom.md) |
+| [MINote10LITE](/en-us/by-model/MINote10LITE.md) | [MI10](/en-us/by-model/MI10.md) | [MI10Pro](/en-us/by-model/MI10Pro.md) |
+| [MICC9e](/en-us/by-model/MICC9e.md) | [MINote10 MICC9Pro](/en-us/by-model/MINote10%20MICC9Pro.md) | [MI9Pro5G](/en-us/by-model/MI9Pro5G.md) |
+| [MI9LiteMICC9](/en-us/by-model/MI9LiteMICC9.md) | [MICC9](/en-us/by-model/MICC9.md) | [HMK20MI9T](/en-us/by-model/HMK20MI9T.md) |
+| [HMK20ProMI9TPro](/en-us/by-model/HMK20ProMI9TPro.md) | [MIMix35G](/en-us/by-model/MIMix35G.md) | [MI9SE](/en-us/by-model/MI9SE.md) |
+| [MI9](/en-us/by-model/MI9.md) | [MIMix3](/en-us/by-model/MIMix3.md) | [MIPAD4](/en-us/by-model/MIPAD4.md) |
+| [MI8Pro](/en-us/by-model/MI8Pro.md) | [MI8LITE](/en-us/by-model/MI8LITE.md) | [MIMAX3](/en-us/by-model/MIMAX3.md) |
+| [MI8Explorer](/en-us/by-model/MI8Explorer.md) | [MIMix2S](/en-us/by-model/MIMix2S.md) | [MI8SE](/en-us/by-model/MI8SE.md) |
+| [MI8](/en-us/by-model/MI8.md) | [MI6X](/en-us/by-model/MI6X.md) | [MINote3](/en-us/by-model/MINote3.md) |
+| [MIMix2](/en-us/by-model/MIMix2.md) | [MINotePro](/en-us/by-model/MINotePro.md) | [MI5X](/en-us/by-model/MI5X.md) |
+| [MI6](/en-us/by-model/MI6.md) | [MINote2](/en-us/by-model/MINote2.md) | [MIMix](/en-us/by-model/MIMix.md) |
+| [MIMAX](/en-us/by-model/MIMAX.md) | [MIMAXPro](/en-us/by-model/MIMAXPro.md) | [MIMAX2](/en-us/by-model/MIMAX2.md) |
+| [MI5c](/en-us/by-model/MI5c.md) | [MI5](/en-us/by-model/MI5.md) | [MI5S](/en-us/by-model/MI5S.md) |
+| [MI5SPlus](/en-us/by-model/MI5SPlus.md) | [MI4s](/en-us/by-model/MI4s.md) | [MI4c](/en-us/by-model/MI4c.md) |
+ | | |
 ### Redmi
 | | | |
 | ---- | ---- | ---- |
@@ -170,25 +171,26 @@
 ### 小米
 | | | |
 | ---- | ---- | ---- |
-| [XM12](/zh-cn/by-model/XM12.md) | [XM11TPro](/zh-cn/by-model/XM11TPro.md) | [MI11LE XM11Lite5GNE](/zh-cn/by-model/MI11LE%20XM11Lite5GNE.md) |
-| [XMCivi](/zh-cn/by-model/XMCivi.md) | [MIX4](/zh-cn/by-model/MIX4.md) | [MI11Lite5G](/zh-cn/by-model/MI11Lite5G.md) |
-| [MI11Pro MI11Ultra](/zh-cn/by-model/MI11Pro%20MI11Ultra.md) | [MI11Lite](/zh-cn/by-model/MI11Lite.md) | [HMK40Pro MI11i](/zh-cn/by-model/HMK40Pro%20MI11i.md) |
-| [MI10S](/zh-cn/by-model/MI10S.md) | [MI11](/zh-cn/by-model/MI11.md) | [HMNote9Pro5G MI10TLite](/zh-cn/by-model/HMNote9Pro5G%20MI10TLite.md) |
-| [MI10TPro](/zh-cn/by-model/MI10TPro.md) | [HMK30SUltra MI10T](/zh-cn/by-model/HMK30SUltra%20MI10T.md) | [MI10Ultra](/zh-cn/by-model/MI10Ultra.md) |
-| [MI10LITE5G](/zh-cn/by-model/MI10LITE5G.md) | [MI10LiteZoom](/zh-cn/by-model/MI10LiteZoom.md) | [MINote10LITE](/zh-cn/by-model/MINote10LITE.md) |
-| [MI10](/zh-cn/by-model/MI10.md) | [MI10Pro](/zh-cn/by-model/MI10Pro.md) | [MICC9e](/zh-cn/by-model/MICC9e.md) |
-| [MINote10 MICC9Pro](/zh-cn/by-model/MINote10%20MICC9Pro.md) | [MI9Pro5G](/zh-cn/by-model/MI9Pro5G.md) | [MI9LiteMICC9](/zh-cn/by-model/MI9LiteMICC9.md) |
-| [MICC9](/zh-cn/by-model/MICC9.md) | [HMK20MI9T](/zh-cn/by-model/HMK20MI9T.md) | [HMK20ProMI9TPro](/zh-cn/by-model/HMK20ProMI9TPro.md) |
-| [MIMix35G](/zh-cn/by-model/MIMix35G.md) | [MI9SE](/zh-cn/by-model/MI9SE.md) | [MI9](/zh-cn/by-model/MI9.md) |
-| [MIMix3](/zh-cn/by-model/MIMix3.md) | [MIPAD4](/zh-cn/by-model/MIPAD4.md) | [MI8Pro](/zh-cn/by-model/MI8Pro.md) |
-| [MI8LITE](/zh-cn/by-model/MI8LITE.md) | [MIMAX3](/zh-cn/by-model/MIMAX3.md) | [MI8Explorer](/zh-cn/by-model/MI8Explorer.md) |
-| [MIMix2S](/zh-cn/by-model/MIMix2S.md) | [MI8SE](/zh-cn/by-model/MI8SE.md) | [MI8](/zh-cn/by-model/MI8.md) |
-| [MI6X](/zh-cn/by-model/MI6X.md) | [MINote3](/zh-cn/by-model/MINote3.md) | [MIMix2](/zh-cn/by-model/MIMix2.md) |
-| [MINotePro](/zh-cn/by-model/MINotePro.md) | [MI5X](/zh-cn/by-model/MI5X.md) | [MI6](/zh-cn/by-model/MI6.md) |
-| [MINote2](/zh-cn/by-model/MINote2.md) | [MIMix](/zh-cn/by-model/MIMix.md) | [MIMAX](/zh-cn/by-model/MIMAX.md) |
-| [MIMAXPro](/zh-cn/by-model/MIMAXPro.md) | [MIMAX2](/zh-cn/by-model/MIMAX2.md) | [MI5c](/zh-cn/by-model/MI5c.md) |
-| [MI5](/zh-cn/by-model/MI5.md) | [MI5S](/zh-cn/by-model/MI5S.md) | [MI5SPlus](/zh-cn/by-model/MI5SPlus.md) |
-| [MI4s](/zh-cn/by-model/MI4s.md) | [MI4c](/zh-cn/by-model/MI4c.md)  |
+| [XM12Pro](/zh-cn/by-model/XM12Pro.md) | [XM12](/zh-cn/by-model/XM12.md) | [XM11TPro](/zh-cn/by-model/XM11TPro.md) |
+| [MI11LE XM11Lite5GNE](/zh-cn/by-model/MI11LE%20XM11Lite5GNE.md) | [XMCivi](/zh-cn/by-model/XMCivi.md) | [MIX4](/zh-cn/by-model/MIX4.md) |
+| [MI11Lite5G](/zh-cn/by-model/MI11Lite5G.md) | [MI11Pro MI11Ultra](/zh-cn/by-model/MI11Pro%20MI11Ultra.md) | [MI11Lite](/zh-cn/by-model/MI11Lite.md) |
+| [HMK40Pro MI11i](/zh-cn/by-model/HMK40Pro%20MI11i.md) | [MI10S](/zh-cn/by-model/MI10S.md) | [MI11](/zh-cn/by-model/MI11.md) |
+| [HMNote9Pro5G MI10TLite](/zh-cn/by-model/HMNote9Pro5G%20MI10TLite.md) | [MI10TPro](/zh-cn/by-model/MI10TPro.md) | [HMK30SUltra MI10T](/zh-cn/by-model/HMK30SUltra%20MI10T.md) |
+| [MI10Ultra](/zh-cn/by-model/MI10Ultra.md) | [MI10LITE5G](/zh-cn/by-model/MI10LITE5G.md) | [MI10LiteZoom](/zh-cn/by-model/MI10LiteZoom.md) |
+| [MINote10LITE](/zh-cn/by-model/MINote10LITE.md) | [MI10](/zh-cn/by-model/MI10.md) | [MI10Pro](/zh-cn/by-model/MI10Pro.md) |
+| [MICC9e](/zh-cn/by-model/MICC9e.md) | [MINote10 MICC9Pro](/zh-cn/by-model/MINote10%20MICC9Pro.md) | [MI9Pro5G](/zh-cn/by-model/MI9Pro5G.md) |
+| [MI9LiteMICC9](/zh-cn/by-model/MI9LiteMICC9.md) | [MICC9](/zh-cn/by-model/MICC9.md) | [HMK20MI9T](/zh-cn/by-model/HMK20MI9T.md) |
+| [HMK20ProMI9TPro](/zh-cn/by-model/HMK20ProMI9TPro.md) | [MIMix35G](/zh-cn/by-model/MIMix35G.md) | [MI9SE](/zh-cn/by-model/MI9SE.md) |
+| [MI9](/zh-cn/by-model/MI9.md) | [MIMix3](/zh-cn/by-model/MIMix3.md) | [MIPAD4](/zh-cn/by-model/MIPAD4.md) |
+| [MI8Pro](/zh-cn/by-model/MI8Pro.md) | [MI8LITE](/zh-cn/by-model/MI8LITE.md) | [MIMAX3](/zh-cn/by-model/MIMAX3.md) |
+| [MI8Explorer](/zh-cn/by-model/MI8Explorer.md) | [MIMix2S](/zh-cn/by-model/MIMix2S.md) | [MI8SE](/zh-cn/by-model/MI8SE.md) |
+| [MI8](/zh-cn/by-model/MI8.md) | [MI6X](/zh-cn/by-model/MI6X.md) | [MINote3](/zh-cn/by-model/MINote3.md) |
+| [MIMix2](/zh-cn/by-model/MIMix2.md) | [MINotePro](/zh-cn/by-model/MINotePro.md) | [MI5X](/zh-cn/by-model/MI5X.md) |
+| [MI6](/zh-cn/by-model/MI6.md) | [MINote2](/zh-cn/by-model/MINote2.md) | [MIMix](/zh-cn/by-model/MIMix.md) |
+| [MIMAX](/zh-cn/by-model/MIMAX.md) | [MIMAXPro](/zh-cn/by-model/MIMAXPro.md) | [MIMAX2](/zh-cn/by-model/MIMAX2.md) |
+| [MI5c](/zh-cn/by-model/MI5c.md) | [MI5](/zh-cn/by-model/MI5.md) | [MI5S](/zh-cn/by-model/MI5S.md) |
+| [MI5SPlus](/zh-cn/by-model/MI5SPlus.md) | [MI4s](/zh-cn/by-model/MI4s.md) | [MI4c](/zh-cn/by-model/MI4c.md) |
+ | | |
 ### 红米
 | | | |
 | ---- | ---- | ---- |
