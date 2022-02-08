@@ -20,6 +20,7 @@ jobs:
       run: |
         cp sync.py ../
         rm -rf *
+        cp ../sync.py .
         mkdir en-us zh-cn
         mkdir en-us/by-version en-us/by-model zh-cn/by-version zh-cn/by-model 
         cd ../
