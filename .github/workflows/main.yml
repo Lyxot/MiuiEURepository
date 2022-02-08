@@ -18,8 +18,11 @@ jobs:
         pip install requests	
     - name: sync
       run: |
+        cp sync.py ../
+        rm -rf *
+        mkdir en-us zh-cn
+        mkdir en-us/by-version en-us/by-model zh-cn/by-version zh-cn/by-model 
         cd ../
-        cp MiuiEURepository/sync.py .
         python sync.py
         cd MiuiEURepository
     - name: commit
