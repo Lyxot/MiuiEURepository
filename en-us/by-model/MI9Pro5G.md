@@ -1,5 +1,4 @@
 # MI9Pro5G
-# MI9Pro5G
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

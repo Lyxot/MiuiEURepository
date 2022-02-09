@@ -1,5 +1,4 @@
 # MI11Pro MI11Ultra
-# MI11Pro MI11Ultra
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

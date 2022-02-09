@@ -1,5 +1,4 @@
 # HMNote9Pro HMNote9S
-# HMNote9Pro HMNote9S
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

@@ -1,5 +1,4 @@
 # MI5X
-# MI5X
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

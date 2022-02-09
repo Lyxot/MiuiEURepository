@@ -1,5 +1,4 @@
 # HMK40Pro MI11i
-# HMK40Pro MI11i
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

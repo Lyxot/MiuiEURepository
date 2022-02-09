@@ -1,5 +1,4 @@
 # HMK30SUltra MI10T
-# HMK30SUltra MI10T
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |

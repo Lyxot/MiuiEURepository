@@ -1,5 +1,4 @@
 # MI11LE XM11Lite5GNE
-# MI11LE XM11Lite5GNE
 [Weekly](#Weekly)  [Stable](#Stable)
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
