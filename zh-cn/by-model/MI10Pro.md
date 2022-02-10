@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10Pro | 22.2.9 | 2022-02-10 16:47:53 UTC | xiaomi.eu_multi_MI10Pro_22.2.9_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.2.9/xiaomi.eu_multi_MI10Pro_22.2.9_v13-12-fastboot.zip/download) |
 | MI10Pro | 22.1.19 | 2022-01-20 16:23:26 UTC | xiaomi.eu_multi_MI10Pro_22.1.19_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.1.19/xiaomi.eu_multi_MI10Pro_22.1.19_v13-12-fastboot.zip/download) |
 | MI10Pro | 22.1.13 | 2022-01-13 17:20:40 UTC | xiaomi.eu_multi_MI10Pro_22.1.13_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.1.13/xiaomi.eu_multi_MI10Pro_22.1.13_v13-12-fastboot.zip/download) |
 | MI10Pro | 22.1.5 | 2022-01-06 12:11:02 UTC | xiaomi.eu_multi_MI10Pro_22.1.5_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.1.5/xiaomi.eu_multi_MI10Pro_22.1.5_v13-12-fastboot.zip/download) |
