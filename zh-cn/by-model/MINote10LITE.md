@@ -6,7 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MINote10LITE | V12.5.7.0.RFNMIXM | 2022-02-12 15:46:50 UTC | xiaomi.eu_multi_MINote10LITE_V12.5.7.0.RFNMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MINote10LITE_V12.5.7.0.RFNMIXM_v12-11.zip/download) |
+| MINote10LITE | V12.5.7.0.RFNMIXM | 2022-02-13 20:09:53 UTC | xiaomi.eu_multi_MINote10LITE_V12.5.7.0.RFNMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MINote10LITE_V12.5.7.0.RFNMIXM_v12-11.zip/download) |
 | MINote10LITE | V12.5.4.0.RFNMIXM | 2021-12-15 17:06:58 UTC | xiaomi.eu_multi_MINote10LITE_V12.5.4.0.RFNMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MINote10LITE_V12.5.4.0.RFNMIXM_v12-11.zip/download) |
 | MINote10LITE | V12.5.3.0.RFNMIXM | 2021-10-13 13:11:54 UTC | xiaomi.eu_multi_MINote10LITE_V12.5.3.0.RFNMIXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MINote10LITE_V12.5.3.0.RFNMIXM_v12-11.zip/download) |
 | MINote10LITE | V12.5.2.0.RFNMIXM | 2021-09-04 11:37:43 UTC | xiaomi.eu_multi_MINote10LITE_V12.5.2.0.RFNMIXM_v12-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MINote10LITE_V12.5.2.0.RFNMIXM_v12-11.zip/download) |
