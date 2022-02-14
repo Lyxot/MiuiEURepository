@@ -97,7 +97,6 @@
 | HMNote5Pro | 8.4.12 | 2018-04-14 05:19:26 UTC | xiaomi.eu_multi_HMNote5Pro_8.4.12_v9-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.12/xiaomi.eu_multi_HMNote5Pro_8.4.12_v9-8.1.zip/download) |
 | HMNote5Pro | 8.4.4 | 2018-04-06 08:22:14 UTC | xiaomi.eu_multi_HMNote5Pro_8.4.4_v9-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.4/xiaomi.eu_multi_HMNote5Pro_8.4.4_v9-8.1.zip/download) |
 | HMNote5Pro | 8.3.15 | 2018-03-15 18:32:21 UTC | xiaomi.eu_multi_HMNote5Pro_8.3.15_v9-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.15/xiaomi.eu_multi_HMNote5Pro_8.3.15_v9-7.1.zip/download) |
-| HMNote5Pro | 8.3.8 | 2018-03-08 20:34:14 UTC | xiaomi.eu_multi_HMNote5Pro_8.3.8_v9-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.8/xiaomi.eu_multi_HMNote5Pro_8.3.8_v9-7.1.zip/download) |
 | HMNote5Pro | 8.3.1 | 2018-03-04 10:00:09 UTC | xiaomi.eu_multi_HMNote5Pro_8.3.1_v9-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.1/xiaomi.eu_multi_HMNote5Pro_8.3.1_v9-7.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
