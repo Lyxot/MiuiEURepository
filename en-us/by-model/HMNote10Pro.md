@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote10Pro | V13.0.4.0.SKFMIXM | 2022-02-19 16:58:49 UTC | xiaomi.eu_multi_HMNote10Pro_V13.0.4.0.SKFMIXM_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10Pro_V13.0.4.0.SKFMIXM_v13-12-fastboot.zip/download) |
 | HMNote10Pro | V13.0.2.0.SKFMIXM | 2022-01-24 23:40:58 UTC | xiaomi.eu_multi_HMNote10Pro_V13.0.2.0.SKFMIXM_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10Pro_V13.0.2.0.SKFMIXM_v13-12-fastboot.zip/download) |
 | HMNote10Pro | V12.5.9.0.RKFMIXM | 2021-12-10 15:52:22 UTC | xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download) |
 | HMNote10Pro | V12.5.8.0.RKFMIXM | 2021-09-25 07:23:17 UTC | xiaomi.eu_multi_HMNote10Pro_V12.5.8.0.RKFMIXM_v12-11.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.8.0.RKFMIXM_v12-11.zip/download) |
