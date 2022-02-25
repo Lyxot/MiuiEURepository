@@ -6,7 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| POCOX3Pro | V12.5.9.0.RJUMIXM | 2022-02-24 20:07:15 UTC | xiaomi.eu_multi_POCOX3Pro_V12.5.9.0.RJUMIXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3Pro_V12.5.9.0.RJUMIXM_v12-11.zip/download) |
+| POCOX3Pro | V12.5.9.0.RJUMIXM | 2022-02-25 03:46:08 UTC | xiaomi.eu_multi_POCOX3Pro_V12.5.9.0.RJUMIXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3Pro_V12.5.9.0.RJUMIXM_v12-11.zip/download) |
 | POCOX3Pro | V12.5.7.0.RJUMIXM | 2021-11-30 15:51:05 UTC | xiaomi.eu_multi_POCOX3Pro_V12.5.7.0.RJUMIXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3Pro_V12.5.7.0.RJUMIXM_v12-11.zip/download) |
 | POCOX3Pro | V12.5.5.0.RJUMIXM | 2021-10-16 13:49:15 UTC | xiaomi.eu_multi_POCOX3Pro_V12.5.5.0.RJUMIXM_v12-11.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3Pro_V12.5.5.0.RJUMIXM_v12-11.zip/download) |
 | POCOX3Pro | V12.5.4.0.RJUMIXM | 2021-08-26 20:55:37 UTC | xiaomi.eu_multi_POCOX3Pro_V12.5.4.0.RJUMIXM_v12-11.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3Pro_V12.5.4.0.RJUMIXM_v12-11.zip/download) |
