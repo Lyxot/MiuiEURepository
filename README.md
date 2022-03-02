@@ -33,22 +33,22 @@
 ### Redmi
 | | | |
 | ---- | ---- | ---- |
-| [HMNote11](/en-us/by-model/HMNote11.md) | [HMK40 POCOF3](/en-us/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/en-us/by-model/HMK40Pro%20MI11i.md) |
-| [HMK40](/en-us/by-model/HMK40.md) | [HMNote10Pro](/en-us/by-model/HMNote10Pro.md) | [HMNote10](/en-us/by-model/HMNote10.md) |
-| [HMNote9Pro5G MI10TLite](/en-us/by-model/HMNote9Pro5G%20MI10TLite.md) | [HMNote94G HM9T](/en-us/by-model/HMNote94G%20HM9T.md) | [HMK30SUltra MI10T](/en-us/by-model/HMK30SUltra%20MI10T.md) |
-| [HMK30i5G](/en-us/by-model/HMK30i5G.md) | [HMNote9ProEU](/en-us/by-model/HMNote9ProEU.md) | [HMNote9ProMax](/en-us/by-model/HMNote9ProMax.md) |
-| [HMNote9Pro HMNote9S](/en-us/by-model/HMNote9Pro%20HMNote9S.md) | [HMK30Pro](/en-us/by-model/HMK30Pro.md) | [HMK305G](/en-us/by-model/HMK305G.md) |
-| [HMK30](/en-us/by-model/HMK30.md) | [HMNote8T](/en-us/by-model/HMNote8T.md) | [HM7A](/en-us/by-model/HM7A.md) |
-| [HM8A](/en-us/by-model/HM8A.md) | [HM8](/en-us/by-model/HM8.md) | [HMNote8](/en-us/by-model/HMNote8.md) |
-| [HMK20MI9T](/en-us/by-model/HMK20MI9T.md) | [HM7](/en-us/by-model/HM7.md) | [HMK20ProMI9TPro](/en-us/by-model/HMK20ProMI9TPro.md) |
-| [HMNote7Pro](/en-us/by-model/HMNote7Pro.md) | [HMNote7](/en-us/by-model/HMNote7.md) | [HMNote6Pro](/en-us/by-model/HMNote6Pro.md) |
-| [HM6Pro](/en-us/by-model/HM6Pro.md) | [HMS2](/en-us/by-model/HMS2.md) | [HMNote5Pro](/en-us/by-model/HMNote5Pro.md) |
-| [HM5](/en-us/by-model/HM5.md) | [HM5Plus](/en-us/by-model/HM5Plus.md) | [HM5A](/en-us/by-model/HM5A.md) |
-| [HMNote3SE](/en-us/by-model/HMNote3SE.md) | [HM3SHM3X](/en-us/by-model/HM3SHM3X.md) | [HMNote5A](/en-us/by-model/HMNote5A.md) |
-| [HMNote5ALITE](/en-us/by-model/HMNote5ALITE.md) | [HM4X](/en-us/by-model/HM4X.md) | [HMNote3Pro](/en-us/by-model/HMNote3Pro.md) |
-| [HM3](/en-us/by-model/HM3.md) | [HM4Pro](/en-us/by-model/HM4Pro.md) | [HMPro](/en-us/by-model/HMPro.md) |
-| [HMNote4](/en-us/by-model/HMNote4.md) | [HMNote4X](/en-us/by-model/HMNote4X.md) | [HM4](/en-us/by-model/HM4.md) |
-| [HM4A](/en-us/by-model/HM4A.md)  | |
+| [HMK40 POCOF3](/en-us/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/en-us/by-model/HMK40Pro%20MI11i.md) | [HMK40](/en-us/by-model/HMK40.md) |
+| [HMNote10Pro](/en-us/by-model/HMNote10Pro.md) | [HMNote10](/en-us/by-model/HMNote10.md) | [HMNote9Pro5G MI10TLite](/en-us/by-model/HMNote9Pro5G%20MI10TLite.md) |
+| [HMNote94G HM9T](/en-us/by-model/HMNote94G%20HM9T.md) | [HMK30SUltra MI10T](/en-us/by-model/HMK30SUltra%20MI10T.md) | [HMK30i5G](/en-us/by-model/HMK30i5G.md) |
+| [HMNote9ProEU](/en-us/by-model/HMNote9ProEU.md) | [HMNote9ProMax](/en-us/by-model/HMNote9ProMax.md) | [HMNote9Pro HMNote9S](/en-us/by-model/HMNote9Pro%20HMNote9S.md) |
+| [HMK30Pro](/en-us/by-model/HMK30Pro.md) | [HMK305G](/en-us/by-model/HMK305G.md) | [HMK30](/en-us/by-model/HMK30.md) |
+| [HMNote8T](/en-us/by-model/HMNote8T.md) | [HM7A](/en-us/by-model/HM7A.md) | [HM8A](/en-us/by-model/HM8A.md) |
+| [HM8](/en-us/by-model/HM8.md) | [HMNote8](/en-us/by-model/HMNote8.md) | [HMK20MI9T](/en-us/by-model/HMK20MI9T.md) |
+| [HM7](/en-us/by-model/HM7.md) | [HMK20ProMI9TPro](/en-us/by-model/HMK20ProMI9TPro.md) | [HMNote7Pro](/en-us/by-model/HMNote7Pro.md) |
+| [HMNote7](/en-us/by-model/HMNote7.md) | [HMNote6Pro](/en-us/by-model/HMNote6Pro.md) | [HM6Pro](/en-us/by-model/HM6Pro.md) |
+| [HMS2](/en-us/by-model/HMS2.md) | [HMNote5Pro](/en-us/by-model/HMNote5Pro.md) | [HM5](/en-us/by-model/HM5.md) |
+| [HM5Plus](/en-us/by-model/HM5Plus.md) | [HM5A](/en-us/by-model/HM5A.md) | [HMNote3SE](/en-us/by-model/HMNote3SE.md) |
+| [HM3SHM3X](/en-us/by-model/HM3SHM3X.md) | [HMNote5A](/en-us/by-model/HMNote5A.md) | [HMNote5ALITE](/en-us/by-model/HMNote5ALITE.md) |
+| [HM4X](/en-us/by-model/HM4X.md) | [HMNote3Pro](/en-us/by-model/HMNote3Pro.md) | [HM3](/en-us/by-model/HM3.md) |
+| [HM4Pro](/en-us/by-model/HM4Pro.md) | [HMPro](/en-us/by-model/HMPro.md) | [HMNote4](/en-us/by-model/HMNote4.md) |
+| [HMNote4X](/en-us/by-model/HMNote4X.md) | [HM4](/en-us/by-model/HM4.md) | [HM4A](/en-us/by-model/HM4A.md) |
+ | | |
 ### Others
 | | | |
 | ---- | ---- | ---- |
@@ -196,22 +196,22 @@
 ### 红米
 | | | |
 | ---- | ---- | ---- |
-| [HMNote11](/zh-cn/by-model/HMNote11.md) | [HMK40 POCOF3](/zh-cn/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/zh-cn/by-model/HMK40Pro%20MI11i.md) |
-| [HMK40](/zh-cn/by-model/HMK40.md) | [HMNote10Pro](/zh-cn/by-model/HMNote10Pro.md) | [HMNote10](/zh-cn/by-model/HMNote10.md) |
-| [HMNote9Pro5G MI10TLite](/zh-cn/by-model/HMNote9Pro5G%20MI10TLite.md) | [HMNote94G HM9T](/zh-cn/by-model/HMNote94G%20HM9T.md) | [HMK30SUltra MI10T](/zh-cn/by-model/HMK30SUltra%20MI10T.md) |
-| [HMK30i5G](/zh-cn/by-model/HMK30i5G.md) | [HMNote9ProEU](/zh-cn/by-model/HMNote9ProEU.md) | [HMNote9ProMax](/zh-cn/by-model/HMNote9ProMax.md) |
-| [HMNote9Pro HMNote9S](/zh-cn/by-model/HMNote9Pro%20HMNote9S.md) | [HMK30Pro](/zh-cn/by-model/HMK30Pro.md) | [HMK305G](/zh-cn/by-model/HMK305G.md) |
-| [HMK30](/zh-cn/by-model/HMK30.md) | [HMNote8T](/zh-cn/by-model/HMNote8T.md) | [HM7A](/zh-cn/by-model/HM7A.md) |
-| [HM8A](/zh-cn/by-model/HM8A.md) | [HM8](/zh-cn/by-model/HM8.md) | [HMNote8](/zh-cn/by-model/HMNote8.md) |
-| [HMK20MI9T](/zh-cn/by-model/HMK20MI9T.md) | [HM7](/zh-cn/by-model/HM7.md) | [HMK20ProMI9TPro](/zh-cn/by-model/HMK20ProMI9TPro.md) |
-| [HMNote7Pro](/zh-cn/by-model/HMNote7Pro.md) | [HMNote7](/zh-cn/by-model/HMNote7.md) | [HMNote6Pro](/zh-cn/by-model/HMNote6Pro.md) |
-| [HM6Pro](/zh-cn/by-model/HM6Pro.md) | [HMS2](/zh-cn/by-model/HMS2.md) | [HMNote5Pro](/zh-cn/by-model/HMNote5Pro.md) |
-| [HM5](/zh-cn/by-model/HM5.md) | [HM5Plus](/zh-cn/by-model/HM5Plus.md) | [HM5A](/zh-cn/by-model/HM5A.md) |
-| [HMNote3SE](/zh-cn/by-model/HMNote3SE.md) | [HM3SHM3X](/zh-cn/by-model/HM3SHM3X.md) | [HMNote5A](/zh-cn/by-model/HMNote5A.md) |
-| [HMNote5ALITE](/zh-cn/by-model/HMNote5ALITE.md) | [HM4X](/zh-cn/by-model/HM4X.md) | [HMNote3Pro](/zh-cn/by-model/HMNote3Pro.md) |
-| [HM3](/zh-cn/by-model/HM3.md) | [HM4Pro](/zh-cn/by-model/HM4Pro.md) | [HMPro](/zh-cn/by-model/HMPro.md) |
-| [HMNote4](/zh-cn/by-model/HMNote4.md) | [HMNote4X](/zh-cn/by-model/HMNote4X.md) | [HM4](/zh-cn/by-model/HM4.md) |
-| [HM4A](/zh-cn/by-model/HM4A.md)  | |
+| [HMK40 POCOF3](/zh-cn/by-model/HMK40%20POCOF3.md) | [HMK40Pro MI11i](/zh-cn/by-model/HMK40Pro%20MI11i.md) | [HMK40](/zh-cn/by-model/HMK40.md) |
+| [HMNote10Pro](/zh-cn/by-model/HMNote10Pro.md) | [HMNote10](/zh-cn/by-model/HMNote10.md) | [HMNote9Pro5G MI10TLite](/zh-cn/by-model/HMNote9Pro5G%20MI10TLite.md) |
+| [HMNote94G HM9T](/zh-cn/by-model/HMNote94G%20HM9T.md) | [HMK30SUltra MI10T](/zh-cn/by-model/HMK30SUltra%20MI10T.md) | [HMK30i5G](/zh-cn/by-model/HMK30i5G.md) |
+| [HMNote9ProEU](/zh-cn/by-model/HMNote9ProEU.md) | [HMNote9ProMax](/zh-cn/by-model/HMNote9ProMax.md) | [HMNote9Pro HMNote9S](/zh-cn/by-model/HMNote9Pro%20HMNote9S.md) |
+| [HMK30Pro](/zh-cn/by-model/HMK30Pro.md) | [HMK305G](/zh-cn/by-model/HMK305G.md) | [HMK30](/zh-cn/by-model/HMK30.md) |
+| [HMNote8T](/zh-cn/by-model/HMNote8T.md) | [HM7A](/zh-cn/by-model/HM7A.md) | [HM8A](/zh-cn/by-model/HM8A.md) |
+| [HM8](/zh-cn/by-model/HM8.md) | [HMNote8](/zh-cn/by-model/HMNote8.md) | [HMK20MI9T](/zh-cn/by-model/HMK20MI9T.md) |
+| [HM7](/zh-cn/by-model/HM7.md) | [HMK20ProMI9TPro](/zh-cn/by-model/HMK20ProMI9TPro.md) | [HMNote7Pro](/zh-cn/by-model/HMNote7Pro.md) |
+| [HMNote7](/zh-cn/by-model/HMNote7.md) | [HMNote6Pro](/zh-cn/by-model/HMNote6Pro.md) | [HM6Pro](/zh-cn/by-model/HM6Pro.md) |
+| [HMS2](/zh-cn/by-model/HMS2.md) | [HMNote5Pro](/zh-cn/by-model/HMNote5Pro.md) | [HM5](/zh-cn/by-model/HM5.md) |
+| [HM5Plus](/zh-cn/by-model/HM5Plus.md) | [HM5A](/zh-cn/by-model/HM5A.md) | [HMNote3SE](/zh-cn/by-model/HMNote3SE.md) |
+| [HM3SHM3X](/zh-cn/by-model/HM3SHM3X.md) | [HMNote5A](/zh-cn/by-model/HMNote5A.md) | [HMNote5ALITE](/zh-cn/by-model/HMNote5ALITE.md) |
+| [HM4X](/zh-cn/by-model/HM4X.md) | [HMNote3Pro](/zh-cn/by-model/HMNote3Pro.md) | [HM3](/zh-cn/by-model/HM3.md) |
+| [HM4Pro](/zh-cn/by-model/HM4Pro.md) | [HMPro](/zh-cn/by-model/HMPro.md) | [HMNote4](/zh-cn/by-model/HMNote4.md) |
+| [HMNote4X](/zh-cn/by-model/HMNote4X.md) | [HM4](/zh-cn/by-model/HM4.md) | [HM4A](/zh-cn/by-model/HM4A.md) |
+ | | |
 ### 其它
 | | | |
 | ---- | ---- | ---- |
