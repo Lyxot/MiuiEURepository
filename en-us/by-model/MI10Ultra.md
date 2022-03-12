@@ -3,7 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI10Ultra | 22.3.3 | 2022-03-03 15:59:40 UTC | xiaomi.eu_multi_MI10Ultra_22.3.3_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.3/xiaomi.eu_multi_MI10Ultra_22.3.3_v13-12-fastboot.zip/download) |
 | MI10Ultra | 22.2.23 | 2022-02-24 17:18:13 UTC | xiaomi.eu_multi_MI10Ultra_22.2.23_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.2.23/xiaomi.eu_multi_MI10Ultra_22.2.23_v13-12-fastboot.zip/download) |
 | MI10Ultra | 22.2.19 | 2022-02-22 03:17:40 UTC | xiaomi.eu_multi_MI10Ultra_22.2.19_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.2.19/xiaomi.eu_multi_MI10Ultra_22.2.19_v13-12-fastboot.zip/download) |
 | MI10Ultra | 22.2.9 | 2022-02-10 16:57:25 UTC | xiaomi.eu_multi_MI10Ultra_22.2.9_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.2.9/xiaomi.eu_multi_MI10Ultra_22.2.9_v13-12-fastboot.zip/download) |
@@ -63,7 +62,6 @@
 | MI10Ultra | 20.11.12 | 2020-11-12 19:45:57 UTC | xiaomi.eu_multi_MI10Ultra_20.11.12_v12-11.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.12/xiaomi.eu_multi_MI10Ultra_20.11.12_v12-11.zip/download) |
 | MI10Ultra | 20.11.5 | 2020-11-06 05:44:19 UTC | xiaomi.eu_multi_MI10Ultra_20.11.5_v12-11.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.5/xiaomi.eu_multi_MI10Ultra_20.11.5_v12-11.zip/download) |
 | MI10Ultra | 20.10.15 | 2020-10-15 19:52:58 UTC | xiaomi.eu_multi_MI10Ultra_20.10.15_v12-10.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.15/xiaomi.eu_multi_MI10Ultra_20.10.15_v12-10.zip/download) |
-| MI10Ultra | 20.9.24 | 2020-09-24 21:18:52 UTC | xiaomi.eu_multi_MI10Ultra_20.9.24_v12-10.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.9.24/xiaomi.eu_multi_MI10Ultra_20.9.24_v12-10.zip/download) |
 | MI10Ultra | 20.9.17 | 2020-09-18 04:42:39 UTC | xiaomi.eu_multi_MI10Ultra_20.9.17_v12-10.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.9.17/xiaomi.eu_multi_MI10Ultra_20.9.17_v12-10.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
