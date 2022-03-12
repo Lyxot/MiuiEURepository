@@ -95,6 +95,8 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI5X | V11.0.3.0.ODBCNXM | 2020-01-05 05:17:40 UTC | xiaomi.eu_multi_MI5X_V11.0.3.0.ODBCNXM_v11-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MI5X_V11.0.3.0.ODBCNXM_v11-8.1.zip/download) |
+| MI5X | V11.0.2.0.ODBCNXM | 2019-11-05 15:58:35 UTC | xiaomi.eu_multi_MI5X_V11.0.2.0.ODBCNXM_v11-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MI5X_V11.0.2.0.ODBCNXM_v11-8.1.zip/download) |
 | MI5X | V10.3.2.0.ODBCNXM | 2019-07-25 12:43:42 UTC | xiaomi.eu_multi_MI5X_V10.3.2.0.ODBCNXM_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5X_V10.3.2.0.ODBCNXM_v10-8.1.zip/download) |
 | MI5X | V10.3.1.0.ODBCNXM | 2019-04-09 15:33:34 UTC | xiaomi.eu_multi_MI5X_V10.3.1.0.ODBCNXM_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5X_V10.3.1.0.ODBCNXM_v10-8.1.zip/download) |
 | MI5X | V10.2.3.0.ODBCNXM | 2019-03-01 08:10:23 UTC | xiaomi.eu_multi_MI5X_V10.2.3.0.ODBCNXM_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5X_V10.2.3.0.ODBCNXM_v10-8.1.zip/download) |

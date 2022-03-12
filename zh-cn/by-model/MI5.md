@@ -95,6 +95,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI5 | V11.0.2.0.OAACNXM | 2020-01-05 13:10:34 UTC | xiaomi.eu_multi_MI5_V11.0.2.0.OAACNXM_v11-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MI5_V11.0.2.0.OAACNXM_v11-8.0.zip/download) |
 | MI5 | V10.2.2.0.OAAMIXM | 2019-02-03 22:44:44 UTC | xiaomi.eu_multi_MI5_V10.2.2.0.OAAMIXM_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5_V10.2.2.0.OAAMIXM_v10-8.0.zip/download) |
 | MI5 | V10.2.1.0.OAACNXM | 2019-01-09 04:29:00 UTC | xiaomi.eu_multi_MI5_V10.2.1.0.OAACNXM_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5_V10.2.1.0.OAACNXM_v10-8.0.zip/download) |
 | MI5 | V10.0.1.0.OAACNFH | 2018-09-02 20:35:01 UTC | xiaomi.eu_multi_MI5_V10.0.1.0.OAACNFH_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5_V10.0.1.0.OAACNFH_v10-8.0.zip/download) |

@@ -102,6 +102,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIMix | V11.0.2.0.OAHCNXM | 2020-01-05 05:20:51 UTC | xiaomi.eu_multi_MIMix_V11.0.2.0.OAHCNXM_v11-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MIMix_V11.0.2.0.OAHCNXM_v11-8.0.zip/download) |
 | MIMix | V10.2.1.0.OAHCNFK | 2019-01-07 10:00:32 UTC | xiaomi.eu_multi_MIMix_V10.2.1.0.OAHCNFK_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MIMix_V10.2.1.0.OAHCNFK_v10-8.0.zip/download) |
 | MIMix | V10.0.1.0.OAHCNFH | 2018-09-04 06:17:45 UTC | xiaomi.eu_multi_MIMix_V10.0.1.0.OAHCNFH_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MIMix_V10.0.1.0.OAHCNFH_v10-8.0.zip/download) |
 | MIMix | V9.5.2.0.NAHCNFA | 2018-04-26 17:28:37 UTC | xiaomi.eu_multi_MIMix_V9.5.2.0.NAHCNFA_v9-7.0.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv9.5/xiaomi.eu_multi_MIMix_V9.5.2.0.NAHCNFA_v9-7.0.zip/download) |
