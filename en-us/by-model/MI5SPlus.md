@@ -96,7 +96,6 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI5SPlus | V11.0.2.0.OBGCNXM | 2020-01-05 05:14:27 UTC | xiaomi.eu_multi_MI5SPlus_V11.0.2.0.OBGCNXM_v11-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MI5SPlus_V11.0.2.0.OBGCNXM_v11-8.0.zip/download) |
 | MI5SPlus | V10.2.1.0.OBGCNXM | 2019-01-19 17:06:29 UTC | xiaomi.eu_multi_MI5SPlus_V10.2.1.0.OBGCNXM_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5SPlus_V10.2.1.0.OBGCNXM_v10-8.0.zip/download) |
 | MI5SPlus | V10.1.3.0.OBGCNFI | 2018-12-11 18:16:40 UTC | xiaomi.eu_multi_MI5SPlus_V10.1.3.0.OBGCNFI_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5SPlus_V10.1.3.0.OBGCNFI_v10-8.0.zip/download) |
 | MI5SPlus | V10.1.2.0.OBGCNFI | 2018-11-13 08:44:44 UTC | xiaomi.eu_multi_MI5SPlus_V10.1.2.0.OBGCNFI_v10-8.0.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI5SPlus_V10.1.2.0.OBGCNFI_v10-8.0.zip/download) |

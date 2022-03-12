@@ -79,7 +79,6 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HM5Plus | V11.0.3.0.OEGCNXM | 2020-01-05 05:11:18 UTC | xiaomi.eu_multi_HM5Plus_V11.0.3.0.OEGCNXM_v11-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM5Plus_V11.0.3.0.OEGCNXM_v11-8.1.zip/download) |
 | HM5Plus | V10.3.2.0.OEGCNXM | 2019-07-26 06:35:16 UTC | xiaomi.eu_multi_HM5Plus_V10.3.2.0.OEGCNXM_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5Plus_V10.3.2.0.OEGCNXM_v10-8.1.zip/download) |
 | HM5Plus | V10.3.1.0.OEGCNXM | 2019-04-09 15:29:58 UTC | xiaomi.eu_multi_HM5Plus_V10.3.1.0.OEGCNXM_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5Plus_V10.3.1.0.OEGCNXM_v10-8.1.zip/download) |
 | HM5Plus | V10.2.4.0.OEGCNXM | 2019-03-09 11:07:35 UTC | xiaomi.eu_multi_HM5Plus_V10.2.4.0.OEGCNXM_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5Plus_V10.2.4.0.OEGCNXM_v10-8.1.zip/download) |

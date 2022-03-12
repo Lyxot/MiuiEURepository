@@ -83,8 +83,6 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HM5A | V11.0.6.0.OCKCNXM | 2020-01-05 05:09:42 UTC | xiaomi.eu_multi_HM5A_V11.0.6.0.OCKCNXM_v11-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM5A_V11.0.6.0.OCKCNXM_v11-8.1.zip/download) |
-| HM5A | V11.0.2.0.OCKCNXM | 2019-11-12 12:28:51 UTC | xiaomi.eu_multi_HM5A_V11.0.2.0.OCKCNXM_v11-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM5A_V11.0.2.0.OCKCNXM_v11-8.1.zip/download) |
 | HM5A | V10.3.2.0.OCKCNXM | 2019-05-20 06:26:37 UTC | xiaomi.eu_multi_HM5A_V10.3.2.0.OCKCNXM_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5A_V10.3.2.0.OCKCNXM_v10-8.1.zip/download) |
 | HM5A | V10.2.4.0.OCKCNXM | 2019-03-09 11:06:01 UTC | xiaomi.eu_multi_HM5A_V10.2.4.0.OCKCNXM_v10-8.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5A_V10.2.4.0.OCKCNXM_v10-8.1.zip/download) |
 | HM5A | V10.2.3.0.OCKCNXM | 2019-01-25 13:54:36 UTC | xiaomi.eu_multi_HM5A_V10.2.3.0.OCKCNXM_v10-8.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM5A_V10.2.3.0.OCKCNXM_v10-8.1.zip/download) |
