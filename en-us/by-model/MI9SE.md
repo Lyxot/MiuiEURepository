@@ -4,6 +4,7 @@
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MI9SE | 21.11.24 | 2021-11-25 16:36:07 UTC | xiaomi.eu_multi_MI9SE_21.11.24_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.24/xiaomi.eu_multi_MI9SE_21.11.24_v12-11.zip/download) |
+| MI9SE | 21.11.17 | 2021-11-18 15:24:20 UTC | xiaomi.eu_multi_MI9SE_21.11.17_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.17/xiaomi.eu_multi_MI9SE_21.11.17_v12-11.zip/download) |
 | MI9SE | 21.11.10 | 2021-11-11 19:21:05 UTC | xiaomi.eu_multi_MI9SE_21.11.10_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.10/xiaomi.eu_multi_MI9SE_21.11.10_v12-11.zip/download) |
 | MI9SE | 21.11.3 | 2021-11-04 18:19:10 UTC | xiaomi.eu_multi_MI9SE_21.11.3_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.3/xiaomi.eu_multi_MI9SE_21.11.3_v12-11.zip/download) |
 | MI9SE | 21.10.27 | 2021-10-29 02:12:06 UTC | xiaomi.eu_multi_MI9SE_21.10.27_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.10.27/xiaomi.eu_multi_MI9SE_21.10.27_v12-11.zip/download) |
