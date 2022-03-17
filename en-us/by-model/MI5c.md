@@ -3,8 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI5c | 9.8.29 | 2019-08-31 02:26:18 UTC | xiaomi.eu_multi_MI5c_9.8.29_v10-7.1.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.29/xiaomi.eu_multi_MI5c_9.8.29_v10-7.1.zip/download) |
-| MI5c | 9.8.22 | 2019-08-22 22:34:18 UTC | xiaomi.eu_multi_MI5c_9.8.22_v10-7.1.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.22/xiaomi.eu_multi_MI5c_9.8.22_v10-7.1.zip/download) |
 | MI5c | 9.8.15 | 2019-08-15 20:04:36 UTC | xiaomi.eu_multi_MI5c_9.8.15_v10-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.15/xiaomi.eu_multi_MI5c_9.8.15_v10-7.1.zip/download) |
 | MI5c | 9.8.8 | 2019-08-09 01:27:52 UTC | xiaomi.eu_multi_MI5c_9.8.8_v10-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.8/xiaomi.eu_multi_MI5c_9.8.8_v10-7.1.zip/download) |
 | MI5c | 9.8.1 | 2019-08-02 02:34:34 UTC | xiaomi.eu_multi_MI5c_9.8.1_v10-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.1/xiaomi.eu_multi_MI5c_9.8.1_v10-7.1.zip/download) |
