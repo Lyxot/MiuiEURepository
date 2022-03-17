@@ -3,10 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HM3 | 8.4.26 | 2018-04-27 17:37:17 UTC | xiaomi.eu_multi_HM3_8.4.26_v9-5.1.zip | 981.4 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.26/xiaomi.eu_multi_HM3_8.4.26_v9-5.1.zip/download) |
-| HM3 | 8.4.19 | 2018-04-21 14:50:17 UTC | xiaomi.eu_multi_HM3_8.4.19_v9-5.1.zip | 982.9 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.19/xiaomi.eu_multi_HM3_8.4.19_v9-5.1.zip/download) |
-| HM3 | 8.4.12 | 2018-04-14 05:02:11 UTC | xiaomi.eu_multi_HM3_8.4.12_v9-5.1.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.12/xiaomi.eu_multi_HM3_8.4.12_v9-5.1.zip/download) |
-| HM3 | 8.3.29 | 2018-03-31 05:17:31 UTC | xiaomi.eu_multi_HM3_8.3.29_v9-5.1.zip | 991.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.29/xiaomi.eu_multi_HM3_8.3.29_v9-5.1.zip/download) |
 | HM3 | 8.3.22 | 2018-03-22 17:27:32 UTC | xiaomi.eu_multi_HM3_8.3.22_v9-5.1.zip | 923.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.22/xiaomi.eu_multi_HM3_8.3.22_v9-5.1.zip/download) |
 | HM3 | 8.3.15 | 2018-03-16 06:57:26 UTC | xiaomi.eu_multi_HM3_8.3.15_v9-5.1.zip | 973.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.15/xiaomi.eu_multi_HM3_8.3.15_v9-5.1.zip/download) |
 | HM3 | 8.3.8 | 2018-03-09 05:06:03 UTC | xiaomi.eu_multi_HM3_8.3.8_v9-5.1.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.3.8/xiaomi.eu_multi_HM3_8.3.8_v9-5.1.zip/download) |
