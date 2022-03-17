@@ -26,11 +26,6 @@
 | HM3 | 7.11.9 | 2017-11-10 13:26:33 UTC | xiaomi.eu_multi_HM3_7.11.9_v9-5.1.zip | 871.6 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.9/xiaomi.eu_multi_HM3_7.11.9_v9-5.1.zip/download) |
 | HM3 | 7.11.2 | 2017-11-04 10:55:28 UTC | xiaomi.eu_multi_HM3_7.11.2_v9-5.1.zip | 871.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.2/xiaomi.eu_multi_HM3_7.11.2_v9-5.1.zip/download) |
 | HM3 | 7.10.26 | 2017-10-26 18:48:46 UTC | xiaomi.eu_multi_HM3_7.10.26_v9-5.1.zip | 872.5 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.26/xiaomi.eu_multi_HM3_7.10.26_v9-5.1.zip/download) |
-| HM3 | 7.10.19 | 2017-10-19 19:33:38 UTC | xiaomi.eu_multi_HM3_7.10.19_v9-5.1.zip | 872.3 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.19/xiaomi.eu_multi_HM3_7.10.19_v9-5.1.zip/download) |
-| HM3 | 7.10.12 | 2017-10-13 03:52:59 UTC | xiaomi.eu_multi_HM3_7.10.12_v9-5.1.zip | 870.5 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_HM3_7.10.12_v9-5.1.zip/download) |
-| HM3 | 7.9.21 | 2017-09-29 15:34:55 UTC | xiaomi.eu_multi_HM3_7.9.21_v9-5.1.zip | 858.4 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.21/xiaomi.eu_multi_HM3_7.9.21_v9-5.1.zip/download) |
-| HM3 | 7.9.14 | 2017-09-14 19:17:02 UTC | xiaomi.eu_multi_HM3_7.9.14_v9-5.1.zip | 805.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.14/xiaomi.eu_multi_HM3_7.9.14_v9-5.1.zip/download) |
-| HM3 | 7.9.7 | 2017-09-08 03:59:44 UTC | xiaomi.eu_multi_HM3_7.9.7_v9-5.1.zip | 809.4 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.7/xiaomi.eu_multi_HM3_7.9.7_v9-5.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
