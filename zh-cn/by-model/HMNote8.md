@@ -76,6 +76,8 @@
 | HMNote8 | 20.1.16 | 2020-01-16 19:17:32 UTC | xiaomi.eu_multi_HMNote8_20.1.16_v11-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.16/xiaomi.eu_multi_HMNote8_20.1.16_v11-9.zip/download) |
 | HMNote8 | 20.1.9 | 2020-01-10 11:36:00 UTC | xiaomi.eu_multi_HMNote8_20.1.9_v11-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.9/xiaomi.eu_multi_HMNote8_20.1.9_v11-9.zip/download) |
 | HMNote8 | 20.1.2 | 2020-01-02 21:25:53 UTC | xiaomi.eu_multi_HMNote8_20.1.2_v11-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.2/xiaomi.eu_multi_HMNote8_20.1.2_v11-9.zip/download) |
+| HMNote8 | 9.12.26 | 2019-12-26 20:04:29 UTC | xiaomi.eu_multi_HMNote8_9.12.26_v11-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.26/xiaomi.eu_multi_HMNote8_9.12.26_v11-9.zip/download) |
+| HMNote8 | 9.12.12 | 2019-12-12 22:35:01 UTC | xiaomi.eu_multi_HMNote8_9.12.12_v11-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.12/xiaomi.eu_multi_HMNote8_9.12.12_v11-9.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
