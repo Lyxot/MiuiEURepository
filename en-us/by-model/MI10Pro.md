@@ -83,7 +83,6 @@
 | MI10Pro | 20.3.19 | 2020-03-20 04:49:16 UTC | xiaomi.eu_multi_MI10Pro_20.3.19_v11-10.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.19/xiaomi.eu_multi_MI10Pro_20.3.19_v11-10.zip/download) |
 | MI10Pro | 20.3.12 | 2020-03-13 02:41:35 UTC | xiaomi.eu_multi_MI10Pro_20.3.12_v11-10.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.12/xiaomi.eu_multi_MI10Pro_20.3.12_v11-10.zip/download) |
 | MI10Pro | 20.3.5 | 2020-03-05 23:24:42 UTC | xiaomi.eu_multi_MI10Pro_20.3.5_v11-10.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.5/xiaomi.eu_multi_MI10Pro_20.3.5_v11-10.zip/download) |
-| MI10Pro | 20.2.27 | 2020-02-27 19:36:12 UTC | xiaomi.eu_multi_MI10Pro_20.2.27_v11-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.2.27/xiaomi.eu_multi_MI10Pro_20.2.27_v11-10.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
