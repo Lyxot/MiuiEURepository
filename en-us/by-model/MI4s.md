@@ -4,6 +4,7 @@
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MI4s | 8.9.13 | 2018-09-14 07:14:38 UTC | xiaomi.eu_multi_MI4s_8.9.13_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.13/xiaomi.eu_multi_MI4s_8.9.13_v10-7.0.zip/download) |
+| MI4s | 8.9.6 | 2018-09-08 03:43:01 UTC | xiaomi.eu_multi_MI4s_8.9.6_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.6/xiaomi.eu_multi_MI4s_8.9.6_v10-7.0.zip/download) |
 | MI4s | 8.8.30 | 2018-08-31 18:45:56 UTC | xiaomi.eu_multi_MI4s_8.8.30_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.30/xiaomi.eu_multi_MI4s_8.8.30_v10-7.0.zip/download) |
 | MI4s | 8.8.23 | 2018-08-24 22:33:17 UTC | xiaomi.eu_multi_MI4s_8.8.23_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.23/xiaomi.eu_multi_MI4s_8.8.23_v10-7.0.zip/download) |
 | MI4s | 8.8.9 | 2018-08-11 00:31:31 UTC | xiaomi.eu_multi_MI4s_8.8.9_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.9/xiaomi.eu_multi_MI4s_8.8.9_v10-7.0.zip/download) |
