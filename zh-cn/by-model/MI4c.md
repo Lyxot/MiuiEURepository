@@ -4,7 +4,6 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MI4c | 8.9.13 | 2018-09-14 07:06:08 UTC | xiaomi.eu_multi_MI4c_8.9.13_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.13/xiaomi.eu_multi_MI4c_8.9.13_v10-7.0.zip/download) |
-| MI4c | 8.9.6 | 2018-09-08 03:34:32 UTC | xiaomi.eu_multi_MI4c_8.9.6_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.6/xiaomi.eu_multi_MI4c_8.9.6_v10-7.0.zip/download) |
 | MI4c | 8.8.30 | 2018-08-31 18:37:35 UTC | xiaomi.eu_multi_MI4c_8.8.30_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.30/xiaomi.eu_multi_MI4c_8.8.30_v10-7.0.zip/download) |
 | MI4c | 8.8.23 | 2018-08-24 22:24:54 UTC | xiaomi.eu_multi_MI4c_8.8.23_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.23/xiaomi.eu_multi_MI4c_8.8.23_v10-7.0.zip/download) |
 | MI4c | 8.8.9 | 2018-08-11 00:22:55 UTC | xiaomi.eu_multi_MI4c_8.8.9_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.9/xiaomi.eu_multi_MI4c_8.8.9_v10-7.0.zip/download) |
