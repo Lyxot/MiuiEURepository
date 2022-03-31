@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK40 POCOF3 | 22.3.30 | 2022-03-31 18:14:47 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.3.30_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.30/xiaomi.eu_multi_HMK40_POCOF3_22.3.30_v13-12-fastboot.zip/download) |
 | HMK40 POCOF3 | 22.3.23 | 2022-03-24 16:23:42 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.3.23_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.23/xiaomi.eu_multi_HMK40_POCOF3_22.3.23_v13-12-fastboot.zip/download) |
 | HMK40 POCOF3 | 22.3.16 | 2022-03-17 15:06:21 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.3.16_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.16/xiaomi.eu_multi_HMK40_POCOF3_22.3.16_v13-12-fastboot.zip/download) |
 | HMK40 POCOF3 | 22.3.3 | 2022-03-03 15:40:44 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.3.3_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.3/xiaomi.eu_multi_HMK40_POCOF3_22.3.3_v13-12-fastboot.zip/download) |
