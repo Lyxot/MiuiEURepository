@@ -43,6 +43,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Pro MI11Ultra | V13.0.10.0.SKACNXM | 2022-04-02 12:52:48 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.10.0.SKACNXM_v13-12-fastboot.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.10.0.SKACNXM_v13-12-fastboot.zip/download) |
 | MI11Pro MI11Ultra | V13.0.9.0.SKACNXM | 2022-01-21 18:26:47 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.9.0.SKACNXM_v13-12-fastboot.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.9.0.SKACNXM_v13-12-fastboot.zip/download) |
 | MI11Pro MI11Ultra | V13.0.5.0.SKACNXM | 2022-01-05 16:48:43 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.5.0.SKACNXM_v13-12-fastboot.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.5.0.SKACNXM_v13-12-fastboot.zip/download) |
 | MI11Pro MI11Ultra | V12.5.20.0.RKACNXM | 2021-11-05 04:50:59 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V12.5.20.0.RKACNXM_v12-11.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI11Pro_MI11Ultra_V12.5.20.0.RKACNXM_v12-11.zip/download) |
