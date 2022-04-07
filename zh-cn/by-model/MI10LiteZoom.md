@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10LiteZoom | 22.4.7 | 2022-04-07 14:52:27 UTC | xiaomi.eu_multi_MI10LiteZoom_22.4.7_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.7/xiaomi.eu_multi_MI10LiteZoom_22.4.7_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | 22.3.30 | 2022-03-31 17:39:35 UTC | xiaomi.eu_multi_MI10LiteZoom_22.3.30_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.30/xiaomi.eu_multi_MI10LiteZoom_22.3.30_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | 22.3.23 | 2022-03-24 18:17:40 UTC | xiaomi.eu_multi_MI10LiteZoom_22.3.23_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.23/xiaomi.eu_multi_MI10LiteZoom_22.3.23_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | 22.3.16 | 2022-03-17 18:08:34 UTC | xiaomi.eu_multi_MI10LiteZoom_22.3.16_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.3.16/xiaomi.eu_multi_MI10LiteZoom_22.3.16_v13-12-fastboot.zip/download) |
