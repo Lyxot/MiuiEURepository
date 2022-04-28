@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK30SUltra MI10T | 22.4.27 | 2022-04-28 15:39:20 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.27_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.27/xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.27_v13-12-fastboot.zip/download) |
 | HMK30SUltra MI10T | 22.4.21 | 2022-04-21 16:09:57 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.21_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.21/xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.21_v13-12-fastboot.zip/download) |
 | HMK30SUltra MI10T | 22.4.13 | 2022-04-14 17:31:07 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.13_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.13/xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.13_v13-12-fastboot.zip/download) |
 | HMK30SUltra MI10T | 22.4.7 | 2022-04-07 14:14:38 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.7_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.7/xiaomi.eu_multi_HMK30SUltra_MI10T_22.4.7_v13-12-fastboot.zip/download) |
