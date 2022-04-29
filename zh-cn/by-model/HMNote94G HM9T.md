@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote94G HM9T | 22.4.27 | 2022-04-29 00:05:03 UTC | xiaomi.eu_multi_HMNote94G_HM9T_22.4.27_v13-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.27/xiaomi.eu_multi_HMNote94G_HM9T_22.4.27_v13-11.zip/download) |
 | HMNote94G HM9T | 22.4.20 | 2022-04-21 19:05:33 UTC | xiaomi.eu_multi_HMNote94G_HM9T_22.4.20_v13-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.20/xiaomi.eu_multi_HMNote94G_HM9T_22.4.20_v13-11.zip/download) |
 | HMNote94G HM9T | 22.4.13 | 2022-04-15 11:12:45 UTC | xiaomi.eu_multi_HMNote94G_HM9T_22.4.13_v13-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.13/xiaomi.eu_multi_HMNote94G_HM9T_22.4.13_v13-11.zip/download) |
 | HMNote94G HM9T | 22.4.6 | 2022-04-07 20:15:11 UTC | xiaomi.eu_multi_HMNote94G_HM9T_22.4.6_v13-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.6/xiaomi.eu_multi_HMNote94G_HM9T_22.4.6_v13-11.zip/download) |
