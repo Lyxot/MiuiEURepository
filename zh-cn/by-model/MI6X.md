@@ -89,7 +89,6 @@
 | MI6X | 8.6.22 | 2018-06-25 12:25:20 UTC | xiaomi.eu_multi_MI6X_8.6.22_v10-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.6.22/xiaomi.eu_multi_MI6X_8.6.22_v10-8.1.zip/download) |
 | MI6X | 8.5.17 | 2018-05-19 07:56:56 UTC | xiaomi.eu_multi_MI6X_8.5.17_v9-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.5.17/xiaomi.eu_multi_MI6X_8.5.17_v9-8.1.zip/download) |
 | MI6X | 8.5.10 | 2018-05-11 06:57:35 UTC | xiaomi.eu_multi_MI6X_8.5.10_v9-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.5.10/xiaomi.eu_multi_MI6X_8.5.10_v9-8.1.zip/download) |
-| MI6X | 8.5.3 | 2018-05-10 17:56:43 UTC | xiaomi.eu_multi_MI6X_8.5.3_v9-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.5.3/xiaomi.eu_multi_MI6X_8.5.3_v9-8.1.zip/download) |
 | MI6X | 8.4.26 | 2018-04-27 18:12:04 UTC | xiaomi.eu_multi_MI6X_8.4.26_v9-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.4.26/xiaomi.eu_multi_MI6X_8.4.26_v9-8.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
