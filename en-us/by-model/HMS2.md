@@ -33,7 +33,6 @@
 | HMS2 | 8.8.3 | 2018-08-07 02:13:14 UTC | xiaomi.eu_multi_HMS2_8.8.3_v10-8.1.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.3/xiaomi.eu_multi_HMS2_8.8.3_v10-8.1.zip/download) |
 | HMS2 | 8.7.12 | 2018-07-15 08:27:49 UTC | xiaomi.eu_multi_HMS2_8.7.12_v10-8.1.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.7.12/xiaomi.eu_multi_HMS2_8.7.12_v10-8.1.zip/download) |
 | HMS2 | 8.7.5 | 2018-07-07 03:24:57 UTC | xiaomi.eu_multi_HMS2_8.7.5_v10-8.1.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.7.5/xiaomi.eu_multi_HMS2_8.7.5_v10-8.1.zip/download) |
-| HMS2 | 8.6.28 | 2018-07-02 09:56:42 UTC | xiaomi.eu_multi_HMS2_8.6.28_v10-8.1.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.6.28/xiaomi.eu_multi_HMS2_8.6.28_v10-8.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
