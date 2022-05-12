@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIX4 | 22.5.11 | 2022-05-12 16:13:31 UTC | xiaomi.eu_multi_MIX4_22.5.11_v13-12-fastboot.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.11/xiaomi.eu_multi_MIX4_22.5.11_v13-12-fastboot.zip/download) |
 | MIX4 | 22.4.27 | 2022-04-28 16:43:41 UTC | xiaomi.eu_multi_MIX4_22.4.27_v13-12-fastboot.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.27/xiaomi.eu_multi_MIX4_22.4.27_v13-12-fastboot.zip/download) |
 | MIX4 | 22.4.21 | 2022-04-21 17:44:18 UTC | xiaomi.eu_multi_MIX4_22.4.21_v13-12-fastboot.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.21/xiaomi.eu_multi_MIX4_22.4.21_v13-12-fastboot.zip/download) |
 | MIX4 | 22.4.13 | 2022-04-14 17:07:12 UTC | xiaomi.eu_multi_MIX4_22.4.13_v13-12-fastboot.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.4.13/xiaomi.eu_multi_MIX4_22.4.13_v13-12-fastboot.zip/download) |
