@@ -4,6 +4,7 @@
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HM4A | 9.1.3 | 2019-01-03 21:52:01 UTC | xiaomi.eu_multi_HM4A_9.1.3_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HM4A_9.1.3_v10-6.0.zip/download) |
+| HM4A | 8.12.27 | 2018-12-27 23:29:45 UTC | xiaomi.eu_multi_HM4A_8.12.27_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.27/xiaomi.eu_multi_HM4A_8.12.27_v10-6.0.zip/download) |
 | HM4A | 8.12.20 | 2018-12-21 21:15:34 UTC | xiaomi.eu_multi_HM4A_8.12.20_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.20/xiaomi.eu_multi_HM4A_8.12.20_v10-6.0.zip/download) |
 | HM4A | 8.12.13 | 2018-12-13 22:54:35 UTC | xiaomi.eu_multi_HM4A_8.12.13_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.13/xiaomi.eu_multi_HM4A_8.12.13_v10-6.0.zip/download) |
 | HM4A | 8.12.6 | 2018-12-08 13:13:06 UTC | xiaomi.eu_multi_HM4A_8.12.6_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.6/xiaomi.eu_multi_HM4A_8.12.6_v10-6.0.zip/download) |
