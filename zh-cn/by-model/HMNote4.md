@@ -4,7 +4,6 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HMNote4 | 9.1.3 | 2019-01-04 16:59:03 UTC | xiaomi.eu_multi_HMNote4_9.1.3_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HMNote4_9.1.3_v10-6.0.zip/download) |
-| HMNote4 | 8.12.27 | 2018-12-28 00:53:13 UTC | xiaomi.eu_multi_HMNote4_8.12.27_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.27/xiaomi.eu_multi_HMNote4_8.12.27_v10-6.0.zip/download) |
 | HMNote4 | 8.12.20 | 2018-12-21 22:15:11 UTC | xiaomi.eu_multi_HMNote4_8.12.20_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.20/xiaomi.eu_multi_HMNote4_8.12.20_v10-6.0.zip/download) |
 | HMNote4 | 8.12.13 | 2018-12-13 23:31:41 UTC | xiaomi.eu_multi_HMNote4_8.12.13_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.13/xiaomi.eu_multi_HMNote4_8.12.13_v10-6.0.zip/download) |
 | HMNote4 | 8.12.6 | 2018-12-08 14:15:53 UTC | xiaomi.eu_multi_HMNote4_8.12.6_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.6/xiaomi.eu_multi_HMNote4_8.12.6_v10-6.0.zip/download) |
