@@ -52,9 +52,9 @@
 ### Others
 | | | |
 | ---- | ---- | ---- |
-| [VEUXG](/en-us/by-model/VEUXG.md) | [VEUX](/en-us/by-model/VEUX.md) | [INGRES](/en-us/by-model/INGRES.md) |
-| [POCOX3Pro](/en-us/by-model/POCOX3Pro.md) | [POCOM3](/en-us/by-model/POCOM3.md) | [POCOX3NFC](/en-us/by-model/POCOX3NFC.md) |
-| [POCOF1](/en-us/by-model/POCOF1.md)  | |
+| [MUNCH](/en-us/by-model/MUNCH.md) | [VEUXG](/en-us/by-model/VEUXG.md) | [VEUX](/en-us/by-model/VEUX.md) |
+| [INGRES](/en-us/by-model/INGRES.md) | [POCOX3Pro](/en-us/by-model/POCOX3Pro.md) | [POCOM3](/en-us/by-model/POCOM3.md) |
+| [POCOX3NFC](/en-us/by-model/POCOX3NFC.md) | [POCOF1](/en-us/by-model/POCOF1.md)  |
 ## Version
 [Weekly](#Weekly)  [Stable](#Stable)
 ### Weekly
@@ -220,9 +220,9 @@
 ### 其它
 | | | |
 | ---- | ---- | ---- |
-| [VEUXG](/zh-cn/by-model/VEUXG.md) | [VEUX](/zh-cn/by-model/VEUX.md) | [INGRES](/zh-cn/by-model/INGRES.md) |
-| [POCOX3Pro](/zh-cn/by-model/POCOX3Pro.md) | [POCOM3](/zh-cn/by-model/POCOM3.md) | [POCOX3NFC](/zh-cn/by-model/POCOX3NFC.md) |
-| [POCOF1](/zh-cn/by-model/POCOF1.md)  | |
+| [MUNCH](/zh-cn/by-model/MUNCH.md) | [VEUXG](/zh-cn/by-model/VEUXG.md) | [VEUX](/zh-cn/by-model/VEUX.md) |
+| [INGRES](/zh-cn/by-model/INGRES.md) | [POCOX3Pro](/zh-cn/by-model/POCOX3Pro.md) | [POCOM3](/zh-cn/by-model/POCOM3.md) |
+| [POCOX3NFC](/zh-cn/by-model/POCOX3NFC.md) | [POCOF1](/zh-cn/by-model/POCOF1.md)  |
 ## 版本
 [开发版](#开发版)  [稳定版](#稳定版)
 ### 开发版
