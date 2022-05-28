@@ -91,7 +91,6 @@
 | MI5X | 7.8.31 | 2017-08-31 20:38:33 UTC | xiaomi.eu_multi_MI5X_7.8.31_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.31/xiaomi.eu_multi_MI5X_7.8.31_v9-7.1.zip/download) |
 | MI5X | 7.8.24 | 2017-08-25 02:31:32 UTC | xiaomi.eu_multi_MI5X_7.8.24_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.24/xiaomi.eu_multi_MI5X_7.8.24_v9-7.1.zip/download) |
 | MI5X | 7.8.17 | 2017-08-17 18:02:29 UTC | xiaomi.eu_multi_MI5X_7.8.17_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.17/xiaomi.eu_multi_MI5X_7.8.17_v9-7.1.zip/download) |
-| MI5X | 7.8.10 | 2017-08-11 11:12:34 UTC | xiaomi.eu_multi_MI5X_7.8.10_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.10/xiaomi.eu_multi_MI5X_7.8.10_v9-7.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
