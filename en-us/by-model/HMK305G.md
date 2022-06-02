@@ -102,6 +102,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK305G | V13.0.2.0.SGICNXM | 2022-06-02 17:55:23 UTC | xiaomi.eu_multi_HMK305G_V13.0.2.0.SGICNXM_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK305G_V13.0.2.0.SGICNXM_v13-12-fastboot.zip/download) |
 | HMK305G | V13.0.1.0.SGICNXM | 2022-04-27 18:15:57 UTC | xiaomi.eu_multi_HMK305G_V13.0.1.0.SGICNXM_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK305G_V13.0.1.0.SGICNXM_v13-12-fastboot.zip/download) |
 | HMK305G | V12.5.7.0.RGICNXM | 2021-11-06 06:28:57 UTC | xiaomi.eu_multi_HMK305G_V12.5.7.0.RGICNXM_v12-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK305G_V12.5.7.0.RGICNXM_v12-11.zip/download) |
 | HMK305G | V12.5.5.0.RGICNXM | 2021-09-15 11:05:08 UTC | xiaomi.eu_multi_HMK305G_V12.5.5.0.RGICNXM_v12-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK305G_V12.5.5.0.RGICNXM_v12-11.zip/download) |
