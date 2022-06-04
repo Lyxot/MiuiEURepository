@@ -4,7 +4,6 @@
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HMNote5ALITE | 9.8.29 | 2019-08-31 02:17:57 UTC | xiaomi.eu_multi_HMNote5ALITE_9.8.29_v10-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.29/xiaomi.eu_multi_HMNote5ALITE_9.8.29_v10-7.1.zip/download) |
-| HMNote5ALITE | 9.7.18 | 2019-07-19 00:44:10 UTC | xiaomi.eu_multi_HMNote5ALITE_9.7.18_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.18/xiaomi.eu_multi_HMNote5ALITE_9.7.18_v10-7.1.zip/download) |
 | HMNote5ALITE | 9.7.11 | 2019-07-11 22:37:55 UTC | xiaomi.eu_multi_HMNote5ALITE_9.7.11_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.11/xiaomi.eu_multi_HMNote5ALITE_9.7.11_v10-7.1.zip/download) |
 | HMNote5ALITE | 9.7.4 | 2019-07-04 18:26:23 UTC | xiaomi.eu_multi_HMNote5ALITE_9.7.4_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.4/xiaomi.eu_multi_HMNote5ALITE_9.7.4_v10-7.1.zip/download) |
 | HMNote5ALITE | 9.6.27 | 2019-06-28 03:39:55 UTC | xiaomi.eu_multi_HMNote5ALITE_9.6.27_v10-7.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.27/xiaomi.eu_multi_HMNote5ALITE_9.6.27_v10-7.1.zip/download) |
