@@ -95,6 +95,7 @@
 | HMK20MI9T | 9.8.8 | 2019-08-09 05:46:12 UTC | xiaomi.eu_multi_HMK20MI9T_9.8.8_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.8/xiaomi.eu_multi_HMK20MI9T_9.8.8_v10-9.zip/download) |
 | HMK20MI9T | 9.8.1 | 2019-08-02 16:10:10 UTC | xiaomi.eu_multi_HMK20MI9T_9.8.1_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.8.1/xiaomi.eu_multi_HMK20MI9T_9.8.1_v10-9.zip/download) |
 | HMK20MI9T | 9.7.25 | 2019-07-26 06:12:36 UTC | xiaomi.eu_multi_HMK20MI9T_9.7.25_v10-9.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.25/xiaomi.eu_multi_HMK20MI9T_9.7.25_v10-9.zip/download) |
+| HMK20MI9T | 9.7.18 | 2019-07-19 08:36:14 UTC | xiaomi.eu_multi_HMK20MI9T_9.7.18_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.18/xiaomi.eu_multi_HMK20MI9T_9.7.18_v10-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
