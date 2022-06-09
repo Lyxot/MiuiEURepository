@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MINote10 MICC9Pro | 22.6.9 | 2022-06-09 18:50:02 UTC | xiaomi.eu_multi_MINote10_MICC9Pro_22.6.9_v13-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.9/xiaomi.eu_multi_MINote10_MICC9Pro_22.6.9_v13-11.zip/download) |
 | MINote10 MICC9Pro | 22.6.1 | 2022-06-02 13:33:24 UTC | xiaomi.eu_multi_MINote10_MICC9Pro_22.6.1_v13-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.1/xiaomi.eu_multi_MINote10_MICC9Pro_22.6.1_v13-11.zip/download) |
 | MINote10 MICC9Pro | 22.5.25 | 2022-05-26 15:28:52 UTC | xiaomi.eu_multi_MINote10_MICC9Pro_22.5.25_v13-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.25/xiaomi.eu_multi_MINote10_MICC9Pro_22.5.25_v13-11.zip/download) |
 | MINote10 MICC9Pro | 22.5.18 | 2022-05-19 16:55:48 UTC | xiaomi.eu_multi_MINote10_MICC9Pro_22.5.18_v13-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.18/xiaomi.eu_multi_MINote10_MICC9Pro_22.5.18_v13-11.zip/download) |
