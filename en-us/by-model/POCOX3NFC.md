@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| POCOX3NFC | V12.5.8.0.RJGMIXM | 2022-06-10 15:59:40 UTC | xiaomi.eu_multi_POCOX3NFC_V12.5.8.0.RJGMIXM_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3NFC_V12.5.8.0.RJGMIXM_v12-11.zip/download) |
 | POCOX3NFC | V12.5.7.0.RJGMIXM | 2022-04-27 00:00:24 UTC | xiaomi.eu_multi_POCOX3NFC_V12.5.7.0.RJGMIXM_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3NFC_V12.5.7.0.RJGMIXM_v12-11.zip/download) |
 | POCOX3NFC | V12.5.5.0.RJGMIXM | 2022-02-25 04:43:54 UTC | xiaomi.eu_multi_POCOX3NFC_V12.5.5.0.RJGMIXM_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3NFC_V12.5.5.0.RJGMIXM_v12-11.zip/download) |
 | POCOX3NFC | V12.5.4.0.RJGMIXM | 2021-11-26 00:36:09 UTC | xiaomi.eu_multi_POCOX3NFC_V12.5.4.0.RJGMIXM_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOX3NFC_V12.5.4.0.RJGMIXM_v12-11.zip/download) |
