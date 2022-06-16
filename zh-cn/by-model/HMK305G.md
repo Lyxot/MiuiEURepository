@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK305G | 22.6.15 | 2022-06-16 16:48:33 UTC | xiaomi.eu_multi_HMK305G_22.6.15_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.15/xiaomi.eu_multi_HMK305G_22.6.15_v13-12-fastboot.zip/download) |
 | HMK305G | 22.6.9 | 2022-06-09 18:04:30 UTC | xiaomi.eu_multi_HMK305G_22.6.9_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.9/xiaomi.eu_multi_HMK305G_22.6.9_v13-12-fastboot.zip/download) |
 | HMK305G | 22.6.1 | 2022-06-02 12:43:36 UTC | xiaomi.eu_multi_HMK305G_22.6.1_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.1/xiaomi.eu_multi_HMK305G_22.6.1_v13-12-fastboot.zip/download) |
 | HMK305G | 22.5.25 | 2022-05-26 17:56:07 UTC | xiaomi.eu_multi_HMK305G_22.5.25_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.25/xiaomi.eu_multi_HMK305G_22.5.25_v13-12-fastboot.zip/download) |
