@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XM12X | 22.6.15 | 2022-06-16 18:10:11 UTC | xiaomi.eu_multi_XM12X_22.6.15_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.15/xiaomi.eu_multi_XM12X_22.6.15_v13-12-fastboot.zip/download) |
 | XM12X | 22.6.9 | 2022-06-09 18:19:06 UTC | xiaomi.eu_multi_XM12X_22.6.9_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.9/xiaomi.eu_multi_XM12X_22.6.9_v13-12-fastboot.zip/download) |
 | XM12X | 22.5.31 | 2022-06-02 16:21:21 UTC | xiaomi.eu_multi_XM12X_22.5.31_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.31/xiaomi.eu_multi_XM12X_22.5.31_v13-12-fastboot.zip/download) |
 | XM12X | 22.5.25 | 2022-05-26 15:34:23 UTC | xiaomi.eu_multi_XM12X_22.5.25_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.5.25/xiaomi.eu_multi_XM12X_22.5.25_v13-12-fastboot.zip/download) |
