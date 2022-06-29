@@ -4,7 +4,6 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HMNote3SE | 8.12.27 | 2018-12-28 19:31:44 UTC | xiaomi.eu_multi_HMNote3SE_8.12.27_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.27/xiaomi.eu_multi_HMNote3SE_8.12.27_v10-6.0.zip/download) |
-| HMNote3SE | 8.12.20 | 2018-12-22 04:16:57 UTC | xiaomi.eu_multi_HMNote3SE_8.12.20_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.20/xiaomi.eu_multi_HMNote3SE_8.12.20_v10-6.0.zip/download) |
 | HMNote3SE | 8.12.13 | 2018-12-14 12:08:50 UTC | xiaomi.eu_multi_HMNote3SE_8.12.13_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.13/xiaomi.eu_multi_HMNote3SE_8.12.13_v10-6.0.zip/download) |
 | HMNote3SE | 8.12.6 | 2018-12-09 17:25:14 UTC | xiaomi.eu_multi_HMNote3SE_8.12.6_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.6/xiaomi.eu_multi_HMNote3SE_8.12.6_v10-6.0.zip/download) |
 | HMNote3SE | 8.11.29 | 2018-11-30 23:29:39 UTC | xiaomi.eu_multi_HMNote3SE_8.11.29_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.29/xiaomi.eu_multi_HMNote3SE_8.11.29_v10-6.0.zip/download) |
