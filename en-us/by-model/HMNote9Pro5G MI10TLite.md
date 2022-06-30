@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote9Pro5G MI10TLite | 22.6.29 | 2022-06-30 15:13:56 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.29_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.29/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.29_v13-12-fastboot.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.6.22 | 2022-06-23 13:23:06 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.22_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.22/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.22_v13-12-fastboot.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.6.15 | 2022-06-16 17:18:06 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.15_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.15/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.15_v13-12-fastboot.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.6.9 | 2022-06-09 16:09:09 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.9_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.9/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.6.9_v13-12-fastboot.zip/download) |
