@@ -102,7 +102,6 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMNote5Pro | V12.0.3.0.PEICNXM | 2021-06-15 11:26:33 UTC | xiaomi.eu_multi_HMNote5Pro_V12.0.3.0.PEICNXM_v12-9.zip | 2.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote5Pro_V12.0.3.0.PEICNXM_v12-9.zip/download) |
 | HMNote5Pro | V11.0.2.0.PEICNXM | 2019-11-04 07:54:00 UTC | xiaomi.eu_multi_HMNote5Pro_V11.0.2.0.PEICNXM_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HMNote5Pro_V11.0.2.0.PEICNXM_v11-9.zip/download) |
 | HMNote5Pro | V10.3.5.0.PEICNXM | 2019-08-28 21:38:14 UTC | xiaomi.eu_multi_HMNote5Pro_V10.3.5.0.PEICNXM_v10-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HMNote5Pro_V10.3.5.0.PEICNXM_v10-9.zip/download) |
 | HMNote5Pro | V10.3.4.0.PEICNXM | 2019-07-19 02:50:48 UTC | xiaomi.eu_multi_HMNote5Pro_V10.3.4.0.PEICNXM_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HMNote5Pro_V10.3.4.0.PEICNXM_v10-9.zip/download) |
