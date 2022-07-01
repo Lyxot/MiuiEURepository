@@ -26,6 +26,7 @@
 | HMNote6Pro | 8.12.13 | 2018-12-14 15:25:29 UTC | xiaomi.eu_multi_HMNote6Pro_8.12.13_v10-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.13/xiaomi.eu_multi_HMNote6Pro_8.12.13_v10-8.1.zip/download) |
 | HMNote6Pro | 8.12.6 | 2018-12-08 14:31:58 UTC | xiaomi.eu_multi_HMNote6Pro_8.12.6_v10-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.6/xiaomi.eu_multi_HMNote6Pro_8.12.6_v10-8.1.zip/download) |
 | HMNote6Pro | 8.11.29 | 2018-12-04 06:28:46 UTC | xiaomi.eu_multi_HMNote6Pro_8.11.29_v10-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.29/xiaomi.eu_multi_HMNote6Pro_8.11.29_v10-8.1.zip/download) |
+| HMNote6Pro | 8.11.23 | 2018-11-26 13:27:22 UTC | xiaomi.eu_multi_HMNote6Pro_8.11.23_v10-8.1.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.23/xiaomi.eu_multi_HMNote6Pro_8.11.23_v10-8.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
