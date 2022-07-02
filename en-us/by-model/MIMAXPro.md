@@ -61,7 +61,6 @@
 | MIMAXPro | 7.8.24 | 2017-08-24 16:38:08 UTC | xiaomi.eu_multi_MIMAXPro_7.8.24_v9-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.24/xiaomi.eu_multi_MIMAXPro_7.8.24_v9-7.0.zip/download) |
 | MIMAXPro | 7.8.17 | 2017-08-18 12:05:29 UTC | xiaomi.eu_multi_MIMAXPro_7.8.17_v9-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.17/xiaomi.eu_multi_MIMAXPro_7.8.17_v9-7.0.zip/download) |
 | MIMAXPro | 7.7.20 | 2017-07-24 17:57:35 UTC | xiaomi.eu_multi_MIMAXPro_7.7.20_v8-7.0.zip | 977.2 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.20/xiaomi.eu_multi_MIMAXPro_7.7.20_v8-7.0.zip/download) |
-| MIMAXPro | 7.7.15 | 2017-07-15 17:40:00 UTC | xiaomi.eu_multi_MIMAXPro_7.7.15_v8-7.0.zip | 972.5 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.15/xiaomi.eu_multi_MIMAXPro_7.7.15_v8-7.0.zip/download) |
 | MIMAXPro | 7.7.13 | 2017-07-14 18:34:20 UTC | xiaomi.eu_multi_MIMAXPro_7.7.13_v8-7.0.zip | 972.5 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.13/xiaomi.eu_multi_MIMAXPro_7.7.13_v8-7.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
