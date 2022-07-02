@@ -47,7 +47,6 @@
 | MIPAD4 | 8.10.25 | 2018-10-26 16:33:49 UTC | xiaomi.eu_multi_MIPAD4_8.10.25_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.25/xiaomi.eu_multi_MIPAD4_8.10.25_v10-8.1.zip/download) |
 | MIPAD4 | 8.10.18 | 2018-10-19 08:19:24 UTC | xiaomi.eu_multi_MIPAD4_8.10.18_v10-8.1.zip | 1.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.18/xiaomi.eu_multi_MIPAD4_8.10.18_v10-8.1.zip/download) |
 | MIPAD4 | 8.10.11 | 2018-10-12 23:48:33 UTC | xiaomi.eu_multi_MIPAD4_8.10.11_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.11/xiaomi.eu_multi_MIPAD4_8.10.11_v10-8.1.zip/download) |
-| MIPAD4 | 8.9.20 | 2018-09-21 09:34:38 UTC | xiaomi.eu_multi_MIPAD4_8.9.20_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.20/xiaomi.eu_multi_MIPAD4_8.9.20_v10-8.1.zip/download) |
 | MIPAD4 | 8.9.13 | 2018-09-14 10:30:25 UTC | xiaomi.eu_multi_MIPAD4_8.9.13_v10-8.1.zip | 1.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.13/xiaomi.eu_multi_MIPAD4_8.9.13_v10-8.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
