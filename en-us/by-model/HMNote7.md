@@ -88,6 +88,7 @@
 | HMNote7 | 9.3.7 | 2019-03-08 10:44:09 UTC | xiaomi.eu_multi_HMNote7_9.3.7_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.3.7/xiaomi.eu_multi_HMNote7_9.3.7_v10-9.zip/download) |
 | HMNote7 | 9.3.1 | 2019-03-04 15:50:46 UTC | xiaomi.eu_multi_HMNote7_9.3.1_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.3.1/xiaomi.eu_multi_HMNote7_9.3.1_v10-9.zip/download) |
 | HMNote7 | 9.2.22 | 2019-02-26 09:55:57 UTC | xiaomi.eu_multi_HMNote7_9.2.22_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.22/xiaomi.eu_multi_HMNote7_9.2.22_v10-9.zip/download) |
+| HMNote7 | 9.2.14 | 2019-02-18 16:31:50 UTC | xiaomi.eu_multi_HMNote7_9.2.14_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.14/xiaomi.eu_multi_HMNote7_9.2.14_v10-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
