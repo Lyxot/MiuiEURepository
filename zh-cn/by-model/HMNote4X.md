@@ -62,7 +62,6 @@
 | HMNote4X | 7.8.17 | 2017-08-17 18:01:31 UTC | xiaomi.eu_multi_HMNote4X_7.8.17_v9-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.17/xiaomi.eu_multi_HMNote4X_7.8.17_v9-7.0.zip/download) |
 | HMNote4X | 7.8.10 | 2017-08-11 11:11:34 UTC | xiaomi.eu_multi_HMNote4X_7.8.10_v9-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.10/xiaomi.eu_multi_HMNote4X_7.8.10_v9-7.0.zip/download) |
 | HMNote4X | 7.7.20 | 2017-07-23 12:09:24 UTC | xiaomi.eu_multi_HMNote4X_7.7.20_v8-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.20/xiaomi.eu_multi_HMNote4X_7.7.20_v8-7.0.zip/download) |
-| HMNote4X | 7.7.13 | 2017-07-14 18:27:13 UTC | xiaomi.eu_multi_HMNote4X_7.7.13_v8-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.13/xiaomi.eu_multi_HMNote4X_7.7.13_v8-7.0.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
