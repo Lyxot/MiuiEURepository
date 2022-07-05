@@ -79,6 +79,7 @@
 | HMNote5A | 7.10.12 | 2017-10-12 20:23:05 UTC | xiaomi.eu_multi_HMNote5A_7.10.12_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_HMNote5A_7.10.12_v9-7.1.zip/download) |
 | HMNote5A | 7.9.21 | 2017-09-22 02:57:03 UTC | xiaomi.eu_multi_HMNote5A_7.9.21_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.21/xiaomi.eu_multi_HMNote5A_7.9.21_v9-7.1.zip/download) |
 | HMNote5A | 7.9.14 | 2017-09-14 19:25:44 UTC | xiaomi.eu_multi_HMNote5A_7.9.14_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.14/xiaomi.eu_multi_HMNote5A_7.9.14_v9-7.1.zip/download) |
+| HMNote5A | 7.9.7 | 2017-09-08 02:36:44 UTC | xiaomi.eu_multi_HMNote5A_7.9.7_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.7/xiaomi.eu_multi_HMNote5A_7.9.7_v9-7.1.zip/download) |
 | HMNote5A | 7.8.31 | 2017-08-31 20:34:42 UTC | xiaomi.eu_multi_HMNote5A_7.8.31_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.31/xiaomi.eu_multi_HMNote5A_7.8.31_v9-7.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |

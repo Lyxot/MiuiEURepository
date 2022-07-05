@@ -48,6 +48,7 @@
 | HMNote3SE | 7.10.12 | 2017-10-13 08:20:58 UTC | xiaomi.eu_multi_HMNote3SE_7.10.12_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_HMNote3SE_7.10.12_v9-6.0.zip/download) |
 | HMNote3SE | 7.9.22 | 2017-09-22 14:13:57 UTC | xiaomi.eu_multi_HMNote3SE_7.9.22_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.22/xiaomi.eu_multi_HMNote3SE_7.9.22_v9-6.0.zip/download) |
 | HMNote3SE | 7.9.15 | 2017-09-16 15:09:58 UTC | xiaomi.eu_multi_HMNote3SE_7.9.15_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.15/xiaomi.eu_multi_HMNote3SE_7.9.15_v9-6.0.zip/download) |
+| HMNote3SE | 7.9.7 | 2017-09-08 18:30:07 UTC | xiaomi.eu_multi_HMNote3SE_7.9.7_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.7/xiaomi.eu_multi_HMNote3SE_7.9.7_v9-6.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

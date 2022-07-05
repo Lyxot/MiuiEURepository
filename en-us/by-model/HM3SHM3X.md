@@ -52,6 +52,7 @@
 | HM3SHM3X | 7.10.12 | 2017-10-12 20:14:37 UTC | xiaomi.eu_multi_HM3SHM3X_7.10.12_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_HM3SHM3X_7.10.12_v9-6.0.zip/download) |
 | HM3SHM3X | 7.9.21 | 2017-09-22 02:49:38 UTC | xiaomi.eu_multi_HM3SHM3X_7.9.21_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.21/xiaomi.eu_multi_HM3SHM3X_7.9.21_v9-6.0.zip/download) |
 | HM3SHM3X | 7.9.14 | 2017-09-14 19:16:24 UTC | xiaomi.eu_multi_HM3SHM3X_7.9.14_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.14/xiaomi.eu_multi_HM3SHM3X_7.9.14_v9-6.0.zip/download) |
+| HM3SHM3X | 7.9.7 | 2017-09-08 12:59:39 UTC | xiaomi.eu_multi_HM3SHM3X_7.9.7_v9-6.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.7/xiaomi.eu_multi_HM3SHM3X_7.9.7_v9-6.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

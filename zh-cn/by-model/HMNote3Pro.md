@@ -47,6 +47,7 @@
 | HMNote3Pro | 7.10.12 | 2017-10-12 20:19:20 UTC | xiaomi.eu_multi_HMNote3Pro_7.10.12_v9-6.0.zip | 991.8 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_HMNote3Pro_7.10.12_v9-6.0.zip/download) |
 | HMNote3Pro | 7.9.21 | 2017-09-22 02:53:51 UTC | xiaomi.eu_multi_HMNote3Pro_7.9.21_v9-6.0.zip | 979.9 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.21/xiaomi.eu_multi_HMNote3Pro_7.9.21_v9-6.0.zip/download) |
 | HMNote3Pro | 7.9.14 | 2017-09-14 19:22:02 UTC | xiaomi.eu_multi_HMNote3Pro_7.9.14_v9-6.0.zip | 970.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.14/xiaomi.eu_multi_HMNote3Pro_7.9.14_v9-6.0.zip/download) |
+| HMNote3Pro | 7.9.7 | 2017-09-08 13:00:23 UTC | xiaomi.eu_multi_HMNote3Pro_7.9.7_v9-6.0.zip | 985.8 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.7/xiaomi.eu_multi_HMNote3Pro_7.9.7_v9-6.0.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
