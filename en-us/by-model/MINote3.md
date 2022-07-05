@@ -112,6 +112,7 @@
 | MINote3 | 7.10.26 | 2017-10-26 19:12:48 UTC | xiaomi.eu_multi_MINote3_7.10.26_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.26/xiaomi.eu_multi_MINote3_7.10.26_v9-7.1.zip/download) |
 | MINote3 | 7.10.19 | 2017-10-19 20:02:46 UTC | xiaomi.eu_multi_MINote3_7.10.19_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.19/xiaomi.eu_multi_MINote3_7.10.19_v9-7.1.zip/download) |
 | MINote3 | 7.10.12 | 2017-10-12 20:38:53 UTC | xiaomi.eu_multi_MINote3_7.10.12_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.12/xiaomi.eu_multi_MINote3_7.10.12_v9-7.1.zip/download) |
+| MINote3 | 7.9.21 | 2017-10-03 09:43:28 UTC | xiaomi.eu_multi_MINote3_7.9.21_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.21/xiaomi.eu_multi_MINote3_7.9.21_v9-7.1.zip/download) |
 | MINote3 | 7.9.14 | 2017-09-15 05:44:54 UTC | xiaomi.eu_multi_MINote3_7.9.14_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.9.14/xiaomi.eu_multi_MINote3_7.9.14_v9-7.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
