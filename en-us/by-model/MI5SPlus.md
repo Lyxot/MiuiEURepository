@@ -92,6 +92,7 @@
 | MI5SPlus | 7.8.17 | 2017-08-18 12:00:39 UTC | xiaomi.eu_multi_MI5SPlus_7.8.17_v9-7.0.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.17/xiaomi.eu_multi_MI5SPlus_7.8.17_v9-7.0.zip/download) |
 | MI5SPlus | 7.7.20 | 2017-07-24 17:52:09 UTC | xiaomi.eu_multi_MI5SPlus_7.7.20_v8-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.20/xiaomi.eu_multi_MI5SPlus_7.7.20_v8-7.0.zip/download) |
 | MI5SPlus | 7.7.15 | 2017-07-16 06:07:57 UTC | xiaomi.eu_multi_MI5SPlus_7.7.15_v8-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.15/xiaomi.eu_multi_MI5SPlus_7.7.15_v8-7.0.zip/download) |
+| MI5SPlus | 7.7.13 | 2017-07-14 18:29:45 UTC | xiaomi.eu_multi_MI5SPlus_7.7.13_v8-7.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.13/xiaomi.eu_multi_MI5SPlus_7.7.13_v8-7.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

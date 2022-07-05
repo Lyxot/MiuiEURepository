@@ -123,6 +123,7 @@
 | MI6 | 7.8.10 | 2017-08-11 11:13:38 UTC | xiaomi.eu_multi_MI6_7.8.10_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.8.10/xiaomi.eu_multi_MI6_7.8.10_v9-7.1.zip/download) |
 | MI6 | 7.7.20 | 2017-07-24 17:55:49 UTC | xiaomi.eu_multi_MI6_7.7.20_v8-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.20/xiaomi.eu_multi_MI6_7.7.20_v8-7.1.zip/download) |
 | MI6 | 7.7.17 | 2017-07-17 09:59:22 UTC | xiaomi.eu_multi_MI6_7.7.17_v8-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.15/xiaomi.eu_multi_MI6_7.7.17_v8-7.1.zip/download) |
+| MI6 | 7.7.14 | 2017-07-14 19:50:16 UTC | xiaomi.eu_multi_MI6_7.7.14_v8-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.7.13/xiaomi.eu_multi_MI6_7.7.14_v8-7.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
