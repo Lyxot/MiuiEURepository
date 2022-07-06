@@ -118,6 +118,7 @@
 | MI9SE | 9.4.25 | 2019-04-25 21:37:26 UTC | xiaomi.eu_multi_MI9SE_9.4.25_v10-9.zip | 2.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.4.25/xiaomi.eu_multi_MI9SE_9.4.25_v10-9.zip/download) |
 | MI9SE | 9.4.18 | 2019-04-18 22:55:15 UTC | xiaomi.eu_multi_MI9SE_9.4.18_v10-9.zip | 2.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.4.18/xiaomi.eu_multi_MI9SE_9.4.18_v10-9.zip/download) |
 | MI9SE | 9.4.11 | 2019-04-14 07:50:43 UTC | xiaomi.eu_multi_MI9SE_9.4.11_v10-9.zip | 2.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.4.11/xiaomi.eu_multi_MI9SE_9.4.11_v10-9.zip/download) |
+| MI9SE | 9.4.3 | 2019-04-04 05:15:19 UTC | xiaomi.eu_multi_MI9SE_9.4.3_v10-9.zip | 2.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.4.3/xiaomi.eu_multi_MI9SE_9.4.3_v10-9.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
