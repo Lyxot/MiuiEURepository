@@ -35,6 +35,7 @@
 | MIX4 | 21.9.22 | 2021-09-26 14:33:49 UTC | xiaomi.eu_multi_MIX4_21.9.22_v12-11-fastboot.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.9.22/xiaomi.eu_multi_MIX4_21.9.22_v12-11-fastboot.zip/download) |
 | MIX4 | 21.9.15 | 2021-09-19 06:00:40 UTC | xiaomi.eu_multi_MIX4_21.9.15_v12-11-fastboot.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.9.15/xiaomi.eu_multi_MIX4_21.9.15_v12-11-fastboot.zip/download) |
 | MIX4 | 21.9.8 | 2021-09-09 16:34:42 UTC | xiaomi.eu_multi_MIX4_21.9.8_v12-11-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.9.8/xiaomi.eu_multi_MIX4_21.9.8_v12-11-fastboot.zip/download) |
+| MIX4 | 21.9.1 | 2021-09-03 10:19:44 UTC | xiaomi.eu_multi_MIX4_21.9.1_v12-11-fastboot.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.9.1/xiaomi.eu_multi_MIX4_21.9.1_v12-11-fastboot.zip/download) |
 | MIX4 | 21.8.25 | 2021-08-26 15:55:34 UTC | xiaomi.eu_multi_MIX4_21.8.25_v12-11-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.8.25/xiaomi.eu_multi_MIX4_21.8.25_v12-11-fastboot.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
