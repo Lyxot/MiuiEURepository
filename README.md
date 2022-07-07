@@ -167,12 +167,13 @@
 | [V9.5.10.0](/en-us/by-version/V9.5.10.0.md) | [V9.5.8.0](/en-us/by-version/V9.5.8.0.md) | [V9.5.7.0](/en-us/by-version/V9.5.7.0.md) | [V9.5.6.0](/en-us/by-version/V9.5.6.0.md) | [V9.5.5.0](/en-us/by-version/V9.5.5.0.md) |
 | [V9.5.4.0](/en-us/by-version/V9.5.4.0.md) | [V9.5.3.0](/en-us/by-version/V9.5.3.0.md) | [V9.5.2.0](/en-us/by-version/V9.5.2.0.md) | [V9.5.1.0](/en-us/by-version/V9.5.1.0.md) | [V9.2.7.0](/en-us/by-version/V9.2.7.0.md) |
 | [V9.2.5.0](/en-us/by-version/V9.2.5.0.md) | [V9.2.4.0](/en-us/by-version/V9.2.4.0.md) | [V9.2.3.0](/en-us/by-version/V9.2.3.0.md) | [V9.2.2.0](/en-us/by-version/V9.2.2.0.md) | [V9.2.1.0](/en-us/by-version/V9.2.1.0.md) |
-| [V9.1.9.0](/en-us/by-version/V9.1.9.0.md) | [V9.1.5.0](/en-us/by-version/V9.1.5.0.md) | [V9.1.4.0](/en-us/by-version/V9.1.4.0.md) | [V9.1.3.0](/en-us/by-version/V9.1.3.0.md) | [V9.1.2.0](/en-us/by-version/V9.1.2.0.md) |
-| [V9.1.1.0](/en-us/by-version/V9.1.1.0.md) | [V9.0.6.0](/en-us/by-version/V9.0.6.0.md) | [V9.0.5.0](/en-us/by-version/V9.0.5.0.md) | [V9.0.4.0](/en-us/by-version/V9.0.4.0.md) | [V9.0.3.0](/en-us/by-version/V9.0.3.0.md) |
-| [V9.0.1.0](/en-us/by-version/V9.0.1.0.md) | [V8.5.16.0](/en-us/by-version/V8.5.16.0.md) | [V8.5.15.0](/en-us/by-version/V8.5.15.0.md) | [V8.5.14.0](/en-us/by-version/V8.5.14.0.md) | [V8.5.13.0](/en-us/by-version/V8.5.13.0.md) |
-| [V8.5.12.0](/en-us/by-version/V8.5.12.0.md) | [V8.5.10.0](/en-us/by-version/V8.5.10.0.md) | [V8.5.9.0](/en-us/by-version/V8.5.9.0.md) | [V8.5.8.0](/en-us/by-version/V8.5.8.0.md) | [V8.5.7.0](/en-us/by-version/V8.5.7.0.md) |
-| [V8.5.6.0](/en-us/by-version/V8.5.6.0.md) | [V8.5.5.0](/en-us/by-version/V8.5.5.0.md) | [V8.5.4.0](/en-us/by-version/V8.5.4.0.md) | [V8.5.3.0](/en-us/by-version/V8.5.3.0.md) | [V8.5.2.0](/en-us/by-version/V8.5.2.0.md) |
-| [V8.5.1.0](/en-us/by-version/V8.5.1.0.md) | [V8.2.28.0](/en-us/by-version/V8.2.28.0.md)  | | |
+| [V9.1.11.0](/en-us/by-version/V9.1.11.0.md) | [V9.1.9.0](/en-us/by-version/V9.1.9.0.md) | [V9.1.7.0](/en-us/by-version/V9.1.7.0.md) | [V9.1.6.0](/en-us/by-version/V9.1.6.0.md) | [V9.1.5.0](/en-us/by-version/V9.1.5.0.md) |
+| [V9.1.4.0](/en-us/by-version/V9.1.4.0.md) | [V9.1.3.0](/en-us/by-version/V9.1.3.0.md) | [V9.1.2.0](/en-us/by-version/V9.1.2.0.md) | [V9.1.1.0](/en-us/by-version/V9.1.1.0.md) | [V9.0.6.0](/en-us/by-version/V9.0.6.0.md) |
+| [V9.0.5.0](/en-us/by-version/V9.0.5.0.md) | [V9.0.4.0](/en-us/by-version/V9.0.4.0.md) | [V9.0.3.0](/en-us/by-version/V9.0.3.0.md) | [V9.0.1.0](/en-us/by-version/V9.0.1.0.md) | [V8.5.16.0](/en-us/by-version/V8.5.16.0.md) |
+| [V8.5.15.0](/en-us/by-version/V8.5.15.0.md) | [V8.5.14.0](/en-us/by-version/V8.5.14.0.md) | [V8.5.13.0](/en-us/by-version/V8.5.13.0.md) | [V8.5.12.0](/en-us/by-version/V8.5.12.0.md) | [V8.5.10.0](/en-us/by-version/V8.5.10.0.md) |
+| [V8.5.9.0](/en-us/by-version/V8.5.9.0.md) | [V8.5.8.0](/en-us/by-version/V8.5.8.0.md) | [V8.5.7.0](/en-us/by-version/V8.5.7.0.md) | [V8.5.6.0](/en-us/by-version/V8.5.6.0.md) | [V8.5.5.0](/en-us/by-version/V8.5.5.0.md) |
+| [V8.5.4.0](/en-us/by-version/V8.5.4.0.md) | [V8.5.3.0](/en-us/by-version/V8.5.3.0.md) | [V8.5.2.0](/en-us/by-version/V8.5.2.0.md) | [V8.5.1.0](/en-us/by-version/V8.5.1.0.md) | [V8.2.28.0](/en-us/by-version/V8.2.28.0.md) |
+ | | | | |
 # Miui EU 收集仓库
 [机型](#机型)  [版本](#版本)
 ## 机型
@@ -337,9 +338,10 @@
 | [V9.5.10.0](/zh-cn/by-version/V9.5.10.0.md) | [V9.5.8.0](/zh-cn/by-version/V9.5.8.0.md) | [V9.5.7.0](/zh-cn/by-version/V9.5.7.0.md) | [V9.5.6.0](/zh-cn/by-version/V9.5.6.0.md) | [V9.5.5.0](/zh-cn/by-version/V9.5.5.0.md) |
 | [V9.5.4.0](/zh-cn/by-version/V9.5.4.0.md) | [V9.5.3.0](/zh-cn/by-version/V9.5.3.0.md) | [V9.5.2.0](/zh-cn/by-version/V9.5.2.0.md) | [V9.5.1.0](/zh-cn/by-version/V9.5.1.0.md) | [V9.2.7.0](/zh-cn/by-version/V9.2.7.0.md) |
 | [V9.2.5.0](/zh-cn/by-version/V9.2.5.0.md) | [V9.2.4.0](/zh-cn/by-version/V9.2.4.0.md) | [V9.2.3.0](/zh-cn/by-version/V9.2.3.0.md) | [V9.2.2.0](/zh-cn/by-version/V9.2.2.0.md) | [V9.2.1.0](/zh-cn/by-version/V9.2.1.0.md) |
-| [V9.1.9.0](/zh-cn/by-version/V9.1.9.0.md) | [V9.1.5.0](/zh-cn/by-version/V9.1.5.0.md) | [V9.1.4.0](/zh-cn/by-version/V9.1.4.0.md) | [V9.1.3.0](/zh-cn/by-version/V9.1.3.0.md) | [V9.1.2.0](/zh-cn/by-version/V9.1.2.0.md) |
-| [V9.1.1.0](/zh-cn/by-version/V9.1.1.0.md) | [V9.0.6.0](/zh-cn/by-version/V9.0.6.0.md) | [V9.0.5.0](/zh-cn/by-version/V9.0.5.0.md) | [V9.0.4.0](/zh-cn/by-version/V9.0.4.0.md) | [V9.0.3.0](/zh-cn/by-version/V9.0.3.0.md) |
-| [V9.0.1.0](/zh-cn/by-version/V9.0.1.0.md) | [V8.5.16.0](/zh-cn/by-version/V8.5.16.0.md) | [V8.5.15.0](/zh-cn/by-version/V8.5.15.0.md) | [V8.5.14.0](/zh-cn/by-version/V8.5.14.0.md) | [V8.5.13.0](/zh-cn/by-version/V8.5.13.0.md) |
-| [V8.5.12.0](/zh-cn/by-version/V8.5.12.0.md) | [V8.5.10.0](/zh-cn/by-version/V8.5.10.0.md) | [V8.5.9.0](/zh-cn/by-version/V8.5.9.0.md) | [V8.5.8.0](/zh-cn/by-version/V8.5.8.0.md) | [V8.5.7.0](/zh-cn/by-version/V8.5.7.0.md) |
-| [V8.5.6.0](/zh-cn/by-version/V8.5.6.0.md) | [V8.5.5.0](/zh-cn/by-version/V8.5.5.0.md) | [V8.5.4.0](/zh-cn/by-version/V8.5.4.0.md) | [V8.5.3.0](/zh-cn/by-version/V8.5.3.0.md) | [V8.5.2.0](/zh-cn/by-version/V8.5.2.0.md) |
-| [V8.5.1.0](/zh-cn/by-version/V8.5.1.0.md) | [V8.2.28.0](/zh-cn/by-version/V8.2.28.0.md)  | | |
+| [V9.1.11.0](/zh-cn/by-version/V9.1.11.0.md) | [V9.1.9.0](/zh-cn/by-version/V9.1.9.0.md) | [V9.1.7.0](/zh-cn/by-version/V9.1.7.0.md) | [V9.1.6.0](/zh-cn/by-version/V9.1.6.0.md) | [V9.1.5.0](/zh-cn/by-version/V9.1.5.0.md) |
+| [V9.1.4.0](/zh-cn/by-version/V9.1.4.0.md) | [V9.1.3.0](/zh-cn/by-version/V9.1.3.0.md) | [V9.1.2.0](/zh-cn/by-version/V9.1.2.0.md) | [V9.1.1.0](/zh-cn/by-version/V9.1.1.0.md) | [V9.0.6.0](/zh-cn/by-version/V9.0.6.0.md) |
+| [V9.0.5.0](/zh-cn/by-version/V9.0.5.0.md) | [V9.0.4.0](/zh-cn/by-version/V9.0.4.0.md) | [V9.0.3.0](/zh-cn/by-version/V9.0.3.0.md) | [V9.0.1.0](/zh-cn/by-version/V9.0.1.0.md) | [V8.5.16.0](/zh-cn/by-version/V8.5.16.0.md) |
+| [V8.5.15.0](/zh-cn/by-version/V8.5.15.0.md) | [V8.5.14.0](/zh-cn/by-version/V8.5.14.0.md) | [V8.5.13.0](/zh-cn/by-version/V8.5.13.0.md) | [V8.5.12.0](/zh-cn/by-version/V8.5.12.0.md) | [V8.5.10.0](/zh-cn/by-version/V8.5.10.0.md) |
+| [V8.5.9.0](/zh-cn/by-version/V8.5.9.0.md) | [V8.5.8.0](/zh-cn/by-version/V8.5.8.0.md) | [V8.5.7.0](/zh-cn/by-version/V8.5.7.0.md) | [V8.5.6.0](/zh-cn/by-version/V8.5.6.0.md) | [V8.5.5.0](/zh-cn/by-version/V8.5.5.0.md) |
+| [V8.5.4.0](/zh-cn/by-version/V8.5.4.0.md) | [V8.5.3.0](/zh-cn/by-version/V8.5.3.0.md) | [V8.5.2.0](/zh-cn/by-version/V8.5.2.0.md) | [V8.5.1.0](/zh-cn/by-version/V8.5.1.0.md) | [V8.2.28.0](/zh-cn/by-version/V8.2.28.0.md) |
+ | | | | |
