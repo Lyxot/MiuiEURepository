@@ -83,6 +83,7 @@
 | MI8Pro | 8.11.23 | 2018-11-26 11:26:29 UTC | xiaomi.eu_multi_MI8Pro_8.11.23_v10-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.23/xiaomi.eu_multi_MI8Pro_8.11.23_v10-9.zip/download) |
 | MI8Pro | 8.11.15 | 2018-11-16 15:25:53 UTC | xiaomi.eu_multi_MI8Pro_8.11.15_v10-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.15/xiaomi.eu_multi_MI8Pro_8.11.15_v10-9.zip/download) |
 | MI8Pro | 8.11.8 | 2018-11-09 06:20:24 UTC | xiaomi.eu_multi_MI8Pro_8.11.8_v10-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.8/xiaomi.eu_multi_MI8Pro_8.11.8_v10-9.zip/download) |
+| MI8Pro | 8.10.18 | 2018-10-19 11:26:51 UTC | xiaomi.eu_multi_MI8Pro_8.10.18_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.18/xiaomi.eu_multi_MI8Pro_8.10.18_v10-8.1.zip/download) |
 | MI8Pro | 8.10.11 | 2018-10-12 21:25:55 UTC | xiaomi.eu_multi_MI8Pro_8.10.11_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.11/xiaomi.eu_multi_MI8Pro_8.10.11_v10-8.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
