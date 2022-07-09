@@ -111,7 +111,6 @@
 | HMK20ProMI9TPro | 9.7.11 | 2019-07-11 22:36:23 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_9.7.11_v10-9.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.11/xiaomi.eu_multi_HMK20ProMI9TPro_9.7.11_v10-9.zip/download) |
 | HMK20ProMI9TPro | 9.7.4 | 2019-07-05 19:17:28 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_9.7.4_v10-9.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.7.4/xiaomi.eu_multi_HMK20ProMI9TPro_9.7.4_v10-9.zip/download) |
 | HMK20ProMI9TPro | 9.6.27 | 2019-06-28 02:11:58 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_9.6.27_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.27/xiaomi.eu_multi_HMK20ProMI9TPro_9.6.27_v10-9.zip/download) |
-| HMK20ProMI9TPro | 9.6.20 | 2019-06-21 03:06:21 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_9.6.20_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.20/xiaomi.eu_multi_HMK20ProMI9TPro_9.6.20_v10-9.zip/download) |
 | HMK20ProMI9TPro | 9.6.13 | 2019-06-13 23:56:55 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_9.6.13_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.13/xiaomi.eu_multi_HMK20ProMI9TPro_9.6.13_v10-9.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |

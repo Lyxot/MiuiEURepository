@@ -4,7 +4,6 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | POCOF1 | 9.6.27 | 2019-06-28 03:11:28 UTC | xiaomi.eu_multi_POCOF1_9.6.27_v10-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.27/xiaomi.eu_multi_POCOF1_9.6.27_v10-9.zip/download) |
-| POCOF1 | 9.6.20 | 2019-06-21 03:39:19 UTC | xiaomi.eu_multi_POCOF1_9.6.20_v10-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.20/xiaomi.eu_multi_POCOF1_9.6.20_v10-9.zip/download) |
 | POCOF1 | 9.6.13 | 2019-06-14 00:01:38 UTC | xiaomi.eu_multi_POCOF1_9.6.13_v10-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.13/xiaomi.eu_multi_POCOF1_9.6.13_v10-9.zip/download) |
 | POCOF1 | 9.5.30 | 2019-05-31 02:52:30 UTC | xiaomi.eu_multi_POCOF1_9.5.30_v10-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.5.30/xiaomi.eu_multi_POCOF1_9.5.30_v10-9.zip/download) |
 | POCOF1 | 9.5.23 | 2019-05-24 06:21:11 UTC | xiaomi.eu_multi_POCOF1_9.5.23_v10-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.5.23/xiaomi.eu_multi_POCOF1_9.5.23_v10-9.zip/download) |
