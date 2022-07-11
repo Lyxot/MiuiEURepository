@@ -55,6 +55,7 @@
 | MI11Lite5G | 21.5.20 | 2021-05-21 11:02:42 UTC | xiaomi.eu_multi_MI11Lite5G_21.5.20_v12-11-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.5.20/xiaomi.eu_multi_MI11Lite5G_21.5.20_v12-11-fastboot.zip/download) |
 | MI11Lite5G | 21.5.12 | 2021-05-13 21:33:47 UTC | xiaomi.eu_multi_MI11Lite5G_21.5.12_v12-11-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.5.12/xiaomi.eu_multi_MI11Lite5G_21.5.12_v12-11-fastboot.zip/download) |
 | MI11Lite5G | 21.5.12 | 2021-05-13 16:00:44 UTC | xiaomi.eu_multi_MI11Lite5G_21.5.12_v12-11.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.5.12/xiaomi.eu_multi_MI11Lite5G_21.5.12_v12-11.zip/download) |
+| MI11Lite5G | 21.4.28 | 2021-04-30 04:03:58 UTC | xiaomi.eu_multi_MI11Lite5G_21.4.28_v12-11-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.28/xiaomi.eu_multi_MI11Lite5G_21.4.28_v12-11-fastboot.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
