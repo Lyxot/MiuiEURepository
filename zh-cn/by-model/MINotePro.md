@@ -4,6 +4,7 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MINotePro | 7.11.16 | 2017-11-17 03:50:52 UTC | xiaomi.eu_multi_MINotePro_7.11.16_v9-7.0.zip | 977.4 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.16/xiaomi.eu_multi_MINotePro_7.11.16_v9-7.0.zip/download) |
+| MINotePro | 7.11.9 | 2017-11-10 13:52:39 UTC | xiaomi.eu_multi_MINotePro_7.11.9_v9-7.0.zip | 959.9 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.9/xiaomi.eu_multi_MINotePro_7.11.9_v9-7.0.zip/download) |
 | MINotePro | 7.11.2 | 2017-11-04 17:34:19 UTC | xiaomi.eu_multi_MINotePro_7.11.2_v9-7.0.zip | 953.7 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.2/xiaomi.eu_multi_MINotePro_7.11.2_v9-7.0.zip/download) |
 | MINotePro | 7.10.26 | 2017-10-26 19:13:35 UTC | xiaomi.eu_multi_MINotePro_7.10.26_v9-7.0.zip | 957.9 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.26/xiaomi.eu_multi_MINotePro_7.10.26_v9-7.0.zip/download) |
 | MINotePro | 7.10.19 | 2017-10-19 20:03:35 UTC | xiaomi.eu_multi_MINotePro_7.10.19_v9-7.0.zip | 959.5 MB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.19/xiaomi.eu_multi_MINotePro_7.10.19_v9-7.0.zip/download) |
