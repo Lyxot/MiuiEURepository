@@ -75,6 +75,7 @@
 | HM5Plus | 8.1.4 | 2018-01-04 21:45:03 UTC | xiaomi.eu_multi_HM5Plus_8.1.4_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.1.4/xiaomi.eu_multi_HM5Plus_8.1.4_v9-7.1.zip/download) |
 | HM5Plus | 7.12.28 | 2017-12-29 03:27:15 UTC | xiaomi.eu_multi_HM5Plus_7.12.28_v9-7.1.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.12.28/xiaomi.eu_multi_HM5Plus_7.12.28_v9-7.1.zip/download) |
 | HM5Plus | 7.12.21 | 2017-12-22 17:42:07 UTC | xiaomi.eu_multi_HM5Plus_7.12.21_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.12.21/xiaomi.eu_multi_HM5Plus_7.12.21_v9-7.1.zip/download) |
+| HM5Plus | 7.12.14 | 2017-12-15 08:32:01 UTC | xiaomi.eu_multi_HM5Plus_7.12.14_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.12.14/xiaomi.eu_multi_HM5Plus_7.12.14_v9-7.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
