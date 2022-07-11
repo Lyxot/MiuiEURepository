@@ -59,6 +59,7 @@
 | MI10S | 21.4.21 | 2021-04-22 19:21:41 UTC | xiaomi.eu_multi_MI10S_21.4.21_v12-11-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.21/xiaomi.eu_multi_MI10S_21.4.21_v12-11-fastboot.zip/download) |
 | MI10S | 21.4.14 | 2021-04-16 13:36:13 UTC | xiaomi.eu_multi_MI10S_21.4.14_v12-11-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.14/xiaomi.eu_multi_MI10S_21.4.14_v12-11-fastboot.zip/download) |
 | MI10S | 21.4.8 | 2021-04-10 00:09:08 UTC | xiaomi.eu_multi_MI10S_21.4.8_v12-11-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.8/xiaomi.eu_multi_MI10S_21.4.8_v12-11-fastboot.zip/download) |
+| MI10S | 21.3.31 | 2021-04-01 19:15:36 UTC | xiaomi.eu_multi_MI10S_21.3.31_v12-11-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.3.31/xiaomi.eu_multi_MI10S_21.3.31_v12-11-fastboot.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
