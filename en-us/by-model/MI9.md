@@ -121,7 +121,6 @@
 | MI9 | 9.4.1 | 2019-04-04 04:58:46 UTC | xiaomi.eu_multi_MI9_9.4.1_v10-9.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.4.1/xiaomi.eu_multi_MI9_9.4.1_v10-9.zip/download) |
 | MI9 | 9.3.28 | 2019-03-28 23:19:01 UTC | xiaomi.eu_multi_MI9_9.3.28_v10-9.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.3.28/xiaomi.eu_multi_MI9_9.3.28_v10-9.zip/download) |
 | MI9 | 9.3.21 | 2019-03-22 03:30:42 UTC | xiaomi.eu_multi_MI9_9.3.21_v10-9.zip | 2.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.3.21/xiaomi.eu_multi_MI9_9.3.21_v10-9.zip/download) |
-| MI9 | 9.3.14 | 2019-03-15 03:18:21 UTC | xiaomi.eu_multi_MI9_9.3.14_v10-9.zip | 2.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.3.14/xiaomi.eu_multi_MI9_9.3.14_v10-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
