@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK20MI9T | 21.11.24 | 2021-11-25 16:03:24 UTC | xiaomi.eu_multi_HMK20MI9T_21.11.24_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.24/xiaomi.eu_multi_HMK20MI9T_21.11.24_v12-11.zip/download) |
 | HMK20MI9T | 21.11.17 | 2021-11-18 15:00:55 UTC | xiaomi.eu_multi_HMK20MI9T_21.11.17_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.17/xiaomi.eu_multi_HMK20MI9T_21.11.17_v12-11.zip/download) |
 | HMK20MI9T | 21.11.10 | 2021-11-11 18:28:41 UTC | xiaomi.eu_multi_HMK20MI9T_21.11.10_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.10/xiaomi.eu_multi_HMK20MI9T_21.11.10_v12-11.zip/download) |
 | HMK20MI9T | 21.11.3 | 2021-11-04 16:45:09 UTC | xiaomi.eu_multi_HMK20MI9T_21.11.3_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.3/xiaomi.eu_multi_HMK20MI9T_21.11.3_v12-11.zip/download) |
