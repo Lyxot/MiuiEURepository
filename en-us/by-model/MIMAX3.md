@@ -93,7 +93,6 @@
 | MIMAX3 | 8.8.9 | 2018-08-11 02:39:21 UTC | xiaomi.eu_multi_MIMAX3_8.8.9_v10-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.9/xiaomi.eu_multi_MIMAX3_8.8.9_v10-8.1.zip/download) |
 | MIMAX3 | 8.8.3 | 2018-08-07 04:18:19 UTC | xiaomi.eu_multi_MIMAX3_8.8.3_v10-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.3/xiaomi.eu_multi_MIMAX3_8.8.3_v10-8.1.zip/download) |
 | MIMAX3 | 8.7.26 | 2018-07-29 04:57:57 UTC | xiaomi.eu_multi_MIMAX3_8.7.26_v10-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.7.26/xiaomi.eu_multi_MIMAX3_8.7.26_v10-8.1.zip/download) |
-| MIMAX3 | 8.7.19 | 2018-07-22 16:46:11 UTC | xiaomi.eu_multi_MIMAX3_8.7.19_v10-8.1.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.7.19/xiaomi.eu_multi_MIMAX3_8.7.19_v10-8.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
