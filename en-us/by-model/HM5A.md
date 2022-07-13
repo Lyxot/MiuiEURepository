@@ -78,7 +78,6 @@
 | HM5A | 7.11.23 | 2017-11-25 09:58:07 UTC | xiaomi.eu_multi_HM5A_7.11.23_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.23/xiaomi.eu_multi_HM5A_7.11.23_v9-7.1.zip/download) |
 | HM5A | 7.11.16 | 2017-11-17 04:41:40 UTC | xiaomi.eu_multi_HM5A_7.11.16_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.16/xiaomi.eu_multi_HM5A_7.11.16_v9-7.1.zip/download) |
 | HM5A | 7.11.9 | 2017-11-10 13:30:40 UTC | xiaomi.eu_multi_HM5A_7.11.9_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.9/xiaomi.eu_multi_HM5A_7.11.9_v9-7.1.zip/download) |
-| HM5A | 7.11.2 | 2017-11-04 17:13:19 UTC | xiaomi.eu_multi_HM5A_7.11.2_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.11.2/xiaomi.eu_multi_HM5A_7.11.2_v9-7.1.zip/download) |
 | HM5A | 7.10.26 | 2017-10-27 04:21:58 UTC | xiaomi.eu_multi_HM5A_7.10.26_v9-7.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/7.10.26/xiaomi.eu_multi_HM5A_7.10.26_v9-7.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
