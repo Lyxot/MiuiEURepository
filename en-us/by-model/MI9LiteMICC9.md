@@ -3,7 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI9LiteMICC9 | 21.11.24 | 2021-11-25 18:15:12 UTC | xiaomi.eu_multi_MI9LiteMICC9_21.11.24_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.24/xiaomi.eu_multi_MI9LiteMICC9_21.11.24_v12-11.zip/download) |
 | MI9LiteMICC9 | 21.11.17 | 2021-11-18 18:26:56 UTC | xiaomi.eu_multi_MI9LiteMICC9_21.11.17_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.17/xiaomi.eu_multi_MI9LiteMICC9_21.11.17_v12-11.zip/download) |
 | MI9LiteMICC9 | 21.11.10 | 2021-11-11 19:14:19 UTC | xiaomi.eu_multi_MI9LiteMICC9_21.11.10_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.10/xiaomi.eu_multi_MI9LiteMICC9_21.11.10_v12-11.zip/download) |
 | MI9LiteMICC9 | 21.11.3 | 2021-11-04 17:54:39 UTC | xiaomi.eu_multi_MI9LiteMICC9_21.11.3_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.3/xiaomi.eu_multi_MI9LiteMICC9_21.11.3_v12-11.zip/download) |

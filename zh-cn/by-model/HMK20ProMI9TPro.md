@@ -3,7 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMK20ProMI9TPro | 21.11.24 | 2021-11-25 18:43:46 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_21.11.24_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.24/xiaomi.eu_multi_HMK20ProMI9TPro_21.11.24_v12-11.zip/download) |
 | HMK20ProMI9TPro | 21.11.17 | 2021-11-18 18:40:45 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_21.11.17_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.17/xiaomi.eu_multi_HMK20ProMI9TPro_21.11.17_v12-11.zip/download) |
 | HMK20ProMI9TPro | 21.11.10 | 2021-11-11 18:32:09 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_21.11.10_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.10/xiaomi.eu_multi_HMK20ProMI9TPro_21.11.10_v12-11.zip/download) |
 | HMK20ProMI9TPro | 21.11.3 | 2021-11-04 18:50:44 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_21.11.3_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.3/xiaomi.eu_multi_HMK20ProMI9TPro_21.11.3_v12-11.zip/download) |

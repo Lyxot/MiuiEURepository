@@ -3,7 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI9Pro5G | 21.11.24 | 2021-11-25 16:12:00 UTC | xiaomi.eu_multi_MI9Pro5G_21.11.24_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.24/xiaomi.eu_multi_MI9Pro5G_21.11.24_v12-11.zip/download) |
 | MI9Pro5G | 21.11.17 | 2021-11-18 15:04:37 UTC | xiaomi.eu_multi_MI9Pro5G_21.11.17_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.17/xiaomi.eu_multi_MI9Pro5G_21.11.17_v12-11.zip/download) |
 | MI9Pro5G | 21.11.10 | 2021-11-11 19:17:47 UTC | xiaomi.eu_multi_MI9Pro5G_21.11.10_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.10/xiaomi.eu_multi_MI9Pro5G_21.11.10_v12-11.zip/download) |
 | MI9Pro5G | 21.11.3 | 2021-11-04 17:58:24 UTC | xiaomi.eu_multi_MI9Pro5G_21.11.3_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.11.3/xiaomi.eu_multi_MI9Pro5G_21.11.3_v12-11.zip/download) |
