@@ -79,7 +79,6 @@
 | HMNote7Pro | 9.6.13 | 2019-06-13 23:59:00 UTC | xiaomi.eu_multi_HMNote7Pro_9.6.13_v10-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.13/xiaomi.eu_multi_HMNote7Pro_9.6.13_v10-9.zip/download) |
 | HMNote7Pro | 9.6.5 | 2019-06-06 03:30:05 UTC | xiaomi.eu_multi_HMNote7Pro_9.6.5_v10-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.6.5/xiaomi.eu_multi_HMNote7Pro_9.6.5_v10-9.zip/download) |
 | HMNote7Pro | 9.5.30 | 2019-05-31 02:50:23 UTC | xiaomi.eu_multi_HMNote7Pro_9.5.30_v10-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.5.30/xiaomi.eu_multi_HMNote7Pro_9.5.30_v10-9.zip/download) |
-| HMNote7Pro | 9.5.23 | 2019-05-24 05:31:01 UTC | xiaomi.eu_multi_HMNote7Pro_9.5.23_v10-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.5.23/xiaomi.eu_multi_HMNote7Pro_9.5.23_v10-9.zip/download) |
 | HMNote7Pro | 9.5.16 | 2019-05-17 03:42:00 UTC | xiaomi.eu_multi_HMNote7Pro_9.5.16_v10-9.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.5.16/xiaomi.eu_multi_HMNote7Pro_9.5.16_v10-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
