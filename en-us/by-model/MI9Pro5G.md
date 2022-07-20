@@ -84,7 +84,6 @@
 | MI9Pro5G | 20.1.9 | 2020-01-10 11:56:46 UTC | xiaomi.eu_multi_MI9Pro5G_20.1.9_v11-10.zip | 2.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.9/xiaomi.eu_multi_MI9Pro5G_20.1.9_v11-10.zip/download) |
 | MI9Pro5G | 9.12.19 | 2019-12-20 09:14:52 UTC | xiaomi.eu_multi_MI9Pro5G_9.12.19_v11-9.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.19/xiaomi.eu_multi_MI9Pro5G_9.12.19_v11-9.zip/download) |
 | MI9Pro5G | 9.12.12 | 2019-12-13 13:19:48 UTC | xiaomi.eu_multi_MI9Pro5G_9.12.12_v11-9.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.12/xiaomi.eu_multi_MI9Pro5G_9.12.12_v11-9.zip/download) |
-| MI9Pro5G | 9.11.7 | 2019-11-08 05:04:55 UTC | xiaomi.eu_multi_MI9Pro5G_9.11.7_v11-9.zip | 2.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.11.7/xiaomi.eu_multi_MI9Pro5G_9.11.7_v11-9.zip/download) |
 | MI9Pro5G | 9.10.31 | 2019-10-31 18:27:48 UTC | xiaomi.eu_multi_MI9Pro5G_9.10.31_v11-9.zip | 2.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.10.31/xiaomi.eu_multi_MI9Pro5G_9.10.31_v11-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
