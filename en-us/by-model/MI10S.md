@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10S | 22.7.28 | 2022-07-28 14:38:11 UTC | xiaomi.eu_multi_MI10S_22.7.28_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.28/xiaomi.eu_multi_MI10S_22.7.28_v13-12.zip/download) |
 | MI10S | 22.7.21 | 2022-07-22 19:25:33 UTC | xiaomi.eu_multi_MI10S_22.7.21_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.21/xiaomi.eu_multi_MI10S_22.7.21_v13-12.zip/download) |
 | MI10S | 22.7.13 | 2022-07-14 17:11:32 UTC | xiaomi.eu_multi_MI10S_22.7.13_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.13/xiaomi.eu_multi_MI10S_22.7.13_v13-12.zip/download) |
 | MI10S | 22.7.7 | 2022-07-07 22:07:46 UTC | xiaomi.eu_multi_MI10S_22.7.7_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.7/xiaomi.eu_multi_MI10S_22.7.7_v13-12.zip/download) |
