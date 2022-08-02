@@ -98,8 +98,6 @@
 | HMK30Pro | 20.5.24 | 2020-05-27 19:15:19 UTC | xiaomi.eu_multi_HMK30Pro_20.5.24_v12-10.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.24/xiaomi.eu_multi_HMK30Pro_20.5.24_v12-10.zip/download) |
 | HMK30Pro | 20.5.22 | 2020-05-24 06:34:22 UTC | xiaomi.eu_multi_HMK30Pro_20.5.22_v12-10.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.22/xiaomi.eu_multi_HMK30Pro_20.5.22_v12-10.zip/download) |
 | HMK30Pro | 20.5.14 | 2020-05-15 03:52:25 UTC | xiaomi.eu_multi_HMK30Pro_20.5.14_v12-10.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.14/xiaomi.eu_multi_HMK30Pro_20.5.14_v12-10.zip/download) |
-| HMK30Pro | 20.5.7 | 2020-05-08 08:09:02 UTC | xiaomi.eu_multi_HMK30Pro_20.5.7_v12-10.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.7/xiaomi.eu_multi_HMK30Pro_20.5.7_v12-10.zip/download) |
-| HMK30Pro | 20.4.30 | 2020-05-02 07:07:51 UTC | xiaomi.eu_multi_HMK30Pro_20.4.30_v12-10.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.4.30/xiaomi.eu_multi_HMK30Pro_20.4.30_v12-10.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
