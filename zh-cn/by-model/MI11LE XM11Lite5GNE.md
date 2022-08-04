@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11LE XM11Lite5GNE | 22.8.3 | 2022-08-04 12:45:50 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.8.3_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.3/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.8.3_v13-12-fastboot.zip/download) |
 | MI11LE XM11Lite5GNE | 22.7.28 | 2022-07-28 13:27:23 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.28_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.28/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.28_v13-12-fastboot.zip/download) |
 | MI11LE XM11Lite5GNE | 22.7.21 | 2022-07-22 18:49:09 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.21_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.21/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.21_v13-12-fastboot.zip/download) |
 | MI11LE XM11Lite5GNE | 22.7.13 | 2022-07-14 16:36:29 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.13_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.13/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_22.7.13_v13-12-fastboot.zip/download) |
