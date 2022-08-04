@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10Ultra | 22.8.3 | 2022-08-04 13:34:05 UTC | xiaomi.eu_multi_MI10Ultra_22.8.3_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.3/xiaomi.eu_multi_MI10Ultra_22.8.3_v13-12.zip/download) |
 | MI10Ultra | 22.7.28 | 2022-07-28 12:37:08 UTC | xiaomi.eu_multi_MI10Ultra_22.7.28_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.28/xiaomi.eu_multi_MI10Ultra_22.7.28_v13-12.zip/download) |
 | MI10Ultra | 22.7.21 | 2022-07-22 16:33:36 UTC | xiaomi.eu_multi_MI10Ultra_22.7.21_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.21/xiaomi.eu_multi_MI10Ultra_22.7.21_v13-12.zip/download) |
 | MI10Ultra | 22.7.13 | 2022-07-14 14:06:10 UTC | xiaomi.eu_multi_MI10Ultra_22.7.13_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.13/xiaomi.eu_multi_MI10Ultra_22.7.13_v13-12.zip/download) |
