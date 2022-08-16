@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| POCOM3 | V12.5.9.0.RJFMIXM | 2022-08-16 04:12:38 UTC | xiaomi.eu_multi_POCOM3_V12.5.9.0.RJFMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOM3_V12.5.9.0.RJFMIXM_v12-11.zip/download) |
 | POCOM3 | V12.5.8.0.RJFMIXM | 2022-05-31 17:38:38 UTC | xiaomi.eu_multi_POCOM3_V12.5.8.0.RJFMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOM3_V12.5.8.0.RJFMIXM_v12-11.zip/download) |
 | POCOM3 | V12.5.7.0.RJFMIXM | 2022-02-26 20:12:27 UTC | xiaomi.eu_multi_POCOM3_V12.5.7.0.RJFMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOM3_V12.5.7.0.RJFMIXM_v12-11.zip/download) |
 | POCOM3 | V12.5.6.0.RJFMIXM | 2022-02-18 03:37:24 UTC | xiaomi.eu_multi_POCOM3_V12.5.6.0.RJFMIXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_POCOM3_V12.5.6.0.RJFMIXM_v12-11.zip/download) |
