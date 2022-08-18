@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XM12X | 22.8.17 | 2022-08-18 16:58:44 UTC | xiaomi.eu_multi_XM12X_22.8.17_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.17/xiaomi.eu_multi_XM12X_22.8.17_v13-12.zip/download) |
 | XM12X | 22.8.10 | 2022-08-11 18:23:17 UTC | xiaomi.eu_multi_XM12X_22.8.10_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.10/xiaomi.eu_multi_XM12X_22.8.10_v13-12.zip/download) |
 | XM12X | 22.8.3 | 2022-08-04 13:47:03 UTC | xiaomi.eu_multi_XM12X_22.8.3_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.3/xiaomi.eu_multi_XM12X_22.8.3_v13-12.zip/download) |
 | XM12X | 22.7.28 | 2022-07-28 14:42:59 UTC | xiaomi.eu_multi_XM12X_22.7.28_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.28/xiaomi.eu_multi_XM12X_22.7.28_v13-12.zip/download) |
