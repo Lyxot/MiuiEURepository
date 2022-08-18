@@ -73,8 +73,6 @@
 | MIMix3 | 9.1.2 | 2019-01-04 06:26:32 UTC | xiaomi.eu_multi_MIMix3_9.1.2_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.2/xiaomi.eu_multi_MIMix3_9.1.2_v10-9.zip/download) |
 | MIMix3 | 8.12.27 | 2018-12-28 22:39:24 UTC | xiaomi.eu_multi_MIMix3_8.12.27_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.27/xiaomi.eu_multi_MIMix3_8.12.27_v10-9.zip/download) |
 | MIMix3 | 8.12.20 | 2018-12-22 06:41:49 UTC | xiaomi.eu_multi_MIMix3_8.12.20_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.20/xiaomi.eu_multi_MIMix3_8.12.20_v10-9.zip/download) |
-| MIMix3 | 8.12.13 | 2018-12-14 05:04:14 UTC | xiaomi.eu_multi_MIMix3_8.12.13_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.13/xiaomi.eu_multi_MIMix3_8.12.13_v10-9.zip/download) |
-| MIMix3 | 8.12.7 | 2018-12-10 14:40:20 UTC | xiaomi.eu_multi_MIMix3_8.12.7_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.12.7/xiaomi.eu_multi_MIMix3_8.12.7_v10-9.zip/download) |
 | MIMix3 | 8.11.30 | 2018-12-09 14:20:14 UTC | xiaomi.eu_multi_MIMix3_8.11.30_v10-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.30/xiaomi.eu_multi_MIMix3_8.11.30_v10-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
