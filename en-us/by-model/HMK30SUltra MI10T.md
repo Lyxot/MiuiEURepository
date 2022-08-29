@@ -84,6 +84,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK30SUltra MI10T | V13.0.6.0.SJDCNXM | 2022-08-29 13:34:46 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.6.0.SJDCNXM_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.6.0.SJDCNXM_v13-12.zip/download) |
 | HMK30SUltra MI10T | V13.0.5.0.SJDCNXM | 2022-06-02 11:38:08 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.5.0.SJDCNXM_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.5.0.SJDCNXM_v13-12-fastboot.zip/download) |
 | HMK30SUltra MI10T | V13.0.4.0.SJDCNXM | 2022-04-02 14:35:43 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.4.0.SJDCNXM_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK30SUltra_MI10T_V13.0.4.0.SJDCNXM_v13-12-fastboot.zip/download) |
 | HMK30SUltra MI10T | V12.5.8.0.RJDCNXM | 2021-12-19 05:09:39 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_V12.5.8.0.RJDCNXM_v12-11.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK30SUltra_MI10T_V12.5.8.0.RJDCNXM_v12-11.zip/download) |
