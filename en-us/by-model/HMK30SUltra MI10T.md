@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK30SUltra MI10T | 22.8.31 | 2022-09-01 17:17:53 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.31_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.31/xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.31_v13-12.zip/download) |
 | HMK30SUltra MI10T | 22.8.25 | 2022-08-25 16:03:26 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.25_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.25/xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.25_v13-12.zip/download) |
 | HMK30SUltra MI10T | 22.8.17 | 2022-08-18 15:44:55 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.17_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.17/xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.17_v13-12.zip/download) |
 | HMK30SUltra MI10T | 22.8.10 | 2022-08-11 13:57:42 UTC | xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.10_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.8.10/xiaomi.eu_multi_HMK30SUltra_MI10T_22.8.10_v13-12.zip/download) |
