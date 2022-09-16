@@ -4,7 +4,6 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HMNote3Pro | 8.11.22 | 2018-11-22 22:07:10 UTC | xiaomi.eu_multi_HMNote3Pro_8.11.22_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.22/xiaomi.eu_multi_HMNote3Pro_8.11.22_v10-6.0.zip/download) |
-| HMNote3Pro | 8.11.15 | 2018-11-15 22:34:28 UTC | xiaomi.eu_multi_HMNote3Pro_8.11.15_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.15/xiaomi.eu_multi_HMNote3Pro_8.11.15_v10-6.0.zip/download) |
 | HMNote3Pro | 8.11.8 | 2018-11-09 04:13:15 UTC | xiaomi.eu_multi_HMNote3Pro_8.11.8_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.8/xiaomi.eu_multi_HMNote3Pro_8.11.8_v10-6.0.zip/download) |
 | HMNote3Pro | 8.11.1 | 2018-11-02 14:17:49 UTC | xiaomi.eu_multi_HMNote3Pro_8.11.1_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.11.1/xiaomi.eu_multi_HMNote3Pro_8.11.1_v10-6.0.zip/download) |
 | HMNote3Pro | 8.10.25 | 2018-10-26 11:04:16 UTC | xiaomi.eu_multi_HMNote3Pro_8.10.25_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.25/xiaomi.eu_multi_HMNote3Pro_8.10.25_v10-6.0.zip/download) |
