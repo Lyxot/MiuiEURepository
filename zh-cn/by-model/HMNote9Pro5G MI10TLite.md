@@ -86,6 +86,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote9Pro5G MI10TLite | V13.0.10.0.SJSCNXM | 2022-09-26 15:41:24 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.10.0.SJSCNXM_v13-12.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.10.0.SJSCNXM_v13-12.zip/download) |
 | HMNote9Pro5G MI10TLite | V13.0.6.0.SJSCNXM | 2022-07-12 11:28:00 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.6.0.SJSCNXM_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.6.0.SJSCNXM_v13-12-fastboot.zip/download) |
 | HMNote9Pro5G MI10TLite | V13.0.5.0.SJSCNXM | 2022-05-14 03:55:36 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.5.0.SJSCNXM_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.5.0.SJSCNXM_v13-12-fastboot.zip/download) |
 | HMNote9Pro5G MI10TLite | V13.0.4.0.SJSCNXM | 2022-05-06 06:18:29 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.4.0.SJSCNXM_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_V13.0.4.0.SJSCNXM_v13-12-fastboot.zip/download) |
