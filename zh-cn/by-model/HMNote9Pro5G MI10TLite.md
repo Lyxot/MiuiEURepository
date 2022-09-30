@@ -3,7 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMNote9Pro5G MI10TLite | 22.9.28 | 2022-09-29 19:01:02 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.28_v13-12.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.28/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.28_v13-12.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.9.21 | 2022-09-22 18:18:21 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.21_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.21/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.21_v13-12.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.9.14 | 2022-09-15 14:32:47 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.14_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.14/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.14_v13-12.zip/download) |
 | HMNote9Pro5G MI10TLite | 22.9.7 | 2022-09-08 19:59:13 UTC | xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.7_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.7/xiaomi.eu_multi_HMNote9Pro5G_MI10TLite_22.9.7_v13-12.zip/download) |
