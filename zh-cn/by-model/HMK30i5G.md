@@ -77,6 +77,7 @@
 | HMK30i5G | 20.11.12 | 2020-11-12 19:12:29 UTC | xiaomi.eu_multi_HMK30i5G_20.11.12_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.12/xiaomi.eu_multi_HMK30i5G_20.11.12_v12-11.zip/download) |
 | HMK30i5G | 20.11.5 | 2020-11-06 04:48:57 UTC | xiaomi.eu_multi_HMK30i5G_20.11.5_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.5/xiaomi.eu_multi_HMK30i5G_20.11.5_v12-11.zip/download) |
 | HMK30i5G | 20.10.30 | 2020-10-30 22:29:35 UTC | xiaomi.eu_multi_HMK30i5G_20.10.30_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.30/xiaomi.eu_multi_HMK30i5G_20.10.30_v12-11.zip/download) |
+| HMK30i5G | 20.10.22 | 2020-10-22 19:51:23 UTC | xiaomi.eu_multi_HMK30i5G_20.10.22_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMK30i5G_20.10.22_v12-11.zip/download) |
 | HMK30i5G | 20.10.15 | 2020-10-15 17:46:26 UTC | xiaomi.eu_multi_HMK30i5G_20.10.15_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.15/xiaomi.eu_multi_HMK30i5G_20.10.15_v12-11.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
