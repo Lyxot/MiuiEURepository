@@ -3,7 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMNote7Pro | 21.4.22 | 2021-04-23 15:24:16 UTC | xiaomi.eu_multi_HMNote7Pro_21.4.22_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.22/xiaomi.eu_multi_HMNote7Pro_21.4.22_v12-10.zip/download) |
 | HMNote7Pro | 21.4.14 | 2021-04-16 13:08:08 UTC | xiaomi.eu_multi_HMNote7Pro_21.4.14_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.14/xiaomi.eu_multi_HMNote7Pro_21.4.14_v12-10.zip/download) |
 | HMNote7Pro | 21.4.7 | 2021-04-10 05:12:07 UTC | xiaomi.eu_multi_HMNote7Pro_21.4.7_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.7/xiaomi.eu_multi_HMNote7Pro_21.4.7_v12-10.zip/download) |
 | HMNote7Pro | 21.4.1 | 2021-04-01 16:04:23 UTC | xiaomi.eu_multi_HMNote7Pro_21.4.1_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.1/xiaomi.eu_multi_HMNote7Pro_21.4.1_v12-10.zip/download) |
