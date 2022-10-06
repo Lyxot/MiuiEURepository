@@ -3,9 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI4s | 8.9.13 | 2018-09-14 07:14:38 UTC | xiaomi.eu_multi_MI4s_8.9.13_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.13/xiaomi.eu_multi_MI4s_8.9.13_v10-7.0.zip/download) |
-| MI4s | 8.9.6 | 2018-09-08 03:43:01 UTC | xiaomi.eu_multi_MI4s_8.9.6_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.6/xiaomi.eu_multi_MI4s_8.9.6_v10-7.0.zip/download) |
-| MI4s | 8.8.30 | 2018-08-31 18:45:56 UTC | xiaomi.eu_multi_MI4s_8.8.30_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.30/xiaomi.eu_multi_MI4s_8.8.30_v10-7.0.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |

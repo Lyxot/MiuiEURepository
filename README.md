@@ -114,12 +114,7 @@
 | [9.4.1](/en-us/by-version/9.4.1.md) | [9.3.28](/en-us/by-version/9.3.28.md) | [9.3.25](/en-us/by-version/9.3.25.md) | [9.3.21](/en-us/by-version/9.3.21.md) | [9.3.14](/en-us/by-version/9.3.14.md) |
 | [9.3.7](/en-us/by-version/9.3.7.md) | [9.3.1](/en-us/by-version/9.3.1.md) | [9.2.28](/en-us/by-version/9.2.28.md) | [9.2.22](/en-us/by-version/9.2.22.md) | [9.2.21](/en-us/by-version/9.2.21.md) |
 | [9.2.15](/en-us/by-version/9.2.15.md) | [9.2.14](/en-us/by-version/9.2.14.md) | [9.1.26](/en-us/by-version/9.1.26.md) | [9.1.24](/en-us/by-version/9.1.24.md) | [9.1.17](/en-us/by-version/9.1.17.md) |
-| [9.1.10](/en-us/by-version/9.1.10.md) | [9.1.3](/en-us/by-version/9.1.3.md) | [9.1.2](/en-us/by-version/9.1.2.md) | [9.1.1](/en-us/by-version/9.1.1.md) | [8.12.27](/en-us/by-version/8.12.27.md) |
-| [8.12.20](/en-us/by-version/8.12.20.md) | [8.12.13](/en-us/by-version/8.12.13.md) | [8.12.7](/en-us/by-version/8.12.7.md) | [8.12.6](/en-us/by-version/8.12.6.md) | [8.11.30](/en-us/by-version/8.11.30.md) |
-| [8.11.29](/en-us/by-version/8.11.29.md) | [8.11.23](/en-us/by-version/8.11.23.md) | [8.11.22](/en-us/by-version/8.11.22.md) | [8.11.15](/en-us/by-version/8.11.15.md) | [8.11.8](/en-us/by-version/8.11.8.md) |
-| [8.11.1](/en-us/by-version/8.11.1.md) | [8.10.25](/en-us/by-version/8.10.25.md) | [8.10.18](/en-us/by-version/8.10.18.md) | [8.10.12](/en-us/by-version/8.10.12.md) | [8.10.11](/en-us/by-version/8.10.11.md) |
-| [8.9.24](/en-us/by-version/8.9.24.md) | [8.9.20](/en-us/by-version/8.9.20.md) | [8.9.13](/en-us/by-version/8.9.13.md) | [8.9.6](/en-us/by-version/8.9.6.md) | [8.8.30](/en-us/by-version/8.8.30.md) |
-| [8.8.24](/en-us/by-version/8.8.24.md)  | | | |
+| [9.1.10](/en-us/by-version/9.1.10.md) | [9.1.3](/en-us/by-version/9.1.3.md) | [9.1.2](/en-us/by-version/9.1.2.md) | [9.1.1](/en-us/by-version/9.1.1.md)  |
 ### Stable
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |
@@ -276,12 +271,7 @@
 | [9.4.1](/zh-cn/by-version/9.4.1.md) | [9.3.28](/zh-cn/by-version/9.3.28.md) | [9.3.25](/zh-cn/by-version/9.3.25.md) | [9.3.21](/zh-cn/by-version/9.3.21.md) | [9.3.14](/zh-cn/by-version/9.3.14.md) |
 | [9.3.7](/zh-cn/by-version/9.3.7.md) | [9.3.1](/zh-cn/by-version/9.3.1.md) | [9.2.28](/zh-cn/by-version/9.2.28.md) | [9.2.22](/zh-cn/by-version/9.2.22.md) | [9.2.21](/zh-cn/by-version/9.2.21.md) |
 | [9.2.15](/zh-cn/by-version/9.2.15.md) | [9.2.14](/zh-cn/by-version/9.2.14.md) | [9.1.26](/zh-cn/by-version/9.1.26.md) | [9.1.24](/zh-cn/by-version/9.1.24.md) | [9.1.17](/zh-cn/by-version/9.1.17.md) |
-| [9.1.10](/zh-cn/by-version/9.1.10.md) | [9.1.3](/zh-cn/by-version/9.1.3.md) | [9.1.2](/zh-cn/by-version/9.1.2.md) | [9.1.1](/zh-cn/by-version/9.1.1.md) | [8.12.27](/zh-cn/by-version/8.12.27.md) |
-| [8.12.20](/zh-cn/by-version/8.12.20.md) | [8.12.13](/zh-cn/by-version/8.12.13.md) | [8.12.7](/zh-cn/by-version/8.12.7.md) | [8.12.6](/zh-cn/by-version/8.12.6.md) | [8.11.30](/zh-cn/by-version/8.11.30.md) |
-| [8.11.29](/zh-cn/by-version/8.11.29.md) | [8.11.23](/zh-cn/by-version/8.11.23.md) | [8.11.22](/zh-cn/by-version/8.11.22.md) | [8.11.15](/zh-cn/by-version/8.11.15.md) | [8.11.8](/zh-cn/by-version/8.11.8.md) |
-| [8.11.1](/zh-cn/by-version/8.11.1.md) | [8.10.25](/zh-cn/by-version/8.10.25.md) | [8.10.18](/zh-cn/by-version/8.10.18.md) | [8.10.12](/zh-cn/by-version/8.10.12.md) | [8.10.11](/zh-cn/by-version/8.10.11.md) |
-| [8.9.24](/zh-cn/by-version/8.9.24.md) | [8.9.20](/zh-cn/by-version/8.9.20.md) | [8.9.13](/zh-cn/by-version/8.9.13.md) | [8.9.6](/zh-cn/by-version/8.9.6.md) | [8.8.30](/zh-cn/by-version/8.8.30.md) |
-| [8.8.24](/zh-cn/by-version/8.8.24.md)  | | | |
+| [9.1.10](/zh-cn/by-version/9.1.10.md) | [9.1.3](/zh-cn/by-version/9.1.3.md) | [9.1.2](/zh-cn/by-version/9.1.2.md) | [9.1.1](/zh-cn/by-version/9.1.1.md)  |
 ### 稳定版
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |

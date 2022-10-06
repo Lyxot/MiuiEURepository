@@ -3,9 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI4c | 8.9.13 | 2018-09-14 07:06:08 UTC | xiaomi.eu_multi_MI4c_8.9.13_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.13/xiaomi.eu_multi_MI4c_8.9.13_v10-7.0.zip/download) |
-| MI4c | 8.9.6 | 2018-09-08 03:34:32 UTC | xiaomi.eu_multi_MI4c_8.9.6_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.9.6/xiaomi.eu_multi_MI4c_8.9.6_v10-7.0.zip/download) |
-| MI4c | 8.8.30 | 2018-08-31 18:37:35 UTC | xiaomi.eu_multi_MI4c_8.8.30_v10-7.0.zip | 1.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.30/xiaomi.eu_multi_MI4c_8.8.30_v10-7.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
