@@ -82,9 +82,6 @@
 | MI8Explorer | 8.10.12 | 2018-10-13 05:48:01 UTC | xiaomi.eu_multi_MI8Explorer_8.10.12_v10-9.zip | 1.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.10.12/xiaomi.eu_multi_MI8Explorer_8.10.12_v10-9.zip/download) |
 | MI8Explorer | 8.8.30 | 2018-08-31 20:17:33 UTC | xiaomi.eu_multi_MI8Explorer_8.8.30_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.30/xiaomi.eu_multi_MI8Explorer_8.8.30_v10-8.1.zip/download) |
 | MI8Explorer | 8.8.24 | 2018-08-27 06:16:42 UTC | xiaomi.eu_multi_MI8Explorer_8.8.24_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.24/xiaomi.eu_multi_MI8Explorer_8.8.24_v10-8.1.zip/download) |
-| MI8Explorer | 8.8.23 | 2018-08-24 23:41:52 UTC | xiaomi.eu_multi_MI8Explorer_8.8.23_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.23/xiaomi.eu_multi_MI8Explorer_8.8.23_v10-8.1.zip/download) |
-| MI8Explorer | 8.8.16 | 2018-08-17 23:53:26 UTC | xiaomi.eu_multi_MI8Explorer_8.8.16_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.16/xiaomi.eu_multi_MI8Explorer_8.8.16_v10-8.1.zip/download) |
-| MI8Explorer | 8.8.3 | 2018-08-04 06:23:58 UTC | xiaomi.eu_multi_MI8Explorer_8.8.3_v10-8.1.zip | 1.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/8.8.3/xiaomi.eu_multi_MI8Explorer_8.8.3_v10-8.1.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
