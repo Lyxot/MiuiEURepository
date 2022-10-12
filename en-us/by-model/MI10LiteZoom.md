@@ -96,6 +96,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10LiteZoom | V13.0.7.0.SJVCNXM | 2022-10-12 09:01:11 UTC | xiaomi.eu_multi_MI10LiteZoom_V13.0.7.0.SJVCNXM_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10LiteZoom_V13.0.7.0.SJVCNXM_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | V13.0.4.0.SJVCNXM | 2022-06-29 03:23:18 UTC | xiaomi.eu_multi_MI10LiteZoom_V13.0.4.0.SJVCNXM_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10LiteZoom_V13.0.4.0.SJVCNXM_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | V13.0.3.0.SJVCNXM | 2022-05-19 17:47:52 UTC | xiaomi.eu_multi_MI10LiteZoom_V13.0.3.0.SJVCNXM_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10LiteZoom_V13.0.3.0.SJVCNXM_v13-12-fastboot.zip/download) |
 | MI10LiteZoom | V13.0.2.0.SJVCNXM | 2022-03-26 13:14:54 UTC | xiaomi.eu_multi_MI10LiteZoom_V13.0.2.0.SJVCNXM_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10LiteZoom_V13.0.2.0.SJVCNXM_v13-12-fastboot.zip/download) |
