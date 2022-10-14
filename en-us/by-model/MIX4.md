@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIX4 | 22.10.12 | 2022-10-14 01:35:32 UTC | xiaomi.eu_multi_MIX4_22.10.12_v13-12.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.12/xiaomi.eu_multi_MIX4_22.10.12_v13-12.zip/download) |
 | MIX4 | 22.9.29 | 2022-09-30 17:51:42 UTC | xiaomi.eu_multi_MIX4_22.9.29_v13-12.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.29/xiaomi.eu_multi_MIX4_22.9.29_v13-12.zip/download) |
 | MIX4 | 22.9.21 | 2022-09-22 15:15:33 UTC | xiaomi.eu_multi_MIX4_22.9.21_v13-12.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.21/xiaomi.eu_multi_MIX4_22.9.21_v13-12.zip/download) |
 | MIX4 | 22.9.14 | 2022-09-15 16:59:19 UTC | xiaomi.eu_multi_MIX4_22.9.14_v13-12.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.9.14/xiaomi.eu_multi_MIX4_22.9.14_v13-12.zip/download) |
