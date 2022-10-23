@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK30 | 22.7.13 | 2022-07-14 16:25:35 UTC | xiaomi.eu_multi_HMK30_22.7.13_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.13/xiaomi.eu_multi_HMK30_22.7.13_v13-12-fastboot.zip/download) |
 | HMK30 | 22.7.6 | 2022-07-07 18:27:59 UTC | xiaomi.eu_multi_HMK30_22.7.6_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.6/xiaomi.eu_multi_HMK30_22.7.6_v13-12-fastboot.zip/download) |
 | HMK30 | 22.6.29 | 2022-06-30 16:41:53 UTC | xiaomi.eu_multi_HMK30_22.6.29_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.29/xiaomi.eu_multi_HMK30_22.6.29_v13-12-fastboot.zip/download) |
 | HMK30 | 22.6.22 | 2022-06-24 00:19:46 UTC | xiaomi.eu_multi_HMK30_22.6.22_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.22/xiaomi.eu_multi_HMK30_22.6.22_v13-12-fastboot.zip/download) |
