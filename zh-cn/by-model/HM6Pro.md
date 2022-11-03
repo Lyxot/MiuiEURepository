@@ -4,6 +4,7 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | HM6Pro | 20.1.9 | 2020-01-10 11:22:08 UTC | xiaomi.eu_multi_HM6Pro_20.1.9_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.9/xiaomi.eu_multi_HM6Pro_20.1.9_v11-9.zip/download) |
+| HM6Pro | 20.1.2 | 2020-01-02 19:48:36 UTC | xiaomi.eu_multi_HM6Pro_20.1.2_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.2/xiaomi.eu_multi_HM6Pro_20.1.2_v11-9.zip/download) |
 | HM6Pro | 9.12.26 | 2019-12-26 19:57:44 UTC | xiaomi.eu_multi_HM6Pro_9.12.26_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.26/xiaomi.eu_multi_HM6Pro_9.12.26_v11-9.zip/download) |
 | HM6Pro | 9.12.19 | 2019-12-19 22:37:27 UTC | xiaomi.eu_multi_HM6Pro_9.12.19_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.19/xiaomi.eu_multi_HM6Pro_9.12.19_v11-9.zip/download) |
 | HM6Pro | 9.12.12 | 2019-12-12 22:21:42 UTC | xiaomi.eu_multi_HM6Pro_9.12.12_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.12.12/xiaomi.eu_multi_HM6Pro_9.12.12_v11-9.zip/download) |
