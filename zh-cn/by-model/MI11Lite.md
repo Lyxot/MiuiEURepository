@@ -6,6 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Lite | V13.0.10.0.SKQMIXM | 2022-11-15 23:24:39 UTC | xiaomi.eu_multi_MI11Lite_V13.0.10.0.SKQMIXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite_V13.0.10.0.SKQMIXM_v13-12.zip/download) |
 | MI11Lite | V13.0.9.0.SKQMIXM | 2022-09-26 22:43:40 UTC | xiaomi.eu_multi_MI11Lite_V13.0.9.0.SKQMIXM_v13-12.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite_V13.0.9.0.SKQMIXM_v13-12.zip/download) |
 | MI11Lite | V13.0.8.0.SKQMIXM | 2022-06-13 17:30:17 UTC | xiaomi.eu_multi_MI11Lite_V13.0.8.0.SKQMIXM_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite_V13.0.8.0.SKQMIXM_v13-12-fastboot.zip/download) |
 | MI11Lite | V13.0.7.0.SKQMIXM | 2022-04-16 19:25:21 UTC | xiaomi.eu_multi_MI11Lite_V13.0.7.0.SKQMIXM_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite_V13.0.7.0.SKQMIXM_v13-12-fastboot.zip/download) |
