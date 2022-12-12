@@ -74,6 +74,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Lite5G | V13.0.14.0.SKICNXM | 2022-12-12 08:22:33 UTC | xiaomi.eu_multi_MI11Lite5G_V13.0.14.0.SKICNXM_v13-12-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite5G_V13.0.14.0.SKICNXM_v13-12-fastboot.zip/download) |
 | MI11Lite5G | V13.0.12.0.SKICNXM | 2022-08-26 14:04:04 UTC | xiaomi.eu_multi_MI11Lite5G_V13.0.12.0.SKICNXM_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite5G_V13.0.12.0.SKICNXM_v13-12-fastboot.zip/download) |
 | MI11Lite5G | V13.0.9.0.SKICNXM | 2022-05-14 04:00:33 UTC | xiaomi.eu_multi_MI11Lite5G_V13.0.9.0.SKICNXM_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite5G_V13.0.9.0.SKICNXM_v13-12-fastboot.zip/download) |
 | MI11Lite5G | V13.0.8.0.SKICNXM | 2022-03-10 18:39:35 UTC | xiaomi.eu_multi_MI11Lite5G_V13.0.8.0.SKICNXM_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite5G_V13.0.8.0.SKICNXM_v13-12-fastboot.zip/download) |
