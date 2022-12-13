@@ -3,14 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMS2 | 9.2.28 | 2019-03-01 13:36:20 UTC | xiaomi.eu_multi_HMS2_9.2.28_v10-8.1.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.28/xiaomi.eu_multi_HMS2_9.2.28_v10-8.1.zip/download) |
-| HMS2 | 9.2.21 | 2019-02-21 20:48:28 UTC | xiaomi.eu_multi_HMS2_9.2.21_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.21/xiaomi.eu_multi_HMS2_9.2.21_v10-8.1.zip/download) |
-| HMS2 | 9.2.15 | 2019-02-18 01:16:17 UTC | xiaomi.eu_multi_HMS2_9.2.15_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.15/xiaomi.eu_multi_HMS2_9.2.15_v10-8.1.zip/download) |
-| HMS2 | 9.2.14 | 2019-02-14 21:15:09 UTC | xiaomi.eu_multi_HMS2_9.2.14_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.2.14/xiaomi.eu_multi_HMS2_9.2.14_v10-8.1.zip/download) |
-| HMS2 | 9.1.24 | 2019-01-24 22:23:18 UTC | xiaomi.eu_multi_HMS2_9.1.24_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.24/xiaomi.eu_multi_HMS2_9.1.24_v10-8.1.zip/download) |
-| HMS2 | 9.1.17 | 2019-01-17 22:23:51 UTC | xiaomi.eu_multi_HMS2_9.1.17_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.17/xiaomi.eu_multi_HMS2_9.1.17_v10-8.1.zip/download) |
-| HMS2 | 9.1.10 | 2019-01-10 22:21:00 UTC | xiaomi.eu_multi_HMS2_9.1.10_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.10/xiaomi.eu_multi_HMS2_9.1.10_v10-8.1.zip/download) |
-| HMS2 | 9.1.3 | 2019-01-04 07:18:01 UTC | xiaomi.eu_multi_HMS2_9.1.3_v10-8.1.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HMS2_9.1.3_v10-8.1.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
