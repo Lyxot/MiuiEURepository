@@ -78,6 +78,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10S | V13.0.10.0.SGACNXM | 2022-12-13 17:31:26 UTC | xiaomi.eu_multi_MI10S_V13.0.10.0.SGACNXM_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10S_V13.0.10.0.SGACNXM_v13-12.zip/download) |
 | MI10S | V13.0.8.0.SGACNXM | 2022-08-29 05:06:40 UTC | xiaomi.eu_multi_MI10S_V13.0.8.0.SGACNXM_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10S_V13.0.8.0.SGACNXM_v13-12.zip/download) |
 | MI10S | V13.0.6.0.SGACNXM | 2022-05-27 13:13:17 UTC | xiaomi.eu_multi_MI10S_V13.0.6.0.SGACNXM_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10S_V13.0.6.0.SGACNXM_v13-12-fastboot.zip/download) |
 | MI10S | V13.0.5.0.SGACNXM | 2022-04-27 13:51:35 UTC | xiaomi.eu_multi_MI10S_V13.0.5.0.SGACNXM_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10S_V13.0.5.0.SGACNXM_v13-12-fastboot.zip/download) |
