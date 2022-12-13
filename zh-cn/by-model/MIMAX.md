@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIMAX | 9.1.3 | 2019-01-04 19:33:03 UTC | xiaomi.eu_multi_MIMAX_9.1.3_v10-7.0.zip | 1.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_MIMAX_9.1.3_v10-7.0.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |

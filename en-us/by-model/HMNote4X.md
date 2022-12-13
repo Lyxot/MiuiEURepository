@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote4X | 9.1.3 | 2019-01-04 19:12:35 UTC | xiaomi.eu_multi_HMNote4X_9.1.3_v10-7.0.zip | 1.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HMNote4X_9.1.3_v10-7.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |

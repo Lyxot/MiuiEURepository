@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HM3SHM3X | 9.1.3 | 2019-01-03 21:43:01 UTC | xiaomi.eu_multi_HM3SHM3X_9.1.3_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HM3SHM3X_9.1.3_v10-6.0.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |

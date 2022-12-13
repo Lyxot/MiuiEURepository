@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HM4Pro | 9.1.3 | 2019-01-03 22:01:12 UTC | xiaomi.eu_multi_HM4Pro_9.1.3_v10-6.0.zip | 1.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/9.1.3/xiaomi.eu_multi_HM4Pro_9.1.3_v10-6.0.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
