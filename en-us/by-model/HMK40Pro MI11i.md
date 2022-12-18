@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK40Pro MI11i | V14.0.22.12.8.DEV | 2022-12-18 02:35:48 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 | HMK40Pro MI11i | 22.10.26 | 2022-10-27 14:33:14 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_22.10.26_v13-12.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.26/xiaomi.eu_multi_HMK40Pro_MI11i_22.10.26_v13-12.zip/download) |
 | HMK40Pro MI11i | 22.10.19 | 2022-10-20 15:01:00 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_22.10.19_v13-12.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.19/xiaomi.eu_multi_HMK40Pro_MI11i_22.10.19_v13-12.zip/download) |
 | HMK40Pro MI11i | 22.10.12 | 2022-10-13 23:20:50 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_22.10.12_v13-12.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.12/xiaomi.eu_multi_HMK40Pro_MI11i_22.10.12_v13-12.zip/download) |
