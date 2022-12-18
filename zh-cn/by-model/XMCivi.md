@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XMCivi | V14.0.22.12.8.DEV | 2022-12-18 03:55:56 UTC | xiaomi.eu_multi_XMCivi_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_XMCivi_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 | XMCivi | 22.10.26 | 2022-10-27 15:59:16 UTC | xiaomi.eu_multi_XMCivi_22.10.26_v13-12-fastboot.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.26/xiaomi.eu_multi_XMCivi_22.10.26_v13-12-fastboot.zip/download) |
 | XMCivi | 22.10.19 | 2022-10-20 17:14:35 UTC | xiaomi.eu_multi_XMCivi_22.10.19_v13-12-fastboot.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.19/xiaomi.eu_multi_XMCivi_22.10.19_v13-12-fastboot.zip/download) |
 | XMCivi | 22.10.12 | 2022-10-14 02:03:15 UTC | xiaomi.eu_multi_XMCivi_22.10.12_v13-12-fastboot.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.12/xiaomi.eu_multi_XMCivi_22.10.12_v13-12-fastboot.zip/download) |
