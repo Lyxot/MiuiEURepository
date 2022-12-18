@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MAYFLY | V14.0.22.12.8.DEV | 2022-12-18 02:52:42 UTC | xiaomi.eu_multi_MAYFLY_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_MAYFLY_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
