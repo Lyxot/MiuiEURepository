@@ -3,7 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| HMK40 POCOF3 | V14.0.22.12.8.DEV | 2022-12-18 02:40:43 UTC | xiaomi.eu_multi_HMK40_POCOF3_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_HMK40_POCOF3_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
+| HMK40 POCOF3 | V14.0.22.12.8.DEV | 2022-12-18 15:54:20 UTC | xiaomi.eu_multi_HMK40_POCOF3_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_HMK40_POCOF3_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 | HMK40 POCOF3 | 22.10.26 | 2022-10-27 14:37:41 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.10.26_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.26/xiaomi.eu_multi_HMK40_POCOF3_22.10.26_v13-12.zip/download) |
 | HMK40 POCOF3 | 22.10.19 | 2022-10-20 15:14:48 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.10.19_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.19/xiaomi.eu_multi_HMK40_POCOF3_22.10.19_v13-12.zip/download) |
 | HMK40 POCOF3 | 22.10.12 | 2022-10-13 23:34:23 UTC | xiaomi.eu_multi_HMK40_POCOF3_22.10.12_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.12/xiaomi.eu_multi_HMK40_POCOF3_22.10.12_v13-12.zip/download) |
