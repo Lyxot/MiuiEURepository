@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Pro MI11Ultra | V14.0.22.12.21.DEV | 2022-12-24 07:34:13 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.22.12.21.DEV_v14-13-fastboot.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.21.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.22.12.21.DEV_v14-13-fastboot.zip/download) |
 | MI11Pro MI11Ultra | V14.0.22.12.8.DEV | 2022-12-18 03:09:30 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 | MI11Pro MI11Ultra | 22.10.26 | 2022-10-27 14:52:24 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_22.10.26_v13-12.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.26/xiaomi.eu_multi_MI11Pro_MI11Ultra_22.10.26_v13-12.zip/download) |
 | MI11Pro MI11Ultra | 22.10.19 | 2022-10-20 16:17:06 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_22.10.19_v13-12.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.19/xiaomi.eu_multi_MI11Pro_MI11Ultra_22.10.19_v13-12.zip/download) |
