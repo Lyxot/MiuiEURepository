@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIX4 | V14.0.22.12.19.DEV | 2022-12-24 06:50:25 UTC | xiaomi.eu_multi_MIX4_V14.0.22.12.19.DEV_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.19.DEV/xiaomi.eu_multi_MIX4_V14.0.22.12.19.DEV_v14-13-fastboot.zip/download) |
 | MIX4 | V14.0.22.12.8.DEV | 2022-12-18 03:21:16 UTC | xiaomi.eu_multi_MIX4_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_MIX4_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 | MIX4 | 22.10.26 | 2022-10-27 16:11:46 UTC | xiaomi.eu_multi_MIX4_22.10.26_v13-12.zip | 4.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.26/xiaomi.eu_multi_MIX4_22.10.26_v13-12.zip/download) |
 | MIX4 | 22.10.19 | 2022-10-20 16:46:10 UTC | xiaomi.eu_multi_MIX4_22.10.19_v13-12.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.10.19/xiaomi.eu_multi_MIX4_22.10.19_v13-12.zip/download) |
