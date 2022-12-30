@@ -9,6 +9,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| THOR | V14.0.3.0.TLACNXM | 2022-12-30 19:17:50 UTC | xiaomi.eu_multi_THOR_V14.0.3.0.TLACNXM_v14-13-fastboot.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_THOR_V14.0.3.0.TLACNXM_v14-13-fastboot.zip/download) |
 | THOR | V14.0.2.0.TLACNXM | 2022-12-24 09:10:09 UTC | xiaomi.eu_multi_THOR_V14.0.2.0.TLACNXM_v14-13-fastboot.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_THOR_V14.0.2.0.TLACNXM_v14-13-fastboot.zip/download) |
 | THOR | V13.0.11.0.SLACNXM | 2022-10-23 05:45:06 UTC | xiaomi.eu_multi_THOR_V13.0.11.0.SLACNXM_v13-12.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_THOR_V13.0.11.0.SLACNXM_v13-12.zip/download) |
 | THOR | V13.0.10.0.SLACNXM | 2022-09-19 16:26:05 UTC | xiaomi.eu_multi_THOR_V13.0.10.0.SLACNXM_v13-12.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_THOR_V13.0.10.0.SLACNXM_v13-12.zip/download) |
