@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XM12Pro | V14.0.22.12.26.DEV | 2022-12-31 02:18:04 UTC | xiaomi.eu_multi_XM12Pro_V14.0.22.12.26.DEV_v14-13-fastboot.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.26.DEV/xiaomi.eu_multi_XM12Pro_V14.0.22.12.26.DEV_v14-13-fastboot.zip/download) |
 | XM12Pro | V14.0.22.12.19.DEV | 2022-12-24 08:52:51 UTC | xiaomi.eu_multi_XM12Pro_V14.0.22.12.19.DEV_v14-13-fastboot.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.19.DEV/xiaomi.eu_multi_XM12Pro_V14.0.22.12.19.DEV_v14-13-fastboot.zip/download) |
 | XM12Pro | V14.0.22.12.8.DEV | 2022-12-18 03:38:37 UTC | xiaomi.eu_multi_XM12Pro_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_XM12Pro_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
 ## Stable
