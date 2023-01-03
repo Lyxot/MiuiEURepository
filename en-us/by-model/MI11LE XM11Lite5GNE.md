@@ -37,6 +37,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11LE XM11Lite5GNE | V14.0.4.0.TKOCNXM | 2023-01-03 09:14:29 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V14.0.4.0.TKOCNXM_v14-13-fastboot.zip | 4.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V14.0.4.0.TKOCNXM_v14-13-fastboot.zip/download) |
 | MI11LE XM11Lite5GNE | V13.0.3.0.SKOCNXM | 2022-09-10 09:21:29 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.3.0.SKOCNXM_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.3.0.SKOCNXM_v13-12.zip/download) |
 | MI11LE XM11Lite5GNE | V13.0.2.0.SKOCNXM | 2022-06-11 04:19:56 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.2.0.SKOCNXM_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.2.0.SKOCNXM_v13-12-fastboot.zip/download) |
 | MI11LE XM11Lite5GNE | V13.0.1.0.SKOCNXM | 2022-03-22 07:52:19 UTC | xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.1.0.SKOCNXM_v13-12-fastboot.zip | 4.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11LE_XM11Lite5GNE_V13.0.1.0.SKOCNXM_v13-12-fastboot.zip/download) |
