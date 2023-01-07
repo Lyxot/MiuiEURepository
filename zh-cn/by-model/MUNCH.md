@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MUNCH | V14.0.23.1.3.DEV | 2023-01-07 01:22:02 UTC | xiaomi.eu_multi_MUNCH_V14.0.23.1.3.DEV_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.3.DEV/xiaomi.eu_multi_MUNCH_V14.0.23.1.3.DEV_v14-13.zip/download) |
 | MUNCH | V14.0.22.12.26.DEV | 2022-12-31 02:03:48 UTC | xiaomi.eu_multi_MUNCH_V14.0.22.12.26.DEV_v14-13-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.26.DEV/xiaomi.eu_multi_MUNCH_V14.0.22.12.26.DEV_v14-13-fastboot.zip/download) |
 | MUNCH | V14.0.22.12.19.DEV | 2022-12-24 06:57:17 UTC | xiaomi.eu_multi_MUNCH_V14.0.22.12.19.DEV_v14-13-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.19.DEV/xiaomi.eu_multi_MUNCH_V14.0.22.12.19.DEV_v14-13-fastboot.zip/download) |
 | MUNCH | V14.0.22.12.8.DEV | 2022-12-18 03:26:28 UTC | xiaomi.eu_multi_MUNCH_V14.0.22.12.8.DEV_v14-13-fastboot.zip | 4.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.8.DEV/xiaomi.eu_multi_MUNCH_V14.0.22.12.8.DEV_v14-13-fastboot.zip/download) |
