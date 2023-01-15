@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| INGRES | V14.0.23.1.9.DEV | 2023-01-15 02:18:02 UTC | xiaomi.eu_multi_INGRES_V14.0.23.1.9.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.9.DEV/xiaomi.eu_multi_INGRES_V14.0.23.1.9.DEV_v14-13.zip/download) |
 | INGRES | V14.0.23.1.3.DEV | 2023-01-06 20:23:17 UTC | xiaomi.eu_multi_INGRES_V14.0.23.1.3.DEV_v14-13.zip | 4.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.3.DEV/xiaomi.eu_multi_INGRES_V14.0.23.1.3.DEV_v14-13.zip/download) |
 | INGRES | V14.0.22.12.27.DEV | 2022-12-31 03:43:12 UTC | xiaomi.eu_multi_INGRES_V14.0.22.12.27.DEV_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.27.DEV/xiaomi.eu_multi_INGRES_V14.0.22.12.27.DEV_v14-13-fastboot.zip/download) |
 | INGRES | V14.0.22.12.19.DEV | 2022-12-24 06:28:14 UTC | xiaomi.eu_multi_INGRES_V14.0.22.12.19.DEV_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.19.DEV/xiaomi.eu_multi_INGRES_V14.0.22.12.19.DEV_v14-13-fastboot.zip/download) |
