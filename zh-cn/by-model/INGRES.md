@@ -11,6 +11,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| INGRES | V14.0.7.0.TLJCNXM | 2023-01-16 16:21:33 UTC | xiaomi.eu_multi_INGRES_V14.0.7.0.TLJCNXM_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_INGRES_V14.0.7.0.TLJCNXM_v14-13.zip/download) |
 | INGRES | V14.0.6.0.TLJCNXM | 2023-01-02 19:28:11 UTC | xiaomi.eu_multi_INGRES_V14.0.6.0.TLJCNXM_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_INGRES_V14.0.6.0.TLJCNXM_v14-13-fastboot.zip/download) |
 | INGRES | V13.0.11.0.SLJCNXM | 2022-08-24 15:20:15 UTC | xiaomi.eu_multi_INGRES_V13.0.11.0.SLJCNXM_v13-12.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_INGRES_V13.0.11.0.SLJCNXM_v13-12.zip/download) |
 | INGRES | V13.0.10.0.SLJCNXM | 2022-06-30 19:32:02 UTC | xiaomi.eu_multi_INGRES_V13.0.10.0.SLJCNXM_v13-12-fastboot.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_INGRES_V13.0.10.0.SLJCNXM_v13-12-fastboot.zip/download) |
