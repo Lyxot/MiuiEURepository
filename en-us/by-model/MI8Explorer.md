@@ -73,6 +73,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI8Explorer | V12.5.3.0.QEHCNXM | 2021-11-17 00:51:34 UTC | xiaomi.eu_multi_MI8Explorer_V12.5.3.0.QEHCNXM_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Explorer_V12.5.3.0.QEHCNXM_v12-10.zip/download) |
 | MI8Explorer | V12.5.1.0.QEHCNXM | 2021-07-13 15:15:38 UTC | xiaomi.eu_multi_MI8Explorer_V12.5.1.0.QEHCNXM_v12-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Explorer_V12.5.1.0.QEHCNXM_v12-10.zip/download) |
 | MI8Explorer | V12.0.5.0.QEHCNXM | 2021-04-12 08:11:37 UTC | xiaomi.eu_multi_MI8Explorer_V12.0.5.0.QEHCNXM_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Explorer_V12.0.5.0.QEHCNXM_v12-10.zip/download) |
 | MI8Explorer | V12.0.4.0.QEHCNXM | 2021-01-06 17:31:01 UTC | xiaomi.eu_multi_MI8Explorer_V12.0.4.0.QEHCNXM_v12-10.zip | 2.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Explorer_V12.0.4.0.QEHCNXM_v12-10.zip/download) |

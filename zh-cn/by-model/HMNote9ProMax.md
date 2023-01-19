@@ -6,6 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote9ProMax | V12.5.2.0.RJXINXM | 2021-09-27 23:15:55 UTC | xiaomi.eu_multi_HMNote9ProMax_V12.5.2.0.RJXINXM_v12-11.zip | 3.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote9ProMax_V12.5.2.0.RJXINXM_v12-11.zip/download) |
 | HMNote9ProMax | V12.0.1.0.RJXINXM | 2021-06-25 14:25:16 UTC | xiaomi.eu_multi_HMNote9ProMax_V12.0.1.0.RJXINXM_v12-11.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote9ProMax_V12.0.1.0.RJXINXM_v12-11.zip/download) |
 | HMNote9ProMax | V12.0.4.0.QJXINXM | 2021-05-25 06:43:57 UTC | xiaomi.eu_multi_HMNote9ProMax_V12.0.4.0.QJXINXM_v12-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote9ProMax_V12.0.4.0.QJXINXM_v12-10.zip/download) |
 | HMNote9ProMax | V12.0.3.0.QJXINXM | 2021-02-23 18:01:46 UTC | xiaomi.eu_multi_HMNote9ProMax_V12.0.3.0.QJXINXM_v12-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote9ProMax_V12.0.3.0.QJXINXM_v12-10.zip/download) |

@@ -78,6 +78,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI8Pro | V12.5.2.0.QECCNXM | 2021-11-26 20:52:56 UTC | xiaomi.eu_multi_MI8Pro_V12.5.2.0.QECCNXM_v12-10.zip | 2.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Pro_V12.5.2.0.QECCNXM_v12-10.zip/download) |
 | MI8Pro | V12.5.1.0.QECCNXM | 2021-07-13 15:56:46 UTC | xiaomi.eu_multi_MI8Pro_V12.5.1.0.QECCNXM_v12-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Pro_V12.5.1.0.QECCNXM_v12-10.zip/download) |
 | MI8Pro | V12.0.5.0.QECCNXM | 2021-04-07 05:55:40 UTC | xiaomi.eu_multi_MI8Pro_V12.0.5.0.QECCNXM_v12-10.zip | 2.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Pro_V12.0.5.0.QECCNXM_v12-10.zip/download) |
 | MI8Pro | V12.0.4.0.QECCNXM | 2020-12-25 15:05:25 UTC | xiaomi.eu_multi_MI8Pro_V12.0.4.0.QECCNXM_v12-10.zip | 2.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8Pro_V12.0.4.0.QECCNXM_v12-10.zip/download) |
