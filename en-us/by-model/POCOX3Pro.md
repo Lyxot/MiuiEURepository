@@ -6,7 +6,6 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| POCOX3Pro | V14.0.1.0.TJUMIXM | 2023-01-30 09:22:27 UTC | xiaomi.eu_multi_POCOX3Pro_V14.0.1.0.TJUMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_POCOX3Pro_V14.0.1.0.TJUMIXM_v14-13.zip/download) |
 | POCOX3Pro | V13.0.9.0.SJUMIXM | 2023-01-11 02:40:38 UTC | xiaomi.eu_multi_POCOX3Pro_V13.0.9.0.SJUMIXM_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_POCOX3Pro_V13.0.9.0.SJUMIXM_v13-12.zip/download) |
 | POCOX3Pro | V13.0.8.0.SJUMIXM | 2022-11-01 16:38:53 UTC | xiaomi.eu_multi_POCOX3Pro_V13.0.8.0.SJUMIXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_POCOX3Pro_V13.0.8.0.SJUMIXM_v13-12.zip/download) |
 | POCOX3Pro | V13.0.5.0.SJUMIXM | 2022-07-17 12:08:08 UTC | xiaomi.eu_multi_POCOX3Pro_V13.0.5.0.SJUMIXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_POCOX3Pro_V13.0.5.0.SJUMIXM_v13-12.zip/download) |
