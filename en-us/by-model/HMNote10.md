@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote10 | V14.0.1.0.SKGMIXM | 2023-02-01 20:20:15 UTC | xiaomi.eu_multi_HMNote10_V14.0.1.0.SKGMIXM_v14-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10_V14.0.1.0.SKGMIXM_v14-12.zip/download) |
 | HMNote10 | V13.0.11.0.SKGMIXM | 2022-12-13 18:11:10 UTC | xiaomi.eu_multi_HMNote10_V13.0.11.0.SKGMIXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10_V13.0.11.0.SKGMIXM_v13-12.zip/download) |
 | HMNote10 | V13.0.10.0.SKGMIXM | 2022-09-06 11:40:02 UTC | xiaomi.eu_multi_HMNote10_V13.0.10.0.SKGMIXM_v13-12.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10_V13.0.10.0.SKGMIXM_v13-12.zip/download) |
 | HMNote10 | V13.0.9.0.SKGMIXM | 2022-06-23 10:20:10 UTC | xiaomi.eu_multi_HMNote10_V13.0.9.0.SKGMIXM_v13-12.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10_V13.0.9.0.SKGMIXM_v13-12.zip/download) |
