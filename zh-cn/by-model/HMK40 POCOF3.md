@@ -83,6 +83,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK40 POCOF3 | V14.0.4.0.TKHCNXM | 2023-02-02 11:13:42 UTC | xiaomi.eu_multi_HMK40_POCOF3_V14.0.4.0.TKHCNXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMK40_POCOF3_V14.0.4.0.TKHCNXM_v14-13.zip/download) |
 | HMK40 POCOF3 | V13.0.9.0.SKHCNXM | 2022-11-08 00:36:31 UTC | xiaomi.eu_multi_HMK40_POCOF3_V13.0.9.0.SKHCNXM_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK40_POCOF3_V13.0.9.0.SKHCNXM_v13-12.zip/download) |
 | HMK40 POCOF3 | V13.0.7.0.SKHCNXM | 2022-08-25 11:24:32 UTC | xiaomi.eu_multi_HMK40_POCOF3_V13.0.7.0.SKHCNXM_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK40_POCOF3_V13.0.7.0.SKHCNXM_v13-12.zip/download) |
 | HMK40 POCOF3 | V13.0.6.0.SKHCNXM | 2022-06-12 10:38:33 UTC | xiaomi.eu_multi_HMK40_POCOF3_V13.0.6.0.SKHCNXM_v13-12-fastboot.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK40_POCOF3_V13.0.6.0.SKHCNXM_v13-12-fastboot.zip/download) |
