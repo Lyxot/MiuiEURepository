@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| THOR | V14.0.23.1.30.DEV | 2023-02-04 07:02:18 UTC | xiaomi.eu_multi_THOR_V14.0.23.1.30.DEV_v14-13.zip | 5.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.30.DEV/xiaomi.eu_multi_THOR_V14.0.23.1.30.DEV_v14-13.zip/download) |
 | THOR | V14.0.23.1.9.DEV | 2023-01-15 06:00:22 UTC | xiaomi.eu_multi_THOR_V14.0.23.1.9.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.9.DEV/xiaomi.eu_multi_THOR_V14.0.23.1.9.DEV_v14-13.zip/download) |
 | THOR | V14.0.23.1.3.DEV | 2023-01-06 18:43:50 UTC | xiaomi.eu_multi_THOR_V14.0.23.1.3.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.3.DEV/xiaomi.eu_multi_THOR_V14.0.23.1.3.DEV_v14-13.zip/download) |
 | THOR | V14.0.22.12.26.DEV | 2022-12-30 20:52:33 UTC | xiaomi.eu_multi_THOR_V14.0.22.12.26.DEV_v14-13-fastboot.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.26.DEV/xiaomi.eu_multi_THOR_V14.0.22.12.26.DEV_v14-13-fastboot.zip/download) |
