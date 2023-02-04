@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| UNICORN | V14.0.23.1.30.DEV | 2023-02-04 07:10:25 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.1.30.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.30.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.1.30.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.23.1.9.DEV | 2023-01-15 06:06:23 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.1.9.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.9.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.1.9.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.23.1.3.DEV | 2023-01-07 01:27:55 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.1.3.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.3.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.1.3.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.22.12.26.DEV | 2022-12-31 02:11:22 UTC | xiaomi.eu_multi_UNICORN_V14.0.22.12.26.DEV_v14-13-fastboot.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.22.12.26.DEV/xiaomi.eu_multi_UNICORN_V14.0.22.12.26.DEV_v14-13-fastboot.zip/download) |
