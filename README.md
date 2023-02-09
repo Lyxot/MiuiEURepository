@@ -52,7 +52,7 @@
 ### Others
 | | | |
 | ---- | ---- | ---- |
-| [SOCRATES](/en-us/by-model/SOCRATES.md) | [MONDRIAN](/en-us/by-model/MONDRIAN.md) | [REDWOOD](/en-us/by-model/REDWOOD.md) |
+| [REDWOOD](/en-us/by-model/REDWOOD.md) | [SOCRATES](/en-us/by-model/SOCRATES.md) | [MONDRIAN](/en-us/by-model/MONDRIAN.md) |
 | [FUXI](/en-us/by-model/FUXI.md) | [NUWA](/en-us/by-model/NUWA.md) | [PLATO](/en-us/by-model/PLATO.md) |
 | [DITING](/en-us/by-model/DITING.md) | [XAGA](/en-us/by-model/XAGA.md) | [RUBENS](/en-us/by-model/RUBENS.md) |
 | [MATISSE](/en-us/by-model/MATISSE.md) | [TAOYAO](/en-us/by-model/TAOYAO.md) | [THOR](/en-us/by-model/THOR.md) |
@@ -219,7 +219,7 @@
 ### 其它
 | | | |
 | ---- | ---- | ---- |
-| [SOCRATES](/zh-cn/by-model/SOCRATES.md) | [MONDRIAN](/zh-cn/by-model/MONDRIAN.md) | [REDWOOD](/zh-cn/by-model/REDWOOD.md) |
+| [REDWOOD](/zh-cn/by-model/REDWOOD.md) | [SOCRATES](/zh-cn/by-model/SOCRATES.md) | [MONDRIAN](/zh-cn/by-model/MONDRIAN.md) |
 | [FUXI](/zh-cn/by-model/FUXI.md) | [NUWA](/zh-cn/by-model/NUWA.md) | [PLATO](/zh-cn/by-model/PLATO.md) |
 | [DITING](/zh-cn/by-model/DITING.md) | [XAGA](/zh-cn/by-model/XAGA.md) | [RUBENS](/zh-cn/by-model/RUBENS.md) |
 | [MATISSE](/zh-cn/by-model/MATISSE.md) | [TAOYAO](/zh-cn/by-model/TAOYAO.md) | [THOR](/zh-cn/by-model/THOR.md) |
