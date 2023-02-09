@@ -52,14 +52,14 @@
 ### Others
 | | | |
 | ---- | ---- | ---- |
-| [REDWOOD](/en-us/by-model/REDWOOD.md) | [SOCRATES](/en-us/by-model/SOCRATES.md) | [MONDRIAN](/en-us/by-model/MONDRIAN.md) |
-| [FUXI](/en-us/by-model/FUXI.md) | [NUWA](/en-us/by-model/NUWA.md) | [PLATO](/en-us/by-model/PLATO.md) |
-| [DITING](/en-us/by-model/DITING.md) | [XAGA](/en-us/by-model/XAGA.md) | [RUBENS](/en-us/by-model/RUBENS.md) |
-| [MATISSE](/en-us/by-model/MATISSE.md) | [TAOYAO](/en-us/by-model/TAOYAO.md) | [THOR](/en-us/by-model/THOR.md) |
-| [UNICORN](/en-us/by-model/UNICORN.md) | [MAYFLY](/en-us/by-model/MAYFLY.md) | [MUNCH](/en-us/by-model/MUNCH.md) |
-| [VEUXG](/en-us/by-model/VEUXG.md) | [VEUX](/en-us/by-model/VEUX.md) | [INGRES](/en-us/by-model/INGRES.md) |
-| [POCOX3Pro](/en-us/by-model/POCOX3Pro.md) | [POCOM3](/en-us/by-model/POCOM3.md) | [POCOX3NFC](/en-us/by-model/POCOX3NFC.md) |
-| [POCOF1](/en-us/by-model/POCOF1.md)  | |
+| [SOCRATES](/en-us/by-model/SOCRATES.md) | [MONDRIAN](/en-us/by-model/MONDRIAN.md) | [FUXI](/en-us/by-model/FUXI.md) |
+| [NUWA](/en-us/by-model/NUWA.md) | [PLATO](/en-us/by-model/PLATO.md) | [DITING](/en-us/by-model/DITING.md) |
+| [XAGA](/en-us/by-model/XAGA.md) | [RUBENS](/en-us/by-model/RUBENS.md) | [MATISSE](/en-us/by-model/MATISSE.md) |
+| [TAOYAO](/en-us/by-model/TAOYAO.md) | [THOR](/en-us/by-model/THOR.md) | [UNICORN](/en-us/by-model/UNICORN.md) |
+| [MAYFLY](/en-us/by-model/MAYFLY.md) | [MUNCH](/en-us/by-model/MUNCH.md) | [VEUXG](/en-us/by-model/VEUXG.md) |
+| [VEUX](/en-us/by-model/VEUX.md) | [INGRES](/en-us/by-model/INGRES.md) | [POCOX3Pro](/en-us/by-model/POCOX3Pro.md) |
+| [POCOM3](/en-us/by-model/POCOM3.md) | [POCOX3NFC](/en-us/by-model/POCOX3NFC.md) | [POCOF1](/en-us/by-model/POCOF1.md) |
+ | | |
 ## Version
 [Weekly](#Weekly)  [Stable](#Stable)
 ### Weekly
@@ -219,14 +219,14 @@
 ### 其它
 | | | |
 | ---- | ---- | ---- |
-| [REDWOOD](/zh-cn/by-model/REDWOOD.md) | [SOCRATES](/zh-cn/by-model/SOCRATES.md) | [MONDRIAN](/zh-cn/by-model/MONDRIAN.md) |
-| [FUXI](/zh-cn/by-model/FUXI.md) | [NUWA](/zh-cn/by-model/NUWA.md) | [PLATO](/zh-cn/by-model/PLATO.md) |
-| [DITING](/zh-cn/by-model/DITING.md) | [XAGA](/zh-cn/by-model/XAGA.md) | [RUBENS](/zh-cn/by-model/RUBENS.md) |
-| [MATISSE](/zh-cn/by-model/MATISSE.md) | [TAOYAO](/zh-cn/by-model/TAOYAO.md) | [THOR](/zh-cn/by-model/THOR.md) |
-| [UNICORN](/zh-cn/by-model/UNICORN.md) | [MAYFLY](/zh-cn/by-model/MAYFLY.md) | [MUNCH](/zh-cn/by-model/MUNCH.md) |
-| [VEUXG](/zh-cn/by-model/VEUXG.md) | [VEUX](/zh-cn/by-model/VEUX.md) | [INGRES](/zh-cn/by-model/INGRES.md) |
-| [POCOX3Pro](/zh-cn/by-model/POCOX3Pro.md) | [POCOM3](/zh-cn/by-model/POCOM3.md) | [POCOX3NFC](/zh-cn/by-model/POCOX3NFC.md) |
-| [POCOF1](/zh-cn/by-model/POCOF1.md)  | |
+| [SOCRATES](/zh-cn/by-model/SOCRATES.md) | [MONDRIAN](/zh-cn/by-model/MONDRIAN.md) | [FUXI](/zh-cn/by-model/FUXI.md) |
+| [NUWA](/zh-cn/by-model/NUWA.md) | [PLATO](/zh-cn/by-model/PLATO.md) | [DITING](/zh-cn/by-model/DITING.md) |
+| [XAGA](/zh-cn/by-model/XAGA.md) | [RUBENS](/zh-cn/by-model/RUBENS.md) | [MATISSE](/zh-cn/by-model/MATISSE.md) |
+| [TAOYAO](/zh-cn/by-model/TAOYAO.md) | [THOR](/zh-cn/by-model/THOR.md) | [UNICORN](/zh-cn/by-model/UNICORN.md) |
+| [MAYFLY](/zh-cn/by-model/MAYFLY.md) | [MUNCH](/zh-cn/by-model/MUNCH.md) | [VEUXG](/zh-cn/by-model/VEUXG.md) |
+| [VEUX](/zh-cn/by-model/VEUX.md) | [INGRES](/zh-cn/by-model/INGRES.md) | [POCOX3Pro](/zh-cn/by-model/POCOX3Pro.md) |
+| [POCOM3](/zh-cn/by-model/POCOM3.md) | [POCOX3NFC](/zh-cn/by-model/POCOX3NFC.md) | [POCOF1](/zh-cn/by-model/POCOF1.md) |
+ | | |
 ## 版本
 [开发版](#开发版)  [稳定版](#稳定版)
 ### 开发版
