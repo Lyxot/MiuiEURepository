@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Lite5G | V14.0.23.2.21.DEV | 2023-02-25 03:29:14 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.21.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.21.DEV/xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.21.DEV_v14-13.zip/download) |
 | MI11Lite5G | V14.0.23.2.13.DEV | 2023-02-18 07:29:47 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.13.DEV_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.13.DEV/xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.13.DEV_v14-13.zip/download) |
 | MI11Lite5G | V14.0.23.2.6.DEV | 2023-02-11 16:25:24 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.6.DEV_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.6.DEV/xiaomi.eu_multi_MI11Lite5G_V14.0.23.2.6.DEV_v14-13.zip/download) |
 | MI11Lite5G | V14.0.23.1.30.DEV | 2023-02-04 05:58:46 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.23.1.30.DEV_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.30.DEV/xiaomi.eu_multi_MI11Lite5G_V14.0.23.1.30.DEV_v14-13.zip/download) |
