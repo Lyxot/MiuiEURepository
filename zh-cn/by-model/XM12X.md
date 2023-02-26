@@ -3,7 +3,6 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| XM12X | V14.0.23.2.21.DEV | 2023-02-25 03:54:17 UTC | xiaomi.eu_multi_XM12X_V14.0.23.2.21.DEV_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.21.DEV/xiaomi.eu_multi_XM12X_V14.0.23.2.21.DEV_v14-13.zip/download) |
 | XM12X | V14.0.23.2.13.DEV | 2023-02-18 10:59:22 UTC | xiaomi.eu_multi_XM12X_V14.0.23.2.13.DEV_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.13.DEV/xiaomi.eu_multi_XM12X_V14.0.23.2.13.DEV_v14-13.zip/download) |
 | XM12X | V14.0.23.2.6.DEV | 2023-02-11 12:19:44 UTC | xiaomi.eu_multi_XM12X_V14.0.23.2.6.DEV_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.6.DEV/xiaomi.eu_multi_XM12X_V14.0.23.2.6.DEV_v14-13.zip/download) |
 | XM12X | V14.0.23.1.30.DEV | 2023-02-04 07:25:43 UTC | xiaomi.eu_multi_XM12X_V14.0.23.1.30.DEV_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.30.DEV/xiaomi.eu_multi_XM12X_V14.0.23.1.30.DEV_v14-13.zip/download) |
@@ -47,7 +46,6 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| XM12X | V14.0.8.0.TLDCNXM | 2023-02-25 06:36:17 UTC | xiaomi.eu_multi_XM12X_V14.0.8.0.TLDCNXM_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12X_V14.0.8.0.TLDCNXM_v14-13.zip/download) |
 | XM12X | V14.0.7.0.TLDCNXM | 2023-02-16 19:40:48 UTC | xiaomi.eu_multi_XM12X_V14.0.7.0.TLDCNXM_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12X_V14.0.7.0.TLDCNXM_v14-13.zip/download) |
 | XM12X | V14.0.5.0.TLDCNXM | 2023-01-29 16:43:01 UTC | xiaomi.eu_multi_XM12X_V14.0.5.0.TLDCNXM_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12X_V14.0.5.0.TLDCNXM_v14-13.zip/download) |
 | XM12X | V13.0.10.0.SLDCNXM | 2022-11-21 06:30:35 UTC | xiaomi.eu_multi_XM12X_V13.0.10.0.SLDCNXM_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_XM12X_V13.0.10.0.SLDCNXM_v13-12.zip/download) |
