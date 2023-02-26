@@ -85,6 +85,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote94G HM9T | V14.0.1.0.SJQCNXM | 2023-02-26 15:42:11 UTC | xiaomi.eu_multi_HMNote94G_HM9T_V14.0.1.0.SJQCNXM_v14-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote94G_HM9T_V14.0.1.0.SJQCNXM_v14-12.zip/download) |
 | HMNote94G HM9T | V13.0.4.0.SJQCNXM | 2022-11-27 11:46:27 UTC | xiaomi.eu_multi_HMNote94G_HM9T_V13.0.4.0.SJQCNXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote94G_HM9T_V13.0.4.0.SJQCNXM_v13-12.zip/download) |
 | HMNote94G HM9T | V13.0.2.0.SJQCNXM | 2022-08-25 11:29:18 UTC | xiaomi.eu_multi_HMNote94G_HM9T_V13.0.2.0.SJQCNXM_v13-12.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote94G_HM9T_V13.0.2.0.SJQCNXM_v13-12.zip/download) |
 | HMNote94G HM9T | V13.0.1.0.SJQCNXM | 2022-08-04 17:21:06 UTC | xiaomi.eu_multi_HMNote94G_HM9T_V13.0.1.0.SJQCNXM_v13-12.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote94G_HM9T_V13.0.1.0.SJQCNXM_v13-12.zip/download) |
