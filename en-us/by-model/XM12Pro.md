@@ -15,6 +15,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XM12Pro | V14.0.12.0.TLBCNXM | 2023-02-27 17:05:07 UTC | xiaomi.eu_multi_XM12Pro_V14.0.12.0.TLBCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12Pro_V14.0.12.0.TLBCNXM_v14-13.zip/download) |
 | XM12Pro | V14.0.8.0.TLBCNXM | 2023-01-16 17:51:12 UTC | xiaomi.eu_multi_XM12Pro_V14.0.8.0.TLBCNXM_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12Pro_V14.0.8.0.TLBCNXM_v14-13.zip/download) |
 | XM12Pro | V14.0.6.0.TLBCNXM | 2023-01-02 20:26:45 UTC | xiaomi.eu_multi_XM12Pro_V14.0.6.0.TLBCNXM_v14-13-fastboot.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12Pro_V14.0.6.0.TLBCNXM_v14-13-fastboot.zip/download) |
 | XM12Pro | V14.0.4.0.TLBCNXM | 2022-12-24 12:19:14 UTC | xiaomi.eu_multi_XM12Pro_V14.0.4.0.TLBCNXM_v14-13-fastboot.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XM12Pro_V14.0.4.0.TLBCNXM_v14-13-fastboot.zip/download) |
