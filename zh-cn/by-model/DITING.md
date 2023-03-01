@@ -15,6 +15,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| DITING | V14.0.7.0.TLFCNXM | 2023-03-01 16:48:16 UTC | xiaomi.eu_multi_DITING_V14.0.7.0.TLFCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_DITING_V14.0.7.0.TLFCNXM_v14-13.zip/download) |
 | DITING | V14.0.5.0.TLFCNXM | 2023-02-05 18:37:12 UTC | xiaomi.eu_multi_DITING_V14.0.5.0.TLFCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_DITING_V14.0.5.0.TLFCNXM_v14-13.zip/download) |
 | DITING | V13.0.10.0.SLFCNXM | 2022-11-16 12:15:33 UTC | xiaomi.eu_multi_DITING_V13.0.10.0.SLFCNXM_v13-12.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_DITING_V13.0.10.0.SLFCNXM_v13-12.zip/download) |
 | DITING | V13.0.7.0.SLFCNXM | 2022-10-24 11:33:17 UTC | xiaomi.eu_multi_DITING_V13.0.7.0.SLFCNXM_v13-12-fastboot.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_DITING_V13.0.7.0.SLFCNXM_v13-12-fastboot.zip/download) |
