@@ -103,6 +103,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK30Pro | V14.0.2.0.SJKCNXM | 2023-03-03 18:24:41 UTC | xiaomi.eu_multi_HMK30Pro_V14.0.2.0.SJKCNXM_v14-12.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMK30Pro_V14.0.2.0.SJKCNXM_v14-12.zip/download) |
 | HMK30Pro | V14.0.1.0.SJKCNXM | 2023-02-23 09:02:11 UTC | xiaomi.eu_multi_HMK30Pro_V14.0.1.0.SJKCNXM_v14-12.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMK30Pro_V14.0.1.0.SJKCNXM_v14-12.zip/download) |
 | HMK30Pro | V13.0.6.0.SJKCNXM | 2022-11-05 10:18:44 UTC | xiaomi.eu_multi_HMK30Pro_V13.0.6.0.SJKCNXM_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK30Pro_V13.0.6.0.SJKCNXM_v13-12.zip/download) |
 | HMK30Pro | V13.0.5.0.SJKCNXM | 2022-09-08 14:50:55 UTC | xiaomi.eu_multi_HMK30Pro_V13.0.5.0.SJKCNXM_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK30Pro_V13.0.5.0.SJKCNXM_v13-12.zip/download) |
