@@ -3,20 +3,6 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MIMix2 | 20.6.18 | 2020-06-19 03:13:20 UTC | xiaomi.eu_multi_MIMix2_20.6.18_v12-9.zip | 2.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.6.18/xiaomi.eu_multi_MIMix2_20.6.18_v12-9.zip/download) |
-| MIMix2 | 20.6.11 | 2020-06-11 18:02:50 UTC | xiaomi.eu_multi_MIMix2_20.6.11_v12-9.zip | 2.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.6.11/xiaomi.eu_multi_MIMix2_20.6.11_v12-9.zip/download) |
-| MIMix2 | 20.6.4 | 2020-06-04 17:25:07 UTC | xiaomi.eu_multi_MIMix2_20.6.4_v12-9.zip | 2.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.6.4/xiaomi.eu_multi_MIMix2_20.6.4_v12-9.zip/download) |
-| MIMix2 | 20.5.15 | 2020-05-16 01:58:22 UTC | xiaomi.eu_multi_MIMix2_20.5.15_v12-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.15/xiaomi.eu_multi_MIMix2_20.5.15_v12-9.zip/download) |
-| MIMix2 | 20.5.7 | 2020-05-09 03:56:47 UTC | xiaomi.eu_multi_MIMix2_20.5.7_v12-9.zip | 2.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.5.7/xiaomi.eu_multi_MIMix2_20.5.7_v12-9.zip/download) |
-| MIMix2 | 20.4.30 | 2020-05-02 07:42:01 UTC | xiaomi.eu_multi_MIMix2_20.4.30_v12-9.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.4.30/xiaomi.eu_multi_MIMix2_20.4.30_v12-9.zip/download) |
-| MIMix2 | 20.3.26 | 2020-03-27 03:20:01 UTC | xiaomi.eu_multi_MIMix2_20.3.26_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.26/xiaomi.eu_multi_MIMix2_20.3.26_v11-9.zip/download) |
-| MIMix2 | 20.3.19 | 2020-03-20 07:06:51 UTC | xiaomi.eu_multi_MIMix2_20.3.19_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.19/xiaomi.eu_multi_MIMix2_20.3.19_v11-9.zip/download) |
-| MIMix2 | 20.3.12 | 2020-03-13 03:18:23 UTC | xiaomi.eu_multi_MIMix2_20.3.12_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.12/xiaomi.eu_multi_MIMix2_20.3.12_v11-9.zip/download) |
-| MIMix2 | 20.3.5 | 2020-03-05 23:58:51 UTC | xiaomi.eu_multi_MIMix2_20.3.5_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.3.5/xiaomi.eu_multi_MIMix2_20.3.5_v11-9.zip/download) |
-| MIMix2 | 20.2.27 | 2020-02-27 20:11:04 UTC | xiaomi.eu_multi_MIMix2_20.2.27_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.2.27/xiaomi.eu_multi_MIMix2_20.2.27_v11-9.zip/download) |
-| MIMix2 | 20.1.16 | 2020-01-16 19:50:13 UTC | xiaomi.eu_multi_MIMix2_20.1.16_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.16/xiaomi.eu_multi_MIMix2_20.1.16_v11-9.zip/download) |
-| MIMix2 | 20.1.9 | 2020-01-10 12:11:01 UTC | xiaomi.eu_multi_MIMix2_20.1.9_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.9/xiaomi.eu_multi_MIMix2_20.1.9_v11-9.zip/download) |
-| MIMix2 | 20.1.2 | 2020-01-03 04:09:34 UTC | xiaomi.eu_multi_MIMix2_20.1.2_v11-9.zip | 1.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.1.2/xiaomi.eu_multi_MIMix2_20.1.2_v11-9.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
