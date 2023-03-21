@@ -3,6 +3,15 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| NUWA | V14.0.23.3.13.DEV | 2023-03-18 04:00:51 UTC | xiaomi.eu_multi_NUWA_V14.0.23.3.13.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.13.DEV/xiaomi.eu_multi_NUWA_V14.0.23.3.13.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.3.7.DEV | 2023-03-11 06:14:17 UTC | xiaomi.eu_multi_NUWA_V14.0.23.3.7.DEV_v14-13.zip | 6.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.7.DEV/xiaomi.eu_multi_NUWA_V14.0.23.3.7.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.3.6.DEV | 2023-03-06 17:10:28 UTC | xiaomi.eu_multi_NUWA_V14.0.23.3.6.DEV_v14-13.zip | 6.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.6.DEV/xiaomi.eu_multi_NUWA_V14.0.23.3.6.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.2.27.DEV | 2023-03-03 20:01:59 UTC | xiaomi.eu_multi_NUWA_V14.0.23.2.27.DEV_v14-13.zip | 6.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.27.DEV/xiaomi.eu_multi_NUWA_V14.0.23.2.27.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.2.21.DEV | 2023-02-26 11:58:29 UTC | xiaomi.eu_multi_NUWA_V14.0.23.2.21.DEV_v14-13.zip | 6.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.21.DEV/xiaomi.eu_multi_NUWA_V14.0.23.2.21.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.2.13.DEV | 2023-02-18 09:21:53 UTC | xiaomi.eu_multi_NUWA_V14.0.23.2.13.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.13.DEV/xiaomi.eu_multi_NUWA_V14.0.23.2.13.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.2.6.DEV | 2023-02-11 07:48:28 UTC | xiaomi.eu_multi_NUWA_V14.0.23.2.6.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.6.DEV/xiaomi.eu_multi_NUWA_V14.0.23.2.6.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.1.31.DEV | 2023-02-03 19:34:25 UTC | xiaomi.eu_multi_NUWA_V14.0.23.1.31.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.31.DEV/xiaomi.eu_multi_NUWA_V14.0.23.1.31.DEV_v14-13.zip/download) |
+| NUWA | V14.0.23.1.9.DEV | 2023-01-30 18:16:36 UTC | xiaomi.eu_multi_NUWA_V14.0.23.1.9.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.1.9.DEV/xiaomi.eu_multi_NUWA_V14.0.23.1.9.DEV_v14-13.zip/download) |
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |

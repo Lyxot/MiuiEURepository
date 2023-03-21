@@ -3,6 +3,13 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10Pro | 22.7.19 | 2022-07-20 15:25:57 UTC | xiaomi.eu_multi_MI10Pro_22.7.19_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.19/xiaomi.eu_multi_MI10Pro_22.7.19_v13-12.zip/download) |
+| MI10Pro | 22.7.13 | 2022-07-14 14:25:23 UTC | xiaomi.eu_multi_MI10Pro_22.7.13_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.13/xiaomi.eu_multi_MI10Pro_22.7.13_v13-12.zip/download) |
+| MI10Pro | 22.7.7 | 2022-07-07 16:33:58 UTC | xiaomi.eu_multi_MI10Pro_22.7.7_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.7.7/xiaomi.eu_multi_MI10Pro_22.7.7_v13-12.zip/download) |
+| MI10Pro | 22.6.29 | 2022-06-30 13:28:20 UTC | xiaomi.eu_multi_MI10Pro_22.6.29_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.29/xiaomi.eu_multi_MI10Pro_22.6.29_v13-12.zip/download) |
+| MI10Pro | 22.6.22 | 2022-06-23 11:52:07 UTC | xiaomi.eu_multi_MI10Pro_22.6.22_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.22/xiaomi.eu_multi_MI10Pro_22.6.22_v13-12.zip/download) |
+| MI10Pro | 22.6.15 | 2022-06-16 17:23:34 UTC | xiaomi.eu_multi_MI10Pro_22.6.15_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.15/xiaomi.eu_multi_MI10Pro_22.6.15_v13-12-fastboot.zip/download) |
+| MI10Pro | 22.6.9 | 2022-06-09 16:14:21 UTC | xiaomi.eu_multi_MI10Pro_22.6.9_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/22.6.9/xiaomi.eu_multi_MI10Pro_22.6.9_v13-12-fastboot.zip/download) |
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
