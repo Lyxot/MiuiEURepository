@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK40Pro MI11i | V14.0.23.3.20.DEV | 2023-03-25 02:58:42 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.20.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.20.DEV/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.20.DEV_v14-13.zip/download) |
 | HMK40Pro MI11i | V14.0.23.3.13.DEV | 2023-03-18 03:18:06 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.13.DEV_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.13.DEV/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.13.DEV_v14-13.zip/download) |
 | HMK40Pro MI11i | V14.0.23.3.7.DEV | 2023-03-11 05:11:45 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.7.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.7.DEV/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.3.7.DEV_v14-13.zip/download) |
 | HMK40Pro MI11i | V14.0.23.2.27.DEV | 2023-03-04 01:43:11 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.2.27.DEV_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.2.27.DEV/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.23.2.27.DEV_v14-13.zip/download) |
