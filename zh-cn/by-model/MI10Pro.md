@@ -13,7 +13,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| MI10Pro | V14.0.2.0.TJACNXM | 2023-03-25 07:55:07 UTC | xiaomi.eu_multi_MI10Pro_V14.0.2.0.TJACNXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI10Pro_V14.0.2.0.TJACNXM_v14-13.zip/download) |
+| MI10Pro | V14.0.2.0.TJACNXM | 2023-03-26 20:49:08 UTC | xiaomi.eu_multi_MI10Pro_V14.0.2.0.TJACNXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI10Pro_V14.0.2.0.TJACNXM_v14-13.zip/download) |
 | MI10Pro | V13.0.6.0.SJACNXM | 2022-11-15 23:36:05 UTC | xiaomi.eu_multi_MI10Pro_V13.0.6.0.SJACNXM_v13-12.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10Pro_V13.0.6.0.SJACNXM_v13-12.zip/download) |
 | MI10Pro | V13.0.5.0.SJACNXM | 2022-09-05 17:27:39 UTC | xiaomi.eu_multi_MI10Pro_V13.0.5.0.SJACNXM_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10Pro_V13.0.5.0.SJACNXM_v13-12.zip/download) |
 | MI10Pro | V13.0.4.0.SJACNXM | 2022-06-02 18:18:45 UTC | xiaomi.eu_multi_MI10Pro_V13.0.4.0.SJACNXM_v13-12-fastboot.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI10Pro_V13.0.4.0.SJACNXM_v13-12-fastboot.zip/download) |
