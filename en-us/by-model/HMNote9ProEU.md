@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote9ProEU | V14.0.3.0.SJZMIXM | 2023-03-27 15:45:31 UTC | xiaomi.eu_multi_HMNote9ProEU_V14.0.3.0.SJZMIXM_v14-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote9ProEU_V14.0.3.0.SJZMIXM_v14-12.zip/download) |
 | HMNote9ProEU | V13.0.4.0.SJZMIXM | 2023-02-01 02:46:34 UTC | xiaomi.eu_multi_HMNote9ProEU_V13.0.4.0.SJZMIXM_v13-12.zip | 3.6 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9ProEU_V13.0.4.0.SJZMIXM_v13-12.zip/download) |
 | HMNote9ProEU | V13.0.2.0.SJZMIXM | 2022-12-31 04:18:13 UTC | xiaomi.eu_multi_HMNote9ProEU_V13.0.2.0.SJZMIXM_v13-12-fastboot.zip | 3.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9ProEU_V13.0.2.0.SJZMIXM_v13-12-fastboot.zip/download) |
 | HMNote9ProEU | V13.0.1.0.SJZMIXM | 2022-09-03 09:02:48 UTC | xiaomi.eu_multi_HMNote9ProEU_V13.0.1.0.SJZMIXM_v13-12-fastboot.zip | 3.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote9ProEU_V13.0.1.0.SJZMIXM_v13-12-fastboot.zip/download) |
