@@ -37,6 +37,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK40Pro MI11i | V14.0.5.0.TKKCNXM | 2023-03-27 17:19:45 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.5.0.TKKCNXM_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.5.0.TKKCNXM_v14-13.zip/download) |
 | HMK40Pro MI11i | V14.0.3.0.TKKCNXM | 2023-01-10 19:00:02 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.3.0.TKKCNXM_v14-13.zip | 4.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMK40Pro_MI11i_V14.0.3.0.TKKCNXM_v14-13.zip/download) |
 | HMK40Pro MI11i | V13.0.13.0.SKKCNXM | 2022-11-26 16:59:01 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V13.0.13.0.SKKCNXM_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK40Pro_MI11i_V13.0.13.0.SKKCNXM_v13-12.zip/download) |
 | HMK40Pro MI11i | V13.0.10.0.SKKCNXM | 2022-08-01 17:42:26 UTC | xiaomi.eu_multi_HMK40Pro_MI11i_V13.0.10.0.SKKCNXM_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMK40Pro_MI11i_V13.0.10.0.SKKCNXM_v13-12.zip/download) |
