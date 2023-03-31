@@ -37,6 +37,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Lite5G | V14.0.8.0.TKICNXM | 2023-03-31 16:33:34 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.8.0.TKICNXM_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite5G_V14.0.8.0.TKICNXM_v14-13.zip/download) |
 | MI11Lite5G | V14.0.6.0.TKICNXM | 2023-01-20 17:53:49 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.6.0.TKICNXM_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite5G_V14.0.6.0.TKICNXM_v14-13.zip/download) |
 | MI11Lite5G | V14.0.4.0.TKICNXM | 2023-01-16 17:20:58 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.4.0.TKICNXM_v14-13-fastboot.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite5G_V14.0.4.0.TKICNXM_v14-13-fastboot.zip/download) |
 | MI11Lite5G | V14.0.3.0.TKICNXM | 2023-01-01 16:35:15 UTC | xiaomi.eu_multi_MI11Lite5G_V14.0.3.0.TKICNXM_v14-13-fastboot.zip | 4.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite5G_V14.0.3.0.TKICNXM_v14-13-fastboot.zip/download) |
