@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| VEUXG | V13.0.7.0.SKCMIXM | 2023-04-02 21:25:47 UTC | xiaomi.eu_multi_VEUXG_V13.0.7.0.SKCMIXM_v13-12.zip | 3.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_VEUXG_V13.0.7.0.SKCMIXM_v13-12.zip/download) |
 | VEUXG | V13.0.5.0.SKCMIXM | 2023-01-17 17:15:14 UTC | xiaomi.eu_multi_VEUXG_V13.0.5.0.SKCMIXM_v13-12-fastboot.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_VEUXG_V13.0.5.0.SKCMIXM_v13-12-fastboot.zip/download) |
 | VEUXG | V13.0.4.0.SKCMIXM | 2022-10-24 14:13:35 UTC | xiaomi.eu_multi_VEUXG_V13.0.4.0.SKCMIXM_v13-12-fastboot.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_VEUXG_V13.0.4.0.SKCMIXM_v13-12-fastboot.zip/download) |
 | VEUXG | V13.0.2.0.SKCMIXM | 2022-08-19 18:32:52 UTC | xiaomi.eu_multi_VEUXG_V13.0.2.0.SKCMIXM_v13-12-fastboot.zip | 3.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_VEUXG_V13.0.2.0.SKCMIXM_v13-12-fastboot.zip/download) |
