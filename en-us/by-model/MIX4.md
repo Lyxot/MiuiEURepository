@@ -36,6 +36,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIX4 | V14.0.4.0.TKMCNXM | 2023-04-03 13:30:58 UTC | xiaomi.eu_multi_MIX4_V14.0.4.0.TKMCNXM_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MIX4_V14.0.4.0.TKMCNXM_v14-13.zip/download) |
 | MIX4 | V14.0.3.0.TKMCNXM | 2023-02-18 06:52:54 UTC | xiaomi.eu_multi_MIX4_V14.0.3.0.TKMCNXM_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MIX4_V14.0.3.0.TKMCNXM_v14-13.zip/download) |
 | MIX4 | V14.0.1.0.TKMCNXM | 2023-01-09 06:02:12 UTC | xiaomi.eu_multi_MIX4_V14.0.1.0.TKMCNXM_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MIX4_V14.0.1.0.TKMCNXM_v14-13.zip/download) |
 | MIX4 | V13.0.8.0.SKMCNXM | 2022-08-16 09:45:08 UTC | xiaomi.eu_multi_MIX4_V13.0.8.0.SKMCNXM_v13-12.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MIX4_V13.0.8.0.SKMCNXM_v13-12.zip/download) |
