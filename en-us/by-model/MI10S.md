@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI10S | V14.0.23.4.10.DEV | 2023-04-16 08:59:19 UTC | xiaomi.eu_multi_MI10S_V14.0.23.4.10.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.4.10.DEV/xiaomi.eu_multi_MI10S_V14.0.23.4.10.DEV_v14-13.zip/download) |
 | MI10S | V14.0.23.4.2.DEV | 2023-04-08 10:06:59 UTC | xiaomi.eu_multi_MI10S_V14.0.23.4.2.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.4.2.DEV/xiaomi.eu_multi_MI10S_V14.0.23.4.2.DEV_v14-13.zip/download) |
 | MI10S | V14.0.23.3.27.DEV | 2023-04-01 03:19:34 UTC | xiaomi.eu_multi_MI10S_V14.0.23.3.27.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.27.DEV/xiaomi.eu_multi_MI10S_V14.0.23.3.27.DEV_v14-13.zip/download) |
 | MI10S | V14.0.23.3.20.DEV | 2023-03-25 05:54:08 UTC | xiaomi.eu_multi_MI10S_V14.0.23.3.20.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.20.DEV/xiaomi.eu_multi_MI10S_V14.0.23.3.20.DEV_v14-13.zip/download) |
