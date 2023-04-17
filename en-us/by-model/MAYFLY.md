@@ -21,6 +21,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MAYFLY | V14.0.8.0.TLTCNXM | 2023-04-17 14:31:50 UTC | xiaomi.eu_multi_MAYFLY_V14.0.8.0.TLTCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MAYFLY_V14.0.8.0.TLTCNXM_v14-13.zip/download) |
 | MAYFLY | V14.0.7.0.TLTCNXM | 2023-02-24 12:34:39 UTC | xiaomi.eu_multi_MAYFLY_V14.0.7.0.TLTCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MAYFLY_V14.0.7.0.TLTCNXM_v14-13.zip/download) |
 | MAYFLY | V14.0.5.0.TLTCNXM | 2023-01-16 16:00:16 UTC | xiaomi.eu_multi_MAYFLY_V14.0.5.0.TLTCNXM_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MAYFLY_V14.0.5.0.TLTCNXM_v14-13.zip/download) |
 | MAYFLY | V14.0.4.0.TLTCNXM | 2022-12-31 04:04:42 UTC | xiaomi.eu_multi_MAYFLY_V14.0.4.0.TLTCNXM_v14-13-fastboot.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MAYFLY_V14.0.4.0.TLTCNXM_v14-13-fastboot.zip/download) |
