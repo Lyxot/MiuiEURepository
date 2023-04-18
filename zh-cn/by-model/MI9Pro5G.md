@@ -6,6 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI9Pro5G | V13.0.1.0.RFXCNXM | 2022-04-11 14:10:05 UTC | xiaomi.eu_multi_MI9Pro5G_V13.0.1.0.RFXCNXM_v13-11.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI9Pro5G_V13.0.1.0.RFXCNXM_v13-11.zip/download) |
 | MI9Pro5G | V12.5.3.0.RFXCNXM | 2021-11-12 16:57:52 UTC | xiaomi.eu_multi_MI9Pro5G_V12.5.3.0.RFXCNXM_v12-11.zip | 3.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI9Pro5G_V12.5.3.0.RFXCNXM_v12-11.zip/download) |
 | MI9Pro5G | V12.5.1.0.RFXCNXM | 2021-06-23 03:52:44 UTC | xiaomi.eu_multi_MI9Pro5G_V12.5.1.0.RFXCNXM_v12-11.zip | 3.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI9Pro5G_V12.5.1.0.RFXCNXM_v12-11.zip/download) |
 | MI9Pro5G | V12.0.5.0.QFXCNXM | 2020-12-03 05:40:38 UTC | xiaomi.eu_multi_MI9Pro5G_V12.0.5.0.QFXCNXM_v12-10.zip | 2.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI9Pro5G_V12.0.5.0.QFXCNXM_v12-10.zip/download) |
