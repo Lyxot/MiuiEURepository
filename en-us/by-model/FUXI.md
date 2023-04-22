@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| FUXI | V14.0.23.4.17.DEV | 2023-04-22 00:57:43 UTC | xiaomi.eu_multi_FUXI_V14.0.23.4.17.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.4.17.DEV/xiaomi.eu_multi_FUXI_V14.0.23.4.17.DEV_v14-13.zip/download) |
 | FUXI | V14.0.23.4.10.DEV | 2023-04-16 05:12:51 UTC | xiaomi.eu_multi_FUXI_V14.0.23.4.10.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.4.10.DEV/xiaomi.eu_multi_FUXI_V14.0.23.4.10.DEV_v14-13.zip/download) |
 | FUXI | V14.0.23.4.2.DEV | 2023-04-09 18:34:16 UTC | xiaomi.eu_multi_FUXI_V14.0.23.4.2.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.4.2.DEV/xiaomi.eu_multi_FUXI_V14.0.23.4.2.DEV_v14-13.zip/download) |
 | FUXI | V14.0.23.3.27.DEV | 2023-04-01 02:26:08 UTC | xiaomi.eu_multi_FUXI_V14.0.23.3.27.DEV_v14-13.zip | 5.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.3.27.DEV/xiaomi.eu_multi_FUXI_V14.0.23.3.27.DEV_v14-13.zip/download) |
