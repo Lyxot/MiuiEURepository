@@ -61,10 +61,7 @@
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |
 | [22.9.29](/en-us/by-version/22.9.29.md) | [22.9.21](/en-us/by-version/22.9.21.md) | [22.9.14](/en-us/by-version/22.9.14.md) | [22.9.7](/en-us/by-version/22.9.7.md) | [22.8.31](/en-us/by-version/22.8.31.md) |
-| [22.8.25](/en-us/by-version/22.8.25.md) | [22.8.17](/en-us/by-version/22.8.17.md) | [22.8.10](/en-us/by-version/22.8.10.md) | [22.8.3](/en-us/by-version/22.8.3.md) | [22.7.28](/en-us/by-version/22.7.28.md) |
-| [22.7.21](/en-us/by-version/22.7.21.md) | [22.7.19](/en-us/by-version/22.7.19.md) | [22.7.13](/en-us/by-version/22.7.13.md) | [22.7.7](/en-us/by-version/22.7.7.md) | [22.7.6](/en-us/by-version/22.7.6.md) |
-| [22.6.29](/en-us/by-version/22.6.29.md) | [22.6.22](/en-us/by-version/22.6.22.md) | [22.6.15](/en-us/by-version/22.6.15.md) | [22.6.9](/en-us/by-version/22.6.9.md) | [22.6.8](/en-us/by-version/22.6.8.md) |
-| [22.6.1](/en-us/by-version/22.6.1.md)  | | | |
+| [22.8.25](/en-us/by-version/22.8.25.md) | [22.8.17](/en-us/by-version/22.8.17.md) | [22.8.10](/en-us/by-version/22.8.10.md) | [22.8.3](/en-us/by-version/22.8.3.md)  |
 ### Stable
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |
@@ -159,10 +156,7 @@
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |
 | [22.9.29](/zh-cn/by-version/22.9.29.md) | [22.9.21](/zh-cn/by-version/22.9.21.md) | [22.9.14](/zh-cn/by-version/22.9.14.md) | [22.9.7](/zh-cn/by-version/22.9.7.md) | [22.8.31](/zh-cn/by-version/22.8.31.md) |
-| [22.8.25](/zh-cn/by-version/22.8.25.md) | [22.8.17](/zh-cn/by-version/22.8.17.md) | [22.8.10](/zh-cn/by-version/22.8.10.md) | [22.8.3](/zh-cn/by-version/22.8.3.md) | [22.7.28](/zh-cn/by-version/22.7.28.md) |
-| [22.7.21](/zh-cn/by-version/22.7.21.md) | [22.7.19](/zh-cn/by-version/22.7.19.md) | [22.7.13](/zh-cn/by-version/22.7.13.md) | [22.7.7](/zh-cn/by-version/22.7.7.md) | [22.7.6](/zh-cn/by-version/22.7.6.md) |
-| [22.6.29](/zh-cn/by-version/22.6.29.md) | [22.6.22](/zh-cn/by-version/22.6.22.md) | [22.6.15](/zh-cn/by-version/22.6.15.md) | [22.6.9](/zh-cn/by-version/22.6.9.md) | [22.6.8](/zh-cn/by-version/22.6.8.md) |
-| [22.6.1](/zh-cn/by-version/22.6.1.md)  | | | |
+| [22.8.25](/zh-cn/by-version/22.8.25.md) | [22.8.17](/zh-cn/by-version/22.8.17.md) | [22.8.10](/zh-cn/by-version/22.8.10.md) | [22.8.3](/zh-cn/by-version/22.8.3.md)  |
 ### 稳定版
 | | | | | |
 | ---- | ---- | ---- | ---- | ---- |
