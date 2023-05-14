@@ -45,7 +45,7 @@
 ### Others
 | | | |
 | ---- | ---- | ---- |
-| [MARBLE](/en-us/by-model/MARBLE.md) | [TAPAS](/en-us/by-model/TAPAS.md) | [TOPAZ](/en-us/by-model/TOPAZ.md) |
+| [TAPAS](/en-us/by-model/TAPAS.md) | [MARBLE](/en-us/by-model/MARBLE.md) | [TOPAZ](/en-us/by-model/TOPAZ.md) |
 | [ISHTAR](/en-us/by-model/ISHTAR.md) | [MOONSTONE](/en-us/by-model/MOONSTONE.md) | [ZIYIG](/en-us/by-model/ZIYIG.md) |
 | [SUNSTONE](/en-us/by-model/SUNSTONE.md) | [REDWOOD](/en-us/by-model/REDWOOD.md) | [SOCRATES](/en-us/by-model/SOCRATES.md) |
 | [MONDRIAN](/en-us/by-model/MONDRIAN.md) | [FUXI](/en-us/by-model/FUXI.md) | [NUWA](/en-us/by-model/NUWA.md) |
@@ -133,7 +133,7 @@
 ### 其它
 | | | |
 | ---- | ---- | ---- |
-| [MARBLE](/zh-cn/by-model/MARBLE.md) | [TAPAS](/zh-cn/by-model/TAPAS.md) | [TOPAZ](/zh-cn/by-model/TOPAZ.md) |
+| [TAPAS](/zh-cn/by-model/TAPAS.md) | [MARBLE](/zh-cn/by-model/MARBLE.md) | [TOPAZ](/zh-cn/by-model/TOPAZ.md) |
 | [ISHTAR](/zh-cn/by-model/ISHTAR.md) | [MOONSTONE](/zh-cn/by-model/MOONSTONE.md) | [ZIYIG](/zh-cn/by-model/ZIYIG.md) |
 | [SUNSTONE](/zh-cn/by-model/SUNSTONE.md) | [REDWOOD](/zh-cn/by-model/REDWOOD.md) | [SOCRATES](/zh-cn/by-model/SOCRATES.md) |
 | [MONDRIAN](/zh-cn/by-model/MONDRIAN.md) | [FUXI](/zh-cn/by-model/FUXI.md) | [NUWA](/zh-cn/by-model/NUWA.md) |
