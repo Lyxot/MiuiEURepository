@@ -20,6 +20,3 @@
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | MONDRIAN | V14.0.24.0.TMNCNXM | 2023-05-01 20:10:44 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.24.0.TMNCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MONDRIAN_V14.0.24.0.TMNCNXM_v14-13.zip/download) |
-| MONDRIAN | V14.0.22.0.TMNCNXM | 2023-03-20 17:08:26 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.22.0.TMNCNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MONDRIAN_V14.0.22.0.TMNCNXM_v14-13.zip/download) |
-| MONDRIAN | V14.0.21.0.TMNCNXM | 2023-02-28 17:32:15 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.21.0.TMNCNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MONDRIAN_V14.0.21.0.TMNCNXM_v14-13.zip/download) |
-| MONDRIAN | V14.0.18.0.TMNCNXM | 2023-02-07 08:54:35 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.18.0.TMNCNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MONDRIAN_V14.0.18.0.TMNCNXM_v14-13.zip/download) |
