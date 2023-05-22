@@ -8,4 +8,4 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| ISHTAR | V14.0.13.0.TMACNXM | 2023-05-19 12:37:29 UTC | xiaomi.eu_multi_ISHTAR_V14.0.13.0.TMACNXM_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_ISHTAR_V14.0.13.0.TMACNXM_v14-13.zip/download) |
+| ISHTAR | V14.0.13.0.TMACNXM | 2023-05-22 20:19:49 UTC | xiaomi.eu_multi_ISHTAR_V14.0.13.0.TMACNXM_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_ISHTAR_V14.0.13.0.TMACNXM_v14-13.zip/download) |
