@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MAYFLY | V14.0.23.5.29.DEV | 2023-06-03 08:32:26 UTC | xiaomi.eu_multi_MAYFLY_V14.0.23.5.29.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.29.DEV/xiaomi.eu_multi_MAYFLY_V14.0.23.5.29.DEV_v14-13.zip/download) |
 | MAYFLY | V14.0.23.5.22.DEV | 2023-05-27 05:27:28 UTC | xiaomi.eu_multi_MAYFLY_V14.0.23.5.22.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.22.DEV/xiaomi.eu_multi_MAYFLY_V14.0.23.5.22.DEV_v14-13.zip/download) |
 | MAYFLY | V14.0.23.5.15.DEV | 2023-05-20 05:24:52 UTC | xiaomi.eu_multi_MAYFLY_V14.0.23.5.15.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.15.DEV/xiaomi.eu_multi_MAYFLY_V14.0.23.5.15.DEV_v14-13.zip/download) |
 | MAYFLY | V14.0.23.5.8.DEV | 2023-05-13 01:45:35 UTC | xiaomi.eu_multi_MAYFLY_V14.0.23.5.8.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.8.DEV/xiaomi.eu_multi_MAYFLY_V14.0.23.5.8.DEV_v14-13.zip/download) |
