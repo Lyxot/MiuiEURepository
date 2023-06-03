@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| DITING | V14.0.23.5.29.DEV | 2023-06-03 06:08:03 UTC | xiaomi.eu_multi_DITING_V14.0.23.5.29.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.29.DEV/xiaomi.eu_multi_DITING_V14.0.23.5.29.DEV_v14-13.zip/download) |
 | DITING | V14.0.23.5.22.DEV | 2023-05-26 17:49:40 UTC | xiaomi.eu_multi_DITING_V14.0.23.5.22.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.22.DEV/xiaomi.eu_multi_DITING_V14.0.23.5.22.DEV_v14-13.zip/download) |
 | DITING | V14.0.23.5.15.DEV | 2023-05-20 02:45:18 UTC | xiaomi.eu_multi_DITING_V14.0.23.5.15.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.15.DEV/xiaomi.eu_multi_DITING_V14.0.23.5.15.DEV_v14-13.zip/download) |
 | DITING | V14.0.23.5.8.DEV | 2023-05-13 01:18:47 UTC | xiaomi.eu_multi_DITING_V14.0.23.5.8.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.8.DEV/xiaomi.eu_multi_DITING_V14.0.23.5.8.DEV_v14-13.zip/download) |
