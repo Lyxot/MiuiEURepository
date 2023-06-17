@@ -1,0 +1,9 @@
+# HMK20ProMI9TPro
+[Weekly](#Weekly)  [Stable](#Stable)
+## Weekly
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+## Stable
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| HMK20ProMI9TPro | V11.0.8.0.QFKCNXM | 2020-03-31 15:26:15 UTC | xiaomi.eu_multi_HMK20ProMI9TPro_V11.0.8.0.QFKCNXM_v11-10.zip | 2.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HMK20ProMI9TPro_V11.0.8.0.QFKCNXM_v11-10.zip/download) |

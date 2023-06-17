@@ -1,0 +1,9 @@
+# MI8SE
+[Weekly](#Weekly)  [Stable](#Stable)
+## Weekly
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+## Stable
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| MI8SE | V11.0.3.0.QEBCNXM | 2020-05-28 05:01:52 UTC | xiaomi.eu_multi_MI8SE_V11.0.3.0.QEBCNXM_v11-10.zip | 1.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_MI8SE_V11.0.3.0.QEBCNXM_v11-10.zip/download) |

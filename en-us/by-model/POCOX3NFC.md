@@ -1,0 +1,9 @@
+# POCOX3NFC
+[Weekly](#Weekly)  [Stable](#Stable)
+## Weekly
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+## Stable
+| Model | Version | Last Updated | File Name | Size | Download Link |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| POCOX3NFC | V13.0.1.0.SJGMIXM | 2022-08-05 22:41:16 UTC | xiaomi.eu_multi_POCOX3NFC_V13.0.1.0.SJGMIXM_v13-12.zip | 3.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_POCOX3NFC_V13.0.1.0.SJGMIXM_v13-12.zip/download) |
