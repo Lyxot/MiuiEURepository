@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MIX4 | V14.0.23.6.26.DEV | 2023-06-30 23:47:48 UTC | xiaomi.eu_multi_MIX4_V14.0.23.6.26.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.26.DEV/xiaomi.eu_multi_MIX4_V14.0.23.6.26.DEV_v14-13.zip/download) |
 | MIX4 | V14.0.23.6.8.DEV | 2023-06-17 06:21:21 UTC | xiaomi.eu_multi_MIX4_V14.0.23.6.8.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.8.DEV/xiaomi.eu_multi_MIX4_V14.0.23.6.8.DEV_v14-13.zip/download) |
 | MIX4 | V14.0.23.6.5.DEV | 2023-06-10 01:30:13 UTC | xiaomi.eu_multi_MIX4_V14.0.23.6.5.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.5.DEV/xiaomi.eu_multi_MIX4_V14.0.23.6.5.DEV_v14-13.zip/download) |
 | MIX4 | V14.0.23.5.29.DEV | 2023-06-03 09:02:32 UTC | xiaomi.eu_multi_MIX4_V14.0.23.5.29.DEV_v14-13.zip | 5.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.5.29.DEV/xiaomi.eu_multi_MIX4_V14.0.23.5.29.DEV_v14-13.zip/download) |
