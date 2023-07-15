@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XM12Pro | V14.0.23.7.10.DEV | 2023-07-15 05:51:02 UTC | xiaomi.eu_multi_XM12Pro_V14.0.23.7.10.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.10.DEV/xiaomi.eu_multi_XM12Pro_V14.0.23.7.10.DEV_v14-13.zip/download) |
 | XM12Pro | V14.0.23.7.3.DEV | 2023-07-08 02:47:17 UTC | xiaomi.eu_multi_XM12Pro_V14.0.23.7.3.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.3.DEV/xiaomi.eu_multi_XM12Pro_V14.0.23.7.3.DEV_v14-13.zip/download) |
 | XM12Pro | V14.0.23.6.26.DEV | 2023-07-01 05:24:38 UTC | xiaomi.eu_multi_XM12Pro_V14.0.23.6.26.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.26.DEV/xiaomi.eu_multi_XM12Pro_V14.0.23.6.26.DEV_v14-13.zip/download) |
 | XM12Pro | V14.0.23.6.8.DEV | 2023-06-17 02:34:30 UTC | xiaomi.eu_multi_XM12Pro_V14.0.23.6.8.DEV_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.8.DEV/xiaomi.eu_multi_XM12Pro_V14.0.23.6.8.DEV_v14-13.zip/download) |

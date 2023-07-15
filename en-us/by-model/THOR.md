@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| THOR | V14.0.23.7.10.DEV | 2023-07-15 05:33:07 UTC | xiaomi.eu_multi_THOR_V14.0.23.7.10.DEV_v14-13.zip | 5.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.10.DEV/xiaomi.eu_multi_THOR_V14.0.23.7.10.DEV_v14-13.zip/download) |
 | THOR | V14.0.23.7.3.DEV | 2023-07-08 02:34:50 UTC | xiaomi.eu_multi_THOR_V14.0.23.7.3.DEV_v14-13.zip | 5.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.3.DEV/xiaomi.eu_multi_THOR_V14.0.23.7.3.DEV_v14-13.zip/download) |
 | THOR | V14.0.23.6.26.DEV | 2023-07-01 05:10:28 UTC | xiaomi.eu_multi_THOR_V14.0.23.6.26.DEV_v14-13.zip | 5.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.26.DEV/xiaomi.eu_multi_THOR_V14.0.23.6.26.DEV_v14-13.zip/download) |
 | THOR | V14.0.23.6.8.DEV | 2023-06-17 09:20:08 UTC | xiaomi.eu_multi_THOR_V14.0.23.6.8.DEV_v14-13.zip | 5.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.8.DEV/xiaomi.eu_multi_THOR_V14.0.23.6.8.DEV_v14-13.zip/download) |
