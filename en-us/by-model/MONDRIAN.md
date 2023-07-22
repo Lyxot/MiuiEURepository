@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MONDRIAN | V14.0.23.7.17.DEV | 2023-07-22 05:57:12 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.23.7.17.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.17.DEV/xiaomi.eu_multi_MONDRIAN_V14.0.23.7.17.DEV_v14-13.zip/download) |
 | MONDRIAN | V14.0.23.7.10.DEV | 2023-07-15 04:56:02 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.23.7.10.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.10.DEV/xiaomi.eu_multi_MONDRIAN_V14.0.23.7.10.DEV_v14-13.zip/download) |
 | MONDRIAN | V14.0.23.7.3.DEV | 2023-07-08 02:15:38 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.23.7.3.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.3.DEV/xiaomi.eu_multi_MONDRIAN_V14.0.23.7.3.DEV_v14-13.zip/download) |
 | MONDRIAN | V14.0.23.6.26.DEV | 2023-06-30 23:56:28 UTC | xiaomi.eu_multi_MONDRIAN_V14.0.23.6.26.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.6.26.DEV/xiaomi.eu_multi_MONDRIAN_V14.0.23.6.26.DEV_v14-13.zip/download) |
