@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| SOCRATES | V14.0.23.7.31.DEV | 2023-08-05 06:07:46 UTC | xiaomi.eu_multi_SOCRATES_V14.0.23.7.31.DEV_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.31.DEV/xiaomi.eu_multi_SOCRATES_V14.0.23.7.31.DEV_v14-13.zip/download) |
 | SOCRATES | V14.0.23.7.24.DEV | 2023-07-29 00:56:52 UTC | xiaomi.eu_multi_SOCRATES_V14.0.23.7.24.DEV_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.24.DEV/xiaomi.eu_multi_SOCRATES_V14.0.23.7.24.DEV_v14-13.zip/download) |
 | SOCRATES | V14.0.23.7.17.DEV | 2023-07-22 09:26:32 UTC | xiaomi.eu_multi_SOCRATES_V14.0.23.7.17.DEV_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.17.DEV/xiaomi.eu_multi_SOCRATES_V14.0.23.7.17.DEV_v14-13.zip/download) |
 | SOCRATES | V14.0.23.7.10.DEV | 2023-07-15 05:24:05 UTC | xiaomi.eu_multi_SOCRATES_V14.0.23.7.10.DEV_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.10.DEV/xiaomi.eu_multi_SOCRATES_V14.0.23.7.10.DEV_v14-13.zip/download) |
