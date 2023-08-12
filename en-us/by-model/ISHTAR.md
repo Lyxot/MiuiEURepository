@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| ISHTAR | V14.0.23.8.7.DEV | 2023-08-12 13:51:57 UTC | xiaomi.eu_multi_ISHTAR_V14.0.23.8.7.DEV_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.7.DEV/xiaomi.eu_multi_ISHTAR_V14.0.23.8.7.DEV_v14-13.zip/download) |
 | ISHTAR | V14.0.23.7.31.DEV | 2023-08-05 04:45:55 UTC | xiaomi.eu_multi_ISHTAR_V14.0.23.7.31.DEV_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.31.DEV/xiaomi.eu_multi_ISHTAR_V14.0.23.7.31.DEV_v14-13.zip/download) |
 | ISHTAR | V14.0.23.7.24.DEV | 2023-07-29 00:11:44 UTC | xiaomi.eu_multi_ISHTAR_V14.0.23.7.24.DEV_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.24.DEV/xiaomi.eu_multi_ISHTAR_V14.0.23.7.24.DEV_v14-13.zip/download) |
 | ISHTAR | V14.0.23.7.17.DEV | 2023-07-22 05:50:28 UTC | xiaomi.eu_multi_ISHTAR_V14.0.23.7.17.DEV_v14-13.zip | 6.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.17.DEV/xiaomi.eu_multi_ISHTAR_V14.0.23.7.17.DEV_v14-13.zip/download) |
