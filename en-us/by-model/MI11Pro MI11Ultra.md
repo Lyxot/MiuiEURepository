@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Pro MI11Ultra | V14.0.23.8.21.DEV | 2023-08-26 05:26:56 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.21.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.21.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.21.DEV_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V14.0.23.8.14.DEV | 2023-08-19 01:00:28 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.14.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.14.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.14.DEV_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V14.0.23.8.7.DEV | 2023-08-12 17:07:33 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.7.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.7.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.8.7.DEV_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V14.0.23.7.31.DEV | 2023-08-05 05:11:02 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.7.31.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.31.DEV/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.23.7.31.DEV_v14-13.zip/download) |
