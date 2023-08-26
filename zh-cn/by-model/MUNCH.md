@@ -3,6 +3,7 @@
 ## 开发版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MUNCH | V14.0.23.8.21.DEV | 2023-08-26 05:52:37 UTC | xiaomi.eu_multi_MUNCH_V14.0.23.8.21.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.21.DEV/xiaomi.eu_multi_MUNCH_V14.0.23.8.21.DEV_v14-13.zip/download) |
 | MUNCH | V14.0.23.8.14.DEV | 2023-08-19 01:19:06 UTC | xiaomi.eu_multi_MUNCH_V14.0.23.8.14.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.14.DEV/xiaomi.eu_multi_MUNCH_V14.0.23.8.14.DEV_v14-13.zip/download) |
 | MUNCH | V14.0.23.8.7.DEV | 2023-08-12 15:05:35 UTC | xiaomi.eu_multi_MUNCH_V14.0.23.8.7.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.7.DEV/xiaomi.eu_multi_MUNCH_V14.0.23.8.7.DEV_v14-13.zip/download) |
 | MUNCH | V14.0.23.7.31.DEV | 2023-08-05 05:47:38 UTC | xiaomi.eu_multi_MUNCH_V14.0.23.7.31.DEV_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.7.31.DEV/xiaomi.eu_multi_MUNCH_V14.0.23.7.31.DEV_v14-13.zip/download) |
