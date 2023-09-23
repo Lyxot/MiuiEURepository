@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| INGRES | V14.0.23.9.18.DEV | 2023-09-23 00:35:04 UTC | xiaomi.eu_multi_INGRES_V14.0.23.9.18.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.18.DEV/xiaomi.eu_multi_INGRES_V14.0.23.9.18.DEV_v14-13.zip/download) |
 | INGRES | V14.0.23.9.11.DEV | 2023-09-16 03:30:50 UTC | xiaomi.eu_multi_INGRES_V14.0.23.9.11.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.11.DEV/xiaomi.eu_multi_INGRES_V14.0.23.9.11.DEV_v14-13.zip/download) |
 | INGRES | V14.0.23.9.4.DEV | 2023-09-09 04:26:22 UTC | xiaomi.eu_multi_INGRES_V14.0.23.9.4.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.4.DEV/xiaomi.eu_multi_INGRES_V14.0.23.9.4.DEV_v14-13.zip/download) |
 | INGRES | V14.0.23.8.28.DEV | 2023-09-01 16:43:41 UTC | xiaomi.eu_multi_INGRES_V14.0.23.8.28.DEV_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.8.28.DEV/xiaomi.eu_multi_INGRES_V14.0.23.8.28.DEV_v14-13.zip/download) |
