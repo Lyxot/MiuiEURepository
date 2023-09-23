@@ -6,6 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| XMCivi | V14.0.6.0.TKVCNXM | 2023-09-23 19:48:27 UTC | xiaomi.eu_multi_XMCivi_V14.0.6.0.TKVCNXM_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XMCivi_V14.0.6.0.TKVCNXM_v14-13.zip/download) |
 | XMCivi | V14.0.4.0.TKVCNXM | 2023-06-17 15:49:13 UTC | xiaomi.eu_multi_XMCivi_V14.0.4.0.TKVCNXM_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XMCivi_V14.0.4.0.TKVCNXM_v14-13.zip/download) |
 | XMCivi | V14.0.2.0.TKVCNXM | 2023-02-26 08:46:50 UTC | xiaomi.eu_multi_XMCivi_V14.0.2.0.TKVCNXM_v14-13.zip | 4.9 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_XMCivi_V14.0.2.0.TKVCNXM_v14-13.zip/download) |
 | XMCivi | V13.0.6.0.SKVCNXM | 2022-09-01 13:44:16 UTC | xiaomi.eu_multi_XMCivi_V13.0.6.0.SKVCNXM_v13-12-fastboot.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_XMCivi_V13.0.6.0.SKVCNXM_v13-12-fastboot.zip/download) |
