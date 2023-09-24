@@ -29,6 +29,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Pro MI11Ultra | V14.0.11.0.TKACNXM | 2023-09-24 07:51:30 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.11.0.TKACNXM_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.11.0.TKACNXM_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V14.0.9.0.TKACNXM | 2023-05-29 10:37:51 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.9.0.TKACNXM_v14-13.zip | 5.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.9.0.TKACNXM_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V14.0.6.0.TKACNXM | 2023-01-16 16:13:16 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.6.0.TKACNXM_v14-13.zip | 4.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Pro_MI11Ultra_V14.0.6.0.TKACNXM_v14-13.zip/download) |
 | MI11Pro MI11Ultra | V13.0.13.0.SKACNXM | 2022-08-05 05:41:17 UTC | xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.13.0.SKACNXM_v13-12.zip | 4.1 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Pro_MI11Ultra_V13.0.13.0.SKACNXM_v13-12.zip/download) |
