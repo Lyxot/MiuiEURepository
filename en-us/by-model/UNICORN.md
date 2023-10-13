@@ -3,6 +3,7 @@
 ## Weekly
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| UNICORN | V14.0.23.10.8.DEV | 2023-10-13 18:53:48 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.10.8.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.10.8.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.10.8.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.23.9.18.DEV | 2023-09-23 01:31:54 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.9.18.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.18.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.9.18.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.23.9.11.DEV | 2023-09-16 04:35:57 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.9.11.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.11.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.9.11.DEV_v14-13.zip/download) |
 | UNICORN | V14.0.23.9.4.DEV | 2023-09-09 05:32:35 UTC | xiaomi.eu_multi_UNICORN_V14.0.23.9.4.DEV_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-WEEKLY-RELEASES/V14.0.23.9.4.DEV/xiaomi.eu_multi_UNICORN_V14.0.23.9.4.DEV_v14-13.zip/download) |
