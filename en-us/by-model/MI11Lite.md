@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| MI11Lite | V14.0.4.0.TKQMIXM | 2023-11-01 20:12:47 UTC | xiaomi.eu_multi_MI11Lite_V14.0.4.0.TKQMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite_V14.0.4.0.TKQMIXM_v14-13.zip/download) |
 | MI11Lite | V14.0.3.0.TKQMIXM | 2023-06-03 10:30:55 UTC | xiaomi.eu_multi_MI11Lite_V14.0.3.0.TKQMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite_V14.0.3.0.TKQMIXM_v14-13.zip/download) |
 | MI11Lite | V14.0.2.0.TKQMIXM | 2023-03-11 13:41:45 UTC | xiaomi.eu_multi_MI11Lite_V14.0.2.0.TKQMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_MI11Lite_V14.0.2.0.TKQMIXM_v14-13.zip/download) |
 | MI11Lite | V13.0.11.0.SKQMIXM | 2023-02-01 16:29:11 UTC | xiaomi.eu_multi_MI11Lite_V13.0.11.0.SKQMIXM_v13-12.zip | 3.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_MI11Lite_V13.0.11.0.SKQMIXM_v13-12.zip/download) |
