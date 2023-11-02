@@ -6,6 +6,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| HMNote10Pro | V14.0.8.0.TKFMIXM | 2023-11-02 01:39:03 UTC | xiaomi.eu_multi_HMNote10Pro_V14.0.8.0.TKFMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10Pro_V14.0.8.0.TKFMIXM_v14-13.zip/download) |
 | HMNote10Pro | V14.0.7.0.TKFMIXM | 2023-10-13 22:15:52 UTC | xiaomi.eu_multi_HMNote10Pro_V14.0.7.0.TKFMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10Pro_V14.0.7.0.TKFMIXM_v14-13.zip/download) |
 | HMNote10Pro | V14.0.4.0.TKFMIXM | 2023-07-19 19:00:47 UTC | xiaomi.eu_multi_HMNote10Pro_V14.0.4.0.TKFMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10Pro_V14.0.4.0.TKFMIXM_v14-13.zip/download) |
 | HMNote10Pro | V14.0.2.0.TKFMIXM | 2023-04-27 14:45:02 UTC | xiaomi.eu_multi_HMNote10Pro_V14.0.2.0.TKFMIXM_v14-13.zip | 4.0 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10Pro_V14.0.2.0.TKFMIXM_v14-13.zip/download) |
