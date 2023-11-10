@@ -28,6 +28,6 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| SOCRATES | V14.0.25.0.TMKCNXM | 2023-11-05 15:07:20 UTC | xiaomi.eu_multi_SOCRATES_V14.0.25.0.TMKCNXM_v14-13.zip | 5.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_SOCRATES_V14.0.25.0.TMKCNXM_v14-13.zip/download) |
+| SOCRATES | V14.0.25.0.TMKCNXM | 2023-11-09 05:57:59 UTC | xiaomi.eu_multi_SOCRATES_V14.0.25.0.TMKCNXM_v14-13.zip | 5.7 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_SOCRATES_V14.0.25.0.TMKCNXM_v14-13.zip/download) |
 | SOCRATES | V14.0.24.0.TMKCNXM | 2023-08-10 10:13:32 UTC | xiaomi.eu_multi_SOCRATES_V14.0.24.0.TMKCNXM_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_SOCRATES_V14.0.24.0.TMKCNXM_v14-13.zip/download) |
 | SOCRATES | V14.0.23.0.TMKCNXM | 2023-04-01 15:54:38 UTC | xiaomi.eu_multi_SOCRATES_V14.0.23.0.TMKCNXM_v14-13.zip | 5.8 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_SOCRATES_V14.0.23.0.TMKCNXM_v14-13.zip/download) |
