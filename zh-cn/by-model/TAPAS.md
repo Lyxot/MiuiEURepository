@@ -6,7 +6,7 @@
 ## 稳定版
 | 机型 | 版本 | 更新日期 | 文件名 | 大小 | 下载链接 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| TAPAS | V14.0.14.0.TMTMIXM | 2023-09-23 20:09:44 UTC | xiaomi.eu_multi_TAPAS_V14.0.14.0.TMTMIXM_v14-13.zip | 4.5 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_TAPAS_V14.0.14.0.TMTMIXM_v14-13.zip/download) |
+| TAPAS | V14.0.14.0.TMTMIXM | 2023-11-10 20:36:02 UTC | xiaomi.eu_multi_TAPAS_V14.0.14.0.TMTMIXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_TAPAS_V14.0.14.0.TMTMIXM_v14-13.zip/download) |
 | TAPAS | V14.0.12.0.TMTMIXM | 2023-07-20 03:59:35 UTC | xiaomi.eu_multi_TAPAS_V14.0.12.0.TMTMIXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_TAPAS_V14.0.12.0.TMTMIXM_v14-13.zip/download) |
 | TAPAS | V14.0.11.0.TMTMIXM | 2023-07-09 14:17:02 UTC | xiaomi.eu_multi_TAPAS_V14.0.11.0.TMTMIXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_TAPAS_V14.0.11.0.TMTMIXM_v14-13.zip/download) |
 | TAPAS | V14.0.9.0.TMTMIXM | 2023-06-11 10:26:22 UTC | xiaomi.eu_multi_TAPAS_V14.0.9.0.TMTMIXM_v14-13.zip | 4.4 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_TAPAS_V14.0.9.0.TMTMIXM_v14-13.zip/download) |
