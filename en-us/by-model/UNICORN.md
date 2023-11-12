@@ -31,7 +31,7 @@
 ## Stable
 | Model | Version | Last Updated | File Name | Size | Download Link |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| UNICORN | V14.0.10.0.TLECNXM | 2023-09-25 15:56:41 UTC | xiaomi.eu_multi_UNICORN_V14.0.10.0.TLECNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_UNICORN_V14.0.10.0.TLECNXM_v14-13.zip/download) |
+| UNICORN | V14.0.10.0.TLECNXM | 2023-11-11 01:27:03 UTC | xiaomi.eu_multi_UNICORN_V14.0.10.0.TLECNXM_v14-13.zip | 5.2 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_UNICORN_V14.0.10.0.TLECNXM_v14-13.zip/download) |
 | UNICORN | V14.0.9.0.TLECNXM | 2023-07-08 16:40:51 UTC | xiaomi.eu_multi_UNICORN_V14.0.9.0.TLECNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_UNICORN_V14.0.9.0.TLECNXM_v14-13.zip/download) |
 | UNICORN | V14.0.8.2.TLECNXM | 2023-05-19 18:59:56 UTC | xiaomi.eu_multi_UNICORN_V14.0.8.2.TLECNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_UNICORN_V14.0.8.2.TLECNXM_v14-13.zip/download) |
 | UNICORN | V14.0.8.0.TLECNXM | 2023-04-08 23:13:14 UTC | xiaomi.eu_multi_UNICORN_V14.0.8.0.TLECNXM_v14-13.zip | 5.3 GB | [SourceForge](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_UNICORN_V14.0.8.0.TLECNXM_v14-13.zip/download) |
